@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[arsalan-math-notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>arsalan-math-notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 04 Dec 2025 13:11:15 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 04 Dec 2025 13:10:23 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[نقشه-راه]]></title><description><![CDATA[زیربنای منطقی و مفاهیم اولیه.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[arsalan-math-notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>arsalan-math-notes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 07 Dec 2025 06:25:23 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 07 Dec 2025 06:24:11 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[نقشه-راه]]></title><description><![CDATA[زیربنای منطقی و مفاهیم اولیه.
 <a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a> (ابزار اصلی اثبات‌ها)
 <br><a data-href="تعریف-اپسیلونی-صفر" href="01-concepts/یکشنبه-هفته-سوم/تعریف-اپسیلونی-صفر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-اپسیلونی-صفر</a> (مفهوم بی‌نهایت کوچک)
 <br><a data-href="تابع-فرد" href="01-concepts/یکشنبه-هفته-سوم/تابع-فرد.html" class="internal-link" target="_self" rel="noopener nofollow">تابع-فرد</a> (ویژگی تقارن) <br><a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a> ()
@@ -7,13 +7,18 @@
 <br><a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>
 <br><a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a> (رابطه حد و دنباله)
 <br><a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a> (ساندویچ)
-<br><a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a> (مثال نقض معروف) <br><a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>
+<br><a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a> (مثال نقض معروف)
+<br><a data-href="محک-مفاهیم-جزوه-حد-پیوستگی" href="03-practice/testing-concepts/محک-مفاهیم-جزوه-حد-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">محک-مفاهیم-جزوه-حد-پیوستگی</a> (هوش مصنوعی)
+<br><a data-href="مسئله-حد-و-پیوستگی" href="03-practice/ai/مسئله-حد-و-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">مسئله-حد-و-پیوستگی</a> (هوش مصنوعی) <br><a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>
 <br><a data-href="اثبات-یکتایی-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/اثبات-یکتایی-حد.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-یکتایی-حد</a>
 <br><a data-href="سوپریموم-و-اینفیموم" href="01-concepts/سه‌شنبه-هفته-سوم/سوپریموم-و-اینفیموم.html" class="internal-link" target="_self" rel="noopener nofollow">سوپریموم-و-اینفیموم</a> (کران‌های دقیق)
 <br><a data-href="تعریف-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/تعریف-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-زیردنباله</a>
 <br><a data-href="قضیه-همگرایی-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-زیردنباله</a>
-<br><a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a> (شرط صعودی و کراندار) <br><a data-href="معادله-کوشی-پیوستگی" href="01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">معادله-کوشی-پیوستگی</a> (انتشار پیوستگی از صفر)
+<br><a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a> (شرط صعودی و کراندار)
+<br><a data-href="مسئله دنباله ها" href="03-practice/ai/مسئله-دنباله-ها.html" class="internal-link" target="_self" rel="noopener nofollow">مسئله دنباله ها</a> (هوش مصنوعی) <br><a data-href="معادله کوشی پیوستگی" href="01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">معادله کوشی پیوستگی</a> (انتشار پیوستگی از صفر)
 <br><a data-href="حل-کامل-معادله-کوشی" href="01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-کامل-معادله-کوشی</a> (اثبات ۴ مرحله‌ای)
+<br><a data-href="حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)" href="05-questions/ai/حل-کامل-معادله-تابعی-کوشی-و-توضیح-معادله-تابعی-کوشی-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)</a>
+<br><a data-href="مسئله های معادلات تابعی و موارد اضافه تر هوش مصنوعی" href="03-practice/ai/مسئله-های-معادلات-تابعی-و-موارد-اضافه-تر-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">مسئله های معادلات تابعی و موارد اضافه تر هوش مصنوعی</a> (از مباحث قبلی فصل هم اینجا مسئله های سخت طرح شده که مسئله مشابهش رو در فصل تمرین های سخت می‌بینیم)
 ابزارهای تغییر، نرخ رشد و هندسه هذلولی.
 <br><a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>
 <br><a data-href="تقریب-خطی-و-دیفرانسیل" href="01-concepts/شنبه-یکشنبه-هفته-پنجم/تقریب-خطی-و-دیفرانسیل.html" class="internal-link" target="_self" rel="noopener nofollow">تقریب-خطی-و-دیفرانسیل</a>
@@ -22,64 +27,960 @@
 <br><a data-href="توابع-برداری" href="01-concepts/شنبه-یکشنبه-هفته-پنجم/توابع-برداری.html" class="internal-link" target="_self" rel="noopener nofollow">توابع-برداری</a> (حد و مشتق برداری) <br><a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a> (به عنوان حد دنباله)
 <br><a data-href="اثبات-مشتق-نمایی" href="01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-نمایی.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-مشتق-نمایی</a> ()
 <br><a data-href="اثبات-مشتق-لگاریتم" href="01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-لگاریتم.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-مشتق-لگاریتم</a> ()
-<br><a data-href="قاعده-هوپیتال" href="01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html" class="internal-link" target="_self" rel="noopener nofollow">قاعده-هوپیتال</a> (رفع ابهام کسرها) <br><a data-href="معرفی-توابع-هایپربولیک" href="01-concepts/سه‌شنبه-هفته-چهارم/معرفی-توابع-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">معرفی-توابع-هایپربولیک</a> ()
+<br><a data-href="قاعده هوپیتال" href="01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html" class="internal-link" target="_self" rel="noopener nofollow">قاعده هوپیتال</a> (رفع ابهام کسرها) <br><a data-href="معرفی-توابع-هایپربولیک" href="01-concepts/سه‌شنبه-هفته-چهارم/معرفی-توابع-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">معرفی-توابع-هایپربولیک</a> ()
 <br><a data-href="پارامتری-دایره-و-هذلولی" href="01-concepts/پنجشنبه-هفته-چهارم/پارامتری-دایره-و-هذلولی.html" class="internal-link" target="_self" rel="noopener nofollow">پارامتری-دایره-و-هذلولی</a> (مقایسه بنیادی)
 <br><a data-href="نمودار-و-خواص-هایپربولیک" href="01-concepts/پنجشنبه-هفته-چهارم/نمودار-و-خواص-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">نمودار-و-خواص-هایپربولیک</a>
 <br><a data-href="اتحاد-اساسی-هایپربولیک" href="01-concepts/سه‌شنبه-هفته-چهارم/اتحاد-اساسی-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">اتحاد-اساسی-هایپربولیک</a> (اثبات فرمول)
 <br><a data-href="زوج-و-فرد-بودن-هایپربولیک" href="01-concepts/سه‌شنبه-هفته-چهارم/زوج-و-فرد-بودن-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">زوج-و-فرد-بودن-هایپربولیک</a>
 <br><a data-href="مشتق-توابع-هایپربولیک" href="01-concepts/پنجشنبه-هفته-چهارم/مشتق-توابع-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">مشتق-توابع-هایپربولیک</a>
-<br><a data-href="معکوس-سینوس-هایپربولیک" href="01-concepts/پنجشنبه-هفته-چهارم/معکوس-سینوس-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">معکوس-سینوس-هایپربولیک</a> (اثبات فرمول لگاریتمی)
+<br><a data-href="اثبات معکوس سینوس هایپربولیک و فرد بودنش" href="01-concepts/پنجشنبه-هفته-چهارم/اثبات-معکوس-سینوس-هایپربولیک-و-فرد-بودنش.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات معکوس سینوس هایپربولیک و فرد بودنش</a> (اثبات فرمول لگاریتمی)
 قلب تپنده آنالیز ریاضی.
 <br><a data-href="قضیه-رول" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-رول.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-رول</a> (شیب صفر)
-<br><a data-href="قضیه-مقدار-میانگین" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-مقدار-میانگین</a> (MVT)
-<br><a data-href="قضیه-مقدار-میانگین-کوشی" href="01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-مقدار-میانگین-کوشی</a> (تعمیم MVT)
+<br><a data-href="قضیه مقدار میانگین" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانگین</a> (MVT)
+<br><a data-href="قضیه مقدار میانگین کوشی" href="01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانگین کوشی</a> (تعمیم MVT)
 مسائل چالشی، اثبات‌های سنگین و سوالات احتمالی امتحان.
 <br><a data-href="حد-یک-به-توان-بینهایت" href="01-concepts/یکشنبه-هفته-چهارم/حد-یک-به-توان-بینهایت.html" class="internal-link" target="_self" rel="noopener nofollow">حد-یک-به-توان-بینهایت</a> (تکنیک‌های پایه)
 <br><a data-href="رفع-ابهام-توان-دار" href="01-concepts/دوشنبه-هفته-چهارم/رفع-ابهام-توان-دار.html" class="internal-link" target="_self" rel="noopener nofollow">رفع-ابهام-توان-دار</a> (استراتژی لگاریتم‌گیری)
 <br><a data-href="رفع-ابهام-های-سخت" href="01-concepts/شنبه-هفته-ششم/رفع-ابهام-های-سخت.html" class="internal-link" target="_self" rel="noopener nofollow">رفع-ابهام-های-سخت</a> (مثال‌های )
 <br><a data-href="حل-مسئله-حد-پیچیده" href="01-concepts/پنجشنبه-هفته-چهارم/حل-مسئله-حد-پیچیده.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-حد-پیچیده</a> (ترکیب رادیکال و مثلثات) <br><a data-href="حل-مسئله-نقطه-ثابت" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/حل-مسئله-نقطه-ثابت.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-نقطه-ثابت</a> (کاربرد IVT)
-<br><a data-href="قضیه-مقدار-میانی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-مقدار-میانی</a> (IVT)
+<br><a data-href="قضیه مقدار میانی (IVT)" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی-(ivt).html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانی (IVT)</a> (IVT)
 <br><a data-href="توابع-کمکی-در-رول" href="01-concepts/سه‌شنبه-هفته-پنجم/توابع-کمکی-در-رول.html" class="internal-link" target="_self" rel="noopener nofollow">توابع-کمکی-در-رول</a> (مهندسی معکوس توابع)
 <br><a data-href="اثبات-نامساوی-با-MVT" href="01-concepts/سه‌شنبه-هفته-پنجم/اثبات-نامساوی-با-mvt.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-نامساوی-با-MVT</a> (لگاریتمی و نمایی)
 <br><a data-href="مسائل-پیشرفته-MVT" href="01-concepts/سه‌شنبه-هفته-پنجم/مسائل-پیشرفته-mvt.html" class="internal-link" target="_self" rel="noopener nofollow">مسائل-پیشرفته-MVT</a> (لیپشیتز و کتانژانت)
-<br><a data-href="حل-مسئله-قضیه-کوشی" href="01-concepts/شنبه-هفته-ششم/حل-مسئله-قضیه-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-قضیه-کوشی</a> (یافتن ) <br><a data-href="حل-مسئله-دنباله-بازگشتی" href="01-concepts/دوشنبه-هفته-سوم/حل-مسئله-دنباله-بازگشتی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-دنباله-بازگشتی</a> (همگرایی رادیکالی) مرور فصل ۱ (مفاهیم پایه)
+<br><a data-href="حل-مسئله-قضیه-کوشی" href="01-concepts/شنبه-هفته-ششم/حل-مسئله-قضیه-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-قضیه-کوشی</a> (یافتن ) <br><a data-href="حل-مسئله-دنباله-بازگشتی" href="01-concepts/دوشنبه-هفته-سوم/حل-مسئله-دنباله-بازگشتی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-مسئله-دنباله-بازگشتی</a> (همگرایی رادیکالی) <br><a data-href="حل تشریحی میانترم اول سال 1403 سعادتی" href="03-practice/exams/حل-تشریحی-میانترم-اول-سال-1403-سعادتی.html" class="internal-link" target="_self" rel="noopener nofollow">حل تشریحی میانترم اول سال 1403 سعادتی</a> مرور فصل ۱ (مفاهیم پایه)
 تسلط بر اثبات‌های فصل ۲ (مشتق‌ها و هایپربولیک)
 حل مجدد تمرین‌های فصل ۳ (بدون نگاه کردن به جواب)
-]]></description><link>00-mocs/نقشه-راه.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/00 MOCs/نقشه-راه.md</guid><pubDate>Thu, 04 Dec 2025 09:28:33 GMT</pubDate></item><item><title><![CDATA[ملاک-دنباله‌ای-پیوستگی]]></title><description><![CDATA[خلاصه سریع
-این قضیه پلی است بین توابع پیوسته و دنباله‌ها. می‌گوید پیوستگی یعنی "حفظ همگرایی".
-تابع در نقطه پیوسته است اگر و تنها اگر:
-برای هر دنباله در دامنه که به همگراست ()، دنباله تصاویر نیز به همگرا باشد ().
-اثبات ناپیوستگی: اگر فقط یک دنباله پیدا کنید که ولی ، ناپیوستگی ثابت می‌شود.
-حد توابع عجیب: برای محاسبه حد توابعی که داخلشان دنباله دارند، بسیار مفید است.
-از روی جزوه های دیگه بخوندیش.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/ملاک-دنباله‌ای-پیوستگی.md</guid><pubDate>Wed, 03 Dec 2025 18:16:53 GMT</pubDate></item><item><title><![CDATA[نمودار-و-خواص-هایپربولیک]]></title><description><![CDATA[<img alt="cosh(x).jpg" src="04-sources/pictures/plots/cosh(x).jpg" target="_self">
+]]></description><link>00-mocs/نقشه-راه.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/00 MOCs/نقشه-راه.md</guid><pubDate>Sun, 07 Dec 2025 05:47:27 GMT</pubDate></item><item><title><![CDATA[حل تشریحی میانترم اول سال 1403 سعادتی]]></title><description><![CDATA[استراتژی مرور
+این سوالات عصاره‌ی تفکر استاد شماست. سوالات ۱ و ۲ و ۵ کاملاً تحلیلی (اثبات کردنی) هستند و سوالات ۳ و ۶ تکنیکی. روی سوال ۵ (حد مجموع) دقت ویژه‌ای داشته باشید چون پرتکرار است.
+صورت سوال
+فرض کنید یک تابع پیوسته بر بازه بوده و باشد. نشان دهید که عددی مانند در بازه وجود دارد به طوری که .
+پاسخ تشریحی
+تحلیل: هرگاه در سوالات پیوستگی صحبت از برابری دو مقدار شد، باید تمام عبارات را به یک طرف ببرید و یک تابع کمکی (Auxiliary Function) بسازید تا ریشه‌یابی کنید.
+گام ۱: تعریف تابع کمکی
+تابعی تعریف می‌کنیم که صفر شدن آن، همان حکم مسئله باشد:
+دامنه این تابع باید طوری باشد که ورودی‌ها از بیرون نزنند. پس .
+چون پیوسته است، تفاضل آن‌ها یعنی نیز پیوسته است.
+گام ۲: بررسی نقاط مرزی مقدار در : مقدار در : گام ۳: استفاده از فرض مسئله
+طبق فرض . پس در خط بالا جای ، مقدار را می‌گذاریم: گام ۴: نتیجه‌گیری با IVT
+دقت کنید که و قرینه یکدیگرند: حالت اول: اگر باشد، مسئله حل شده است ().
+حالت دوم: اگر ، پس یکی مثبت و دیگری منفی است. طبق قضیه مقدار میانی (IVT)، چون تابع پیوسته است و تغییر علامت داده، حتماً ریشه‌ای مثل بین آنها دارد که . صورت سوال
+اگر مشتق‌پذیر باشد و و تابعی نزولی باشد، ثابت کنید نیز بر نزولی است.
+پاسخ تشریحی (بسیار مهم)
+تحلیل: برای اثبات نزولی بودن ، باید نشان دهیم مشتق آن منفی است.
+گام ۱: محاسبه مشتق چون مخرج () همواره مثبت است، علامت کسر به علامت صورت بستگی دارد. باید ثابت کنیم صورت کسر منفی است: گام ۲: استفاده از قضیه میانگین (MVT)
+تابع را روی بازه در نظر می‌گیریم. طبق MVT، عددی مثل در بازه وجود دارد که:
+چون : گام ۳: استفاده از نزولی بودن می‌دانیم .
+چون تابع نزولی است، جهت نامساوی برای ورودی‌های بزرگتر برعکس می‌شود: گام ۴: جایگذاری و نتیجه نهایی
+در رابطه گام ۲ ()، طرفین نامساوی بالا را در (که مثبت است) ضرب می‌کنیم: چون صورت کسر مشتق همواره منفی شد، پس تابع اکیداً نزولی است. صورت سوال
+الف) ب) پاسخ تشریحی
+الف) حد توانی ()
+فرض کنیم حد باشد. از طرفین می‌گیریم یا از فرمول استفاده می‌کنیم:
+این حد به صورت است. را به مخرج می‌بریم ():
+اکنون ابهام داریم. از هوپیتال استفاده می‌کنیم.
+(مشتق صورت: که . مشتق خود می‌شود ).
+وقتی ، مقدار . پس مخرج بی‌نهایت و کل کسر صفر می‌شود.
+جواب نهایی: . ب) حد براکتی (قضیه فشردگی)
+نکته کلیدی: .
+قرار می‌دهیم :
+طرفین را در (که مثبت است چون ) ضرب می‌کنیم:
+حد سمت چپ وقتی برابر ۱ است. حد سمت راست هم ۱ است.
+طبق قضیه فشردگی، حد برابر ۱ است.
+صورت سوال
+نقاط پیوسته و ناپیوسته تابع زیر را مشخص کنید: پاسخ تشریحی
+۱. بررسی پیوستگی در (نقطه اتصال): حد راست ():
+با استفاده از ساندویچ برای جزء صحیح:
+حد طرفین صفر است . حد چپ ():
+چون کسینوس کراندار است () و در (که به صفر می‌رود) ضرب شده:
+طبق فشردگی حد صفر است . نتیجه: حد چپ = حد راست = مقدار تابع (۰). پس تابع در پیوسته است. ۲. بررسی نقاط : ضابطه : ترکیب توابع پیوسته ( و ) است، پس همه‌جا پیوسته است.
+ضابطه : تابع .
+تابع جزء صحیح در نقاطی که داخلش صحیح شود، ناپیوسته است (پرش دارد).
+در نقاط تابع ناپیوسته است. ضربدر (که در این نقاط غیرصفر است) ناپیوستگی را رفع نمی‌کند. جمع‌بندی: تابع در تمام پیوسته است بجز نقاط به فرم برای .
+صورت مسئله
+با استفاده از تعریف دقیق حد ثابت کنید:
+نکته انحرافی: چون می‌تواند خیلی به صفر نزدیک باشد، انتخاب ثابت (مثلاً ) غلط است چون ممکن است بازه همسایگی، صفر را قطع کند و تابع تعریف نشود. باید تابعی از باشد.
+پاسخ تشریحی
+گام ۱: ساده‌سازی عبارت تفاضل
+هدف ما این است که را کوچکتر از کنیم.
+چون است، . پس: گام ۲: کران‌داری (کنترل مخرج)
+مشکل اصلی در مخرج است. باید را از صفر دور نگه داریم (Lower Bound).
+نمی‌توانیم بگوییم ، چون شاید باشد و همسایگی شعاع ۱ شامل صفر شود.
+تکنیک: شعاع همسایگی را "نصف " در نظر می‌گیریم.
+۱. فرض اولیه: .
+۲. محدود کردن : با اضافه کردن :
+۳. کران برای عامل مزاحم:
+چون ، پس معکوس آن .
+بنابراین عامل مزاحم: گام ۳: یافتن نهایی
+نامساوی اصلی:
+می‌خواهیم این مقدار کمتر از باشد: انتخاب نهایی: گام ۴: اثبات رسمی
+برای هر ، دلتای فوق را انتخاب می‌کنیم. اگر :
+۱. چون ، پس و در نتیجه .
+۲. طبق محاسبات: صورت سوال
+الف) رابطه را برای ثابت کنید.
+ب) به کمک نامساوی قسمت الف حد را بیابید.
+پاسخ تشریحی
+الف) اثبات نامساوی (با مشتق) سمت راست ():
+فرض کنید .
+. چون ، مشتق مثبت است صعودی است.
+.
+سمت چپ ():
+فرض کنید .
+.
+پس صعودی است و . ب) محاسبه حد حاصل‌ضرب
+حد را می‌نامیم. برای تبدیل ضرب به جمع، از استفاده می‌کنیم:
+در نامساوی قسمت (الف)، را برابر قرار می‌دهیم: حالا از طرفین روی تا سیگما () می‌گیریم:
+۱. کران بالا (Sum Right): ۲. کران پایین (Sum Left):
+جمله دوم از مرتبه است که حدش صفر می‌شود.
+پس کران پایین هم به میل می‌کند.
+نتیجه:
+طبق فشردگی، . صورت سوال
+مشتق عبارت را بدست آورید.
+پاسخ تشریحی
+نکته: دقت کنید که یعنی .
+از طرفین لگاریتم طبیعی می‌گیریم: مشتق می‌گیریم (نسبت به ): محاسبه مشتق کمکی :
+فرض کنید . باز هم لگاریتم می‌گیریم: . جایگذاری در رابطه اصلی: ]]></description><link>03-practice/exams/حل-تشریحی-میانترم-اول-سال-1403-سعادتی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/03 Practice/Exams/حل تشریحی میانترم اول سال 1403 سعادتی.md</guid><pubDate>Sun, 07 Dec 2025 05:46:14 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-قضیه-کوشی]]></title><description><![CDATA[مقدار قضیه کوشی را برای توابع زیر در بازه بیابید:
+۱. محاسبه مقادیر دو سر بازه: سمت چپ فرمول: .
+۲. محاسبه مشتق‌ها: سمت راست فرمول: .
+۳. حل معادله:
+۴. ریشه‌یابی و انتخاب:
+ریشه‌های معادله درجه دو: .
+چون باید در بازه باشد، مقدار منفی رد می‌شود.
+جواب نهایی: .]]></description><link>01-concepts/شنبه-هفته-ششم/حل-مسئله-قضیه-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/حل-مسئله-قضیه-کوشی.md</guid><pubDate>Sat, 06 Dec 2025 18:50:41 GMT</pubDate></item><item><title><![CDATA[مسائل-پیشرفته-MVT]]></title><description><![CDATA[سوال: اگر ، ثابت کنید .اثبات:
+طبق MVT: .
+باید ماکزیمم را پیدا کنیم: از اتحاد نتیجه می‌شود یا .
+پس ضریب تغییرات حداکثر است. سوال: برای ثابت کنید .اثبات:
+تابع: روی .
+MVT:
+(دقت کنید ).
+تحلیل بازه:
+در بازه ، تابع نزولی و منفی است.
+چون : نتیجه:
+با جایگذاری و ضرب در مخرج مثبت ، حکم ثابت می‌شود. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/مسائل-پیشرفته-mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/مسائل-پیشرفته-MVT.md</guid><pubDate>Sat, 06 Dec 2025 18:40:22 GMT</pubDate></item><item><title><![CDATA[اثبات-نامساوی-با-MVT]]></title><description><![CDATA[الگو
+برای اثبات ، معمولاً باید عبارت وسط را به صورت ببینیم و از MVT برای تبدیل آن به استفاده کنیم.
+سوال: اگر ، ثابت کنید:
+حل گام‌به‌گام:
+۱. انتخاب تابع: شکل لگاریتمی مسئله ساده‌تر است. لگاریتم می‌گیریم: یا با چیدمان دیگر: <a data-href="توضیح بیشتر مسيله نامساوی اثبات با MVT هوش مصنوعی" href="05-questions/ai/توضیح-بیشتر-مسيله-نامساوی-اثبات-با-mvt-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح بیشتر مسيله نامساوی اثبات با MVT هوش مصنوعی</a> پس تابع روی مناسب است.۲. اعمال MVT:
+۳. استفاده از نامساوی :
+چون ، معکوس آن‌ها:
+۴. جایگذاری: با ضرب در و مرتب‌سازی، به حکم مسئله می‌رسیم. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/اثبات-نامساوی-با-mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/اثبات-نامساوی-با-MVT.md</guid><pubDate>Sat, 06 Dec 2025 18:30:50 GMT</pubDate></item><item><title><![CDATA[توضیح بیشتر مسيله نامساوی اثبات با MVT هوش مصنوعی]]></title><description><![CDATA[<a data-href="اثبات-نامساوی-با-MVT" href="01-concepts/سه‌شنبه-هفته-پنجم/اثبات-نامساوی-با-mvt.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-نامساوی-با-MVT</a>
+این بخش «چیدمان دیگر» یا بازنویسی نامساوی، در واقع پل ارتباطی بین جبر و حساب دیفرانسیل (مشتق و انتگرال) است. بیایید دقیقاً ببینیم چطور از خط اول به خط دوم رسیده‌ایم و چرا این کار را کرده‌ایم.ما از این نامساوی شروع کردیم:
+برای رسیدن به فرم جدید، دو کار انجام می‌دهیم:الف) باز کردن لگاریتم:
+طبق خواص لگاریتم می‌دانیم که لگاریتم تقسیم، تبدیل به تفریق می‌شود: .
+پس نامساوی می‌شود:
+ب) تقسیم کردن طرفین:
+حالا باید نامساوی را به دو تکه جداگانه بشکنیم و هر کدام را ساده کنیم: تکه سمت چپ:
+طرفین را بر (که عددی مثبت است) تقسیم می‌کنیم:
+(این بخش سمت راست نامساوی نهایی را ساخت) تکه سمت راست:
+طرفین را بر (که عددی مثبت است) تقسیم می‌کنیم:
+(این بخش سمت چپ نامساوی نهایی را ساخت) وقتی این دو نتیجه را کنار هم بگذاریم، به همان چیدمان مورد نظر می‌رسیم:
+این فرمت جدید بسیار ارزشمندتر است چون دقیقاً مفهوم انتگرال (مساحت زیر نمودار) را نشان می‌دهد.فرض کنید تابع را داریم. می‌دانیم که انتگرال (مساحت زیر نمودار) این تابع از تا برابر است با .این نامساوی می‌گوید:
+حد پایین (): مساحت مستطیل کوچکی است که ارتفاعش کمترین مقدار تابع در بازه (یعنی ) و عرضش طول بازه () است.
+حد بالا (): مساحت مستطیل بزرگی است که ارتفاعش بیشترین مقدار تابع در بازه (یعنی ) و عرضش طول بازه () است.
+در واقع این چیدمان ثابت می‌کند که مساحت واقعی زیر نمودار (وسط)، همیشه بین مساحت مستطیل محاطی (چپ) و مستطیل محیطی (راست) قرار دارد.آیا می‌خواهید اثبات این نامساوی را با استفاده از قضیه مقدار میانگین (MVT) هم ببینید که روش سریع‌تری است؟]]></description><link>05-questions/ai/توضیح-بیشتر-مسيله-نامساوی-اثبات-با-mvt-هوش-مصنوعی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح بیشتر مسيله نامساوی اثبات با MVT هوش مصنوعی.md</guid><pubDate>Sat, 06 Dec 2025 18:24:51 GMT</pubDate></item><item><title><![CDATA[توابع-کمکی-در-رول]]></title><description><![CDATA[استراتژی حل
+در مسائلی که می‌خواهند وجود یک با خاصیت عجیب را ثابت کنید، باید حکمی که داده‌اند را مهندسی معکوس کنید تا به تابع اولیه () برسید که مشتقش صفر شده است.
+صورت سوال: اگر ، ثابت کنید .راه حل تشریحی:
+مرتب‌سازی حکم: طرفین را در یا ضرب می‌کنیم تا شبیه مشتق حاصل‌ضرب شود.
+این عبارت دقیقاً مشتق است.
+تعریف تابع کمکی: .
+بررسی شرط:
+طبق فرض سوال این دو برابرند ().
+اعمال رول: پس که همان حکم مطلوب است. صورت سوال: اگر و ، ثابت کنید .راه حل تشریحی:
+مرتب‌سازی: همه را یک طرف می‌بریم:
+بخش اول مشتق است و بخش دوم مشتق .
+تعریف تابع کمکی: .
+بررسی شرط:
+پس .
+نتیجه: طبق رول مشتق این تابع در صفر است. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/توابع-کمکی-در-رول.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/توابع-کمکی-در-رول.md</guid><pubDate>Sat, 06 Dec 2025 18:08:05 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-نقطه-ثابت]]></title><description><![CDATA[فرض کنید تابع روی پیوسته باشد، و . ثابت کنید نقطه‌ای وجود دارد که .
+<a data-href="قضیه مقدار میانی (IVT)" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی-(ivt).html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانی (IVT)</a> <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>استراتژی
+هرگاه مسأله‌ای به فرم داشتیم، همه جملات را به یک طرف می‌بریم و یک تابع کمکی () تعریف می‌کنیم تا ریشه آن را بیابیم.
+گام ۱: تعریف تابع کمکی
+تابع جدید را تعریف می‌کنیم:<br>
+چون و هر دو پیوسته هستند، تفاضل آن‌ها () نیز روی پیوسته است (شرط اول <a data-href="قضیه مقدار میانی (IVT)" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی-(ivt).html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانی (IVT)</a>).گام ۲: بررسی مقادیر مرزی
+مقدار را در دو سر بازه حساب می‌کنیم:
+در : در : گام ۳: نتیجه‌گیری
+چون پیوسته است و تغییر علامت داده است (از مثبت به منفی):
+طبق قضیه مقدار میانی، عددی مثل وجود دارد که .حکم ثابت شد. ]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/حل-مسئله-نقطه-ثابت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/حل-مسئله-نقطه-ثابت.md</guid><pubDate>Sat, 06 Dec 2025 17:53:18 GMT</pubDate></item><item><title><![CDATA[قضیه مقدار میانی (IVT)]]></title><description><![CDATA[<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>خلاصه سریع
+اگر یک تابع پیوسته از به برود، حتماً تمام مقادیر بین و را حداقل یک‌بار تجربه کرده است. (نمی‌تواند جهش کند).
+قضیه
+فرض کنید در بازه بسته پیوسته باشد.
+اگر عددی بین و باشد، آنگاه حداقل یک وجود دارد که: اگر نمودار را بدون برداشتن قلم رسم کنید، هر خط افقی که بین ارتفاع شروع و پایان باشد، نمودار را قطع می‌کند. اگر علامت تابع در دو سر بازه تغییر کند ()، با انتخاب ، قضیه تضمین می‌کند که معادله حداقل یک ریشه در بازه دارد.شرط یکتایی
+IVT فقط وجود ریشه را تضمین می‌کند. برای تضمین یکتایی، تابع باید علاوه بر پیوستگی، اکیداً یکنوا (صعودی یا نزولی) باشد.
+]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی-(ivt).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/قضیه مقدار میانی (IVT).md</guid><pubDate>Sat, 06 Dec 2025 17:53:09 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-حد-پیچیده]]></title><description><![CDATA[<a data-href="رفع-ابهام-توان-دار" href="01-concepts/دوشنبه-هفته-چهارم/رفع-ابهام-توان-دار.html" class="internal-link" target="_self" rel="noopener nofollow">رفع-ابهام-توان-دار</a>حد زیر را محاسبه کنید:
+تحلیل: وقتی ، پرانتز به و توان به میل می‌کند. (حالت مبهم ).۱. لگاریتم‌گیری:
+(حالا ابهام به صورت است).۲. قاعده هوپیتال:
+از صورت و مخرج جداگانه مشتق می‌گیریم:
+مشتق مخرج (): مشتق صورت: صفر می‌شود. مشتق می‌شود . ۳. جایگذاری حد:
+۴. نتیجه نهایی:
+چون ، پس:
+]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/حل-مسئله-حد-پیچیده.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/حل-مسئله-حد-پیچیده.md</guid><pubDate>Sat, 06 Dec 2025 17:47:20 GMT</pubDate></item><item><title><![CDATA[رفع-ابهام-های-سخت]]></title><description><![CDATA[<a data-href="رفع-ابهام-توان-دار" href="01-concepts/دوشنبه-هفته-چهارم/رفع-ابهام-توان-دار.html" class="internal-link" target="_self" rel="noopener nofollow">رفع-ابهام-توان-دار</a>استراتژی کلی
+هرگاه متغیر هم در پایه و هم در توان بود، فوراً لگاریتم بگیرید تا توان تبدیل به ضریب شود.
+حل:
+لگاریتم: . (ابهام ).
+هوپیتال: مشتق صورت () و مخرج ().
+<br>جایگذاری: در صورت می‌شود و مخرج . <a href=".?query=tag:جالب" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#جالب">#جالب</a>
+نتیجه: .
+حل:
+لگاریتم: . (ابهام ).
+هوپیتال: .
+<br>هم‌ارزی (نکته طلایی): در جمع توان‌ها، پایه بزرگتر () زورگو است! از آن فاکتور می‌گیریم. <a href=".?query=tag:جالب" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#جالب">#جالب</a> نتیجه: .
+]]></description><link>01-concepts/شنبه-هفته-ششم/رفع-ابهام-های-سخت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/رفع-ابهام-های-سخت.md</guid><pubDate>Sat, 06 Dec 2025 17:46:53 GMT</pubDate></item><item><title><![CDATA[رفع-ابهام-توان-دار]]></title><description><![CDATA[استراتژی
+متغیر در پایه و متغیر در توان، یعنی باید از لگاریتم استفاده کنیم تا توان پایین بیاید.
+<a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a>
+برای محاسبه حد : لگاریتم بگیرید: رفع ابهام ضرب:<br>
+حد بالا معمولاً به صورت می‌شود. آن را به کسر تبدیل کرده و <a data-href="قاعده هوپیتال" href="01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html" class="internal-link" target="_self" rel="noopener nofollow">قاعده هوپیتال</a> بزنید. فرض کنید جواب نهایی این مرحله شود. بازگرداندن لگاریتم (مهمترین گام):
+تا اینجا را بدست آوردید. جواب نهایی حد برابر است با: حد (ابهام ):
+.
+حد (ابهام ): پس .
+]]></description><link>01-concepts/دوشنبه-هفته-چهارم/رفع-ابهام-توان-دار.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/رفع-ابهام-توان-دار.md</guid><pubDate>Sat, 06 Dec 2025 17:46:09 GMT</pubDate></item><item><title><![CDATA[حد-یک-به-توان-بینهایت]]></title><description><![CDATA[<a data-href="حد یک به توان بینهایت به روش هوش مصنوعی" href="05-questions/ai/حد-یک-به-توان-بینهایت-به-روش-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">حد یک به توان بینهایت به روش هوش مصنوعی</a> (فرمولش جذابه)فرمول طلایی <br><a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a>برای حل حدهای توانی، هدف ما ساختن فرمت است.روش حل سریع:
+توان را بشکنید: توان (عدد ثابت) حدش ۱ می‌شود و بی‌اثر است.
+روی بخش تمرکز کنید.
+حد به صورت در می‌آید: روش حل:
+تجزیه اتحاد مزدوج: .
+]]></description><link>01-concepts/یکشنبه-هفته-چهارم/حد-یک-به-توان-بینهایت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/حد-یک-به-توان-بینهایت.md</guid><pubDate>Sat, 06 Dec 2025 16:18:03 GMT</pubDate></item><item><title><![CDATA[حد یک به توان بینهایت به روش هوش مصنوعی]]></title><description><![CDATA[این نوع حدها همیشه چالش‌برانگیز هستند چون یک "جنگ" بین پایه (که می‌خواهد ۱ بماند) و توان (که می‌خواهد عدد را منفجر یا نابود کند) وجود دارد. میانجی این جنگ، عدد نپر () است.فرمول مادر (روش کلی)
+برای هر حدی به فرم ، یعنی ، می‌توانیم از فرمول تبدیل زیر استفاده کنیم تا توان را به ضریب تبدیل کنیم:
+ترجمه فرمول: حد برابر است با به توانِ (توان ضربدر (پایه منهای یک)).
+مسئله این است:
+در جزوه قبلی فقط یک فرمول تستی گفته شده بود. بیایید با روش مادر حل کنیم تا بفهمیم دقیقاً چه اتفاقی می‌افتد.قدم ۱: شناسایی پایه و توان
+پایه (): توان (): شرط فرمول مادر: باید پایه را منهای ۱ کنیم: قدم ۲: ضرب توان در (پایه - ۱)
+حالا باید حد عبارت را وقتی حساب کنیم:
+قدم ۳: قانون پرتوان (تکنیک حد در بی‌نهایت)
+در بی‌نهایت، اعداد ثابت ( و ) در برابر عددی حساب نمی‌شوند. پس فقط ضریب‌های را نگه می‌داریم:
+نتیجه نهایی مسئله این است:
+اگر مستقیم عددگذاری کنیم، پایه می‌شود و توان می‌شود . اما فرمول استاندارد ما معمولاً به شکل است، نه تفریق و توان ۲.قدم ۱: تجزیه اتحاد مزدوج
+عبارت داخل پرانتز در واقع همان است که می‌شود :
+قدم ۲: پخش کردن توان
+توان بالای سر کل پرانتز است، پس به هر دو تکه می‌رسد:
+قدم ۳: حل جداگانه هر تکه
+حالا دو تا حد کلاسیک داریم که جداگانه حل می‌کنیم:
+تکه اول: طبق فرمول، است. پس جواب می‌شود . تکه دوم: طبق فرمول، است. پس جواب می‌شود . قدم ۴: ضرب نتایج
+پایه ها یکی هستند ()، پس توان‌ها با هم جمع می‌شوند:
+نکته مهم
+هر عدد (غیر صفر) به توان صفر برابر ۱ است. <a data-href="فرمول-های-مشتق" href=".html" class="internal-link" target="_self" rel="noopener nofollow">فرمول-های-مشتق</a><br>
+<a data-href="قاعده-هوپیленный" href=".html" class="internal-link" target="_self" rel="noopener nofollow">قاعده-هوپیленный</a> (روش جایگزین برای حدهای مبهم)]]></description><link>05-questions/ai/حد-یک-به-توان-بینهایت-به-روش-هوش-مصنوعی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/حد یک به توان بینهایت به روش هوش مصنوعی.md</guid><pubDate>Sat, 06 Dec 2025 16:01:57 GMT</pubDate></item><item><title><![CDATA[قضیه مقدار میانگین]]></title><description><![CDATA[خلاصه سریع
+اگر با ماشین از شهر A به B بروید و سرعت متوسط شما ۸۰ کیلومتر باشد، حتماً لحظه‌ای وجود داشته که عقربه سرعت‌سنج دقیقاً روی ۸۰ بوده است.
+اگر تابع روی پیوسته و روی مشتق‌پذیر باشد، حداقل یک وجود دارد که:فرمول نقطه‌ای روی نمودار هست که خط مماس در آن، با خط واصل دو سر بازه (Secant Line) موازی است.<img alt="MVT.jpg" src="website/04-sources/pictures/notes/mvt.jpg" target="_self"><br><a data-href="قضیه-رول" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-رول.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-رول</a>
+قضیه رول حالت خاصی از MVT است که در آن ، پس صورت کسر صفر شده و می‌شود.]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/قضیه مقدار میانگین.md</guid><pubDate>Sat, 06 Dec 2025 15:46:01 GMT</pubDate><enclosure url="website/04-sources/pictures/notes/mvt.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="website/04-sources/pictures/notes/mvt.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[قضیه مقدار میانگین کوشی]]></title><description><![CDATA[خلاصه سریع
+این قضیه "پدر" <a data-href="قاعده هوپیتال" href="01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html" class="internal-link" target="_self" rel="noopener nofollow">قاعده هوپیتال</a> و "برادر بزرگتر" <a data-href="قضیه مقدار میانگین" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانگین</a> است. به جای یک تابع، آهنگ تغییرات دو تابع را نسبت به هم می‌سنجد.
+فرض کنید دو تابع و روی پیوسته و روی مشتق‌پذیر باشند و (مهم).
+در این صورت حداقل یک نقطه وجود دارد که:فرمول <br>ارتباط با MVT: اگر باشد، مخرج کسر سمت چپ و مخرج سمت راست () می‌شود که همان <a data-href="قضیه مقدار میانگین" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانگین</a> است.
+<br>ارتباط با هوپیتال: اثبات <a data-href="قاعده هوپیتال" href="01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html" class="internal-link" target="_self" rel="noopener nofollow">قاعده هوپیتال</a> دقیقاً از همین کسر (با میل دادن ) بدست می‌آید.
+اگر حرکت یک ذره را به صورت پارامتری در نظر بگیریم، این قضیه می‌گوید لحظه‌ای وجود دارد که شیب مسیر لحظه‌ای () با شیب خط واصل ابتدا و انتها برابر است.]]></description><link>01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/قضیه مقدار میانگین کوشی.md</guid><pubDate>Sat, 06 Dec 2025 15:45:46 GMT</pubDate></item><item><title><![CDATA[قاعده هوپیتال]]></title><description><![CDATA[هشدار جدی
+هوپیتال مشتق کسر () نیست! بلکه مشتق صورت جدا و مشتق مخرج جداست.
+اثباتش در <a data-href="قضیه مقدار میانگین کوشی" href="01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه مقدار میانگین کوشی</a> بررسی شده استفقط زمانی مجاز به استفاده هستید که تمام شرایط زیر برقرار باشد:
+<br>حد به صورت کسری () باشد. <a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>
+ابهام یا باشد.
+<br>توابع مشتق‌پذیر باشند. <a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>
+فرمول هوپیتال مستقیم روی این‌ها کار نمی‌کند و باید تبدیل شوند: ضرب ():
+یکی را معکوس کرده و به مخرج ببرید: تفریق ():
+مخرج مشترک بگیرید یا گویا کنید تا به کسر تبدیل شود. ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/قاعده هوپیتال.md</guid><pubDate>Sat, 06 Dec 2025 15:44:50 GMT</pubDate></item><item><title><![CDATA[قضیه-رول]]></title><description><![CDATA[خلاصه سریع
+اگر نمودار تابعی از یک ارتفاع شروع شود و در نهایت به همان ارتفاع برگردد (بدون پارگی و شکستگی)، حتماً جایی در مسیر وجود دارد که در آن لحظه تراز شده‌اید (شیب صفر).
+فرض کنید تابع سه شرط زیر را داشته باشد:
+روی بازه بسته پیوسته باشد. <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>
+<br>روی بازه باز مشتق‌پذیر باشد (نقطه تیز نداشته باشد). <a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>
+مقادیر در دو سر بازه برابر باشند: .
+در این صورت، حداقل یک عدد درون بازه وجود دارد که:نتیجه حداقل یک نقطه روی منحنی وجود دارد که خط مماس در آن نقطه، افقی (موازی محور ها) است.<br><img alt="Rolle.jpg" src="website/04-sources/pictures/notes/rolle.jpg" target="_self">]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/قضیه-رول.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/قضیه-رول.md</guid><pubDate>Sat, 06 Dec 2025 15:33:38 GMT</pubDate><enclosure url="website/04-sources/pictures/notes/rolle.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="website/04-sources/pictures/notes/rolle.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[اثبات معکوس سینوس هایپربولیک و فرد بودنش]]></title><description><![CDATA[فرمول نهایی <a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a>هدف یافتن بر حسب در معادله است. تعریف: ساخت معادله درجه ۲:
+طرفین را در ضرب می‌کنیم: حل برای :
+این یک معادله درجه دوم بر حسب متغیر است ().
+طبق فرمول دلتا: انتخاب ریشه معتبر:
+چون همواره مثبت است: ریشه منفی () همواره منفی است (چون رادیکال از بزرگتر است). (غیرقابل قبول)
+ریشه مثبت () همواره مثبت است. (قابل قبول) نتیجه نهایی: می‌خواهیم ثابت کنیم .اثبات
+ضرب در مزدوج عبارت داخل پرانتز ():
+صورت کسر می‌شود : ]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/اثبات-معکوس-سینوس-هایپربولیک-و-فرد-بودنش.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/اثبات معکوس سینوس هایپربولیک و فرد بودنش.md</guid><pubDate>Sat, 06 Dec 2025 15:29:41 GMT</pubDate></item><item><title><![CDATA[مشتق-توابع-هایپربولیک]]></title><description><![CDATA[خلاصه
+بر خلاف مثلثات دایره‌ای که یک منفی ظاهر می‌شود ()، اینجا علامت‌ها مثبت می‌مانند.
+حکم: اثبات
+از تعریف استفاده می‌کنیم:
+مشتق می‌گیریم:
+این دقیقا تعریف است. حکم: اثبات
+مشتق می‌گیریم:
+این دقیقا تعریف است. یک اتحاد مهم دیگر (بدون اثبات در جزوه، جهت یادآوری):
+]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/مشتق-توابع-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/مشتق-توابع-هایپربولیک.md</guid><pubDate>Sat, 06 Dec 2025 15:04:27 GMT</pubDate></item><item><title><![CDATA[زوج-و-فرد-بودن-هایپربولیک]]></title><description><![CDATA[حکم: اثبات
+طبق تعریف، را با جایگزین می‌کنیم:
+چون جمع خاصیت جابجایی دارد (): حکم: اثبات
+طبق تعریف:
+از یک منفی فاکتور می‌گیریم: ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/زوج-و-فرد-بودن-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/زوج-و-فرد-بودن-هایپربولیک.md</guid><pubDate>Sat, 06 Dec 2025 15:01:01 GMT</pubDate></item><item><title><![CDATA[اتحاد-اساسی-هایپربولیک]]></title><description><![CDATA[خلاصه سریع
+در مثلثات دایره‌ای داریم ، اما در دنیای هذلولی علامت وسط منفی است.
+برای هر عدد حقیقی :Theorem به جای به توان رساندن تک‌تک جملات، از سمت چپ تساوی و اتحاد مزدوج استفاده می‌کنیم.گام ۱: تجزیه عبارت گام ۲: محاسبه پرانتزها
+بیایید مجموع و تفاضل را جداگانه حساب کنیم: جمع: تفاضل: گام ۳: ضرب نهایی
+مقادیر را در رابطه گام ۱ جایگذاری می‌کنیم:
+طبق قانون ضرب توان‌ها (): ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/اتحاد-اساسی-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/اتحاد-اساسی-هایپربولیک.md</guid><pubDate>Sat, 06 Dec 2025 15:00:33 GMT</pubDate></item><item><title><![CDATA[نمودار-و-خواص-هایپربولیک]]></title><description><![CDATA[<img alt="cosh(x).jpg" src="website/04-sources/pictures/plots/cosh(x).jpg" target="_self">
 تعریف: (بخش زوج تابع نمایی).
 شکل: شبیه سهمی (زنجیروار/Catenary).
 دامنه و برد: دامنه ، برد .
 ویژگی‌ها: زوج: نسبت به محور متقارن است.
-مینیمم: در مقدار ۱ را دارد (عرض از مبدأ). <br><img alt="sinh(x).jpg" src="04-sources/pictures/plots/sinh(x).jpg" target="_self">
+مینیمم: در مقدار ۱ را دارد (عرض از مبدأ). <br><img alt="sinh(x).jpg" src="website/04-sources/pictures/plots/sinh(x).jpg" target="_self">
 تعریف: (بخش فرد تابع نمایی).
 شکل: منحنی S شکل صعودی.
 دامنه و برد: هر دو .
 ویژگی‌ها: فرد: نسبت به مبدأ متقارن است.
 ریشه: از مبدأ می‌گذرد.
-رفتار: در مثبت‌ها شبیه و در منفی‌ها شبیه . <br><img alt="tanh(x).jpg" src="04-sources/pictures/plots/tanh(x).jpg" target="_self">
+رفتار: در مثبت‌ها شبیه و در منفی‌ها شبیه . <br><img alt="tanh(x).jpg" src="website/04-sources/pictures/plots/tanh(x).jpg" target="_self">
 تعریف: .
 شکل: سیگموئید (S شکل محدود).
 مجانب‌ها: محدود بین دو خط افقی و .
 دامنه و برد: دامنه ، برد .
 تجزیه تابع نمایی
-هر تابع نمایی مجموعی از این دو است: ]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/نمودار-و-خواص-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/نمودار-و-خواص-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 16:31:28 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[تعریف-عدد-نپر]]></title><description><![CDATA[خلاصه سریع
+هر تابع نمایی مجموعی از این دو است: ]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/نمودار-و-خواص-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/نمودار-و-خواص-هایپربولیک.md</guid><pubDate>Sat, 06 Dec 2025 14:56:26 GMT</pubDate><enclosure url="website/04-sources/pictures/plots/cosh(x).jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="website/04-sources/pictures/plots/cosh(x).jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[معرفی-توابع-هایپربولیک]]></title><description><![CDATA[خلاصه سریع
+توابعی که از ترکیب تابع نمایی و ساخته می‌شوند و خواصی شبیه به توابع مثلثاتی دارند، اما روی هذلولی تعریف می‌شوند نه دایره.
+بر خلاف مثلثات عادی که هندسی تعریف می‌شوند، این‌ها جبری هستند:میانگین حسابی و :Formula نصف تفاضل و :Formula دقیقاً مشابه نسبت‌های مثلثاتی تعریف می‌شوند: ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/معرفی-توابع-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/معرفی-توابع-هایپربولیک.md</guid><pubDate>Sat, 06 Dec 2025 14:50:38 GMT</pubDate></item><item><title><![CDATA[اثبات-مشتق-لگاریتم]]></title><description><![CDATA[خلاصه سریع
+مشتق لگاریتم طبیعی، معکوسِ آرگومان آن است. <a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>
+هدف محاسبه حد است.مراحل اثبات
+۱. قوانین لگاریتم:
+تفریق لگاریتم‌ها تبدیل به تقسیم می‌شود: ۲. توان‌رسانی:
+ضریب پشت لگاریتم به توان می‌رود: ۳. ساختن عدد :
+تغییر متغیر . پس .<br>
+<a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a> قاعده زنجیری: پایه دلخواه (): چون ، و a عدد ثابت میباشد پس: ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-لگاریتم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/اثبات-مشتق-لگاریتم.md</guid><pubDate>Sat, 06 Dec 2025 13:11:39 GMT</pubDate></item><item><title><![CDATA[اثبات-مشتق-نمایی]]></title><description><![CDATA[خلاصه سریع
+تابع تنها تابعی است که آهنگ تغییراتش با مقدار خودش برابر است. <a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a><br>
+<a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a>
+هدف محاسبه حد است.مراحل اثبات
+۱. فاکتورگیری: ۲. تغییر متغیر:
+برای حل حد ، فرض می‌کنیم . وقتی ، .
+از طرفی .
+۳. استفاده از تعریف عدد :
+حد تبدیل می‌شود به:
+عبارت طبق تعریف به میل می‌کند. ۴. نتیجه نهایی: اگر تابعی از باشد و a عدد ثابت باشد:
+مثال ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-نمایی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/اثبات-مشتق-نمایی.md</guid><pubDate>Sat, 06 Dec 2025 13:03:45 GMT</pubDate></item><item><title><![CDATA[تعریف-دقیق-مشتق]]></title><description><![CDATA[<a data-href="مشتق" href=".html" class="internal-link" target="_self" rel="noopener nofollow">مشتق</a>تابع در نقطه دارای مشتق است اگر حد زیر وجود داشته باشد:تعریف مشتق توجه: نوشتن لیمیت در این فرمول را یادت نره
+نکته: با توجه به تعریف پس تابع درصورتی مشتق داره که در اون نقطه تعریف شده باشد<br>
+بررسی بیشتر ارتباط پیوستگی و مشتق: <a data-href="رابطه پیوستگی و مشتق تابع" href="05-questions/ai/رابطه-پیوستگی-و-مشتق-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">رابطه پیوستگی و مشتق تابع</a><br><a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a> دارای مشتق (Has Derivative): حد بالا وجود داشته باشد (حتی اگر باشد).
+مشتق‌پذیر (Differentiable): حد بالا وجود داشته باشد و متناهی باشد ()
+پس در صورتی در یک نقطه خاص مشتق، که باعث میشود تابع در اون نقطه حتما پیوسته باشد.
+مثال نقض: مماس قائم
+تابع در :
+نتیجه: تابع در این نقطه مشتق دارد (مماس قائم)، اما مشتق‌پذیر نیست (چون شیب بی‌نهایت عدد حقیقی نیست).
+]]></description><link>01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/تعریف-دقیق-مشتق.md</guid><pubDate>Sat, 06 Dec 2025 12:43:06 GMT</pubDate></item><item><title><![CDATA[تعریف-عدد-نپر]]></title><description><![CDATA[خلاصه سریع
 عدد حاصل حد یک دنباله است که از "سود مرکب پیوسته" می‌آید.
+<a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>
 عدد حد دنباله زیر است:
 برای اثبات وجود ، باید دو ویژگی دنباله را ثابت کنیم:
 صعودی است: (جملات مدام بزرگتر می‌شوند).
 کران‌دار است: (هیچوقت به ۳ نمی‌رسد).
 (اثبات اینها پروژه هستش و ما فرض می‌کنیم که اثبات کرده‌ایم)
-طبق <a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a>، چون صعودی و کراندار است، پس همگراست.
+<br>طبق <a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a>، چون صعودی و کراندار است، پس همگراست.
 دامنه: ، برد: .
 در به بی‌نهایت و در به صفر میل می‌کند.
 وارون‌پذیر است و وارون آن نام دارد.
-<br><img alt="نمودار-نپر-لگاریتم-معکوس.jpg" src="04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">]]></description><link>01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/تعریف-عدد-نپر.md</guid><pubDate>Wed, 03 Dec 2025 16:27:32 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[یک‌شنبه هفته چهارم]]></title><description><![CDATA[مسأله: بررسی کنید که تابعدر صفر پیوسته است؟و:پس تابع پیوسته نیست.قضیه ساندویچ (افشردگی)
+<br><img alt="نمودار-نپر-لگاریتم-معکوس.jpg" src="website/04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">]]></description><link>01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/تعریف-عدد-نپر.md</guid><pubDate>Sat, 06 Dec 2025 12:34:12 GMT</pubDate><enclosure url="website/04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="website/04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[توابع-برداری]]></title><description><![CDATA[<a data-href="توضیح تابع و روابط برداری هوش مصنوعی" href="05-questions/ai/توضیح-تابع-و-روابط-برداری-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح تابع و روابط برداری هوش مصنوعی</a>خلاصه سریع
+در توابع برداری ، تمام عملیات (حد، مشتق، انتگرال) به صورت مؤلفه‌ای (جداگانه برای و ) انجام می‌شود.
+<br><a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>
+برای محاسبه حد، کافیست حد هر مؤلفه را جداگانه بگیریم:
+مثال
+اگر باشد، حد در صفر: مؤلفه اول: مؤلفه دوم: نتیجه: مشتق بردار موقعیت، همان بردار سرعت است:<br>
+<a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>
+مثال ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/توابع-برداری.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/توابع-برداری.md</guid><pubDate>Sat, 06 Dec 2025 12:14:45 GMT</pubDate></item><item><title><![CDATA[مشتق-پارامتری]]></title><description><![CDATA[<a data-href="توضیح رابطه یا توابع پارامتری (هوش مصنوعی)" href="05-questions/ai/توضیح-رابطه-یا-توابع-پارامتری-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">توضیح رابطه یا توابع پارامتری (هوش مصنوعی)</a><br>
+<a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>خلاصه سریع
+وقتی و با هم غریبه‌اند اما هر دو به یک نفر سوم () وصل هستند، برای پیدا کردن رابطه آن‌ها () باید واسطه () را حذف کنیم.
+اگر :Formula مشتق به :
+سوال: خط مماس بر منحنی زیر در :
+گام ۱: مختصات نقطه تماس
+نقطه .گام ۲: شیب خط ()
+گام ۳: معادله خط
+]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/مشتق-پارامتری.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/مشتق-پارامتری.md</guid><pubDate>Sat, 06 Dec 2025 12:12:41 GMT</pubDate></item><item><title><![CDATA[توضیح تابع و روابط برداری هوش مصنوعی]]></title><description><![CDATA[بسیار عالی. حالا می‌رسیم به توابع برداری (Vector Functions) که در واقع «نسخه پیشرفته» و «سه‌بعدی» همان توابع پارامتری هستند. بیایید با همان روند مقایسه‌ای و شهودی پیش برویم.<a data-href="توضیح رابطه یا توابع پارامتری (هوش مصنوعی)" href="05-questions/ai/توضیح-رابطه-یا-توابع-پارامتری-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">توضیح رابطه یا توابع پارامتری (هوش مصنوعی)</a>الف) تابع پارامتری (آنچه قبل گفتیم):
+خروجی: دو عدد جداگانه و .
+نگاه ما: ما به یک «نقطه» نگاه می‌کنیم که در صفحه حرکت می‌کند. مثل اینکه مختصات GPS یک ماشین را بخوانید: (طول ۵۰، عرض ۳۰).
+ب) تابع برداری: خروجی: یک «بردار» (یک فلش).
+نگاه ما: به جای اینکه فقط جای نقطه را ببینیم، یک فلش (بردار مکان) را تصور می‌کنیم که دُمِ آن به مبدأ (0,0,0) میخ شده و نوکِ آن، جسم متحرک را دنبال می‌کند.
+فرمول: معمولاً با نشان داده می‌شود (r مخفف Radius یا شعاع حامل است): توابع پارامتری: مثل این است که یک مگس در اتاق پرواز می‌کند و شما مدام فریاد می‌زنید: «الان در مختصات است!»
+توابع برداری: تصور کنید شما در مرکز اتاق (مبدأ) ایستاده‌اید و یک چراغ‌قوه لیزری در دست دارید. شما نور را دقیقاً روی مگس می‌اندازید و با حرکت مگس، دست شما هم می‌چرخد و طول نور لیزر کم و زیاد می‌شود. لیزر شما: همان تابع برداری است.
+جهت دست شما: جهت حرکت را نشان می‌دهد.
+طول لیزر: فاصله مگس تا شما (اندازه بردار) را نشان می‌دهد. [Image of 3d vector function curve]توابع دبیرستانی () در فضای دو‌بعدی (کاغذ) حبس شده بودند. اما دنیای واقعی سه‌بعدی است.
+توابع برداری بهترین ابزار برای توصیف حرکت در فضا هستند (مثل حرکت موشک، پهپاد، یا جریان آب).در اینجا ورودی ما زمان () است و خروجی ما یک بردار سه بعدی:
+زیبایی توابع برداری در مشتق‌گیری آن‌هاست که معنای فیزیکی بسیار ملموسی دارد.۱. مشتق اول (بردار سرعت ):
+اگر از تابع برداری مکان مشتق بگیرید، بردار سرعت به دست می‌آید. تفسیر هندسی: این بردار همیشه مماس بر مسیر حرکت است (نوک فلش سرعت، جهتِ حرکت لحظه‌ای را نشان می‌دهد).
+اندازه آن: طول این بردار () همان تندی (Speed) لحظه‌ای است (عدد کیلومترشمار ماشین).
+۲. مشتق دوم (بردار شتاب ):
+اگر از سرعت دوباره مشتق بگیرید، بردار شتاب به دست می‌آید. این بردار نشان می‌دهد که سرعت و جهت حرکت با چه شدتی در حال تغییر است (نیروی وارده به جسم).
+بیایید سیر تکاملی که طی کردیم را خلاصه کنیم:توابع برداری، زبانِ اصلی فیزیک مکانیک و دینامیک در دانشگاه هستند.آیا مایلید یک مثال از حرکت پرتابی (مثل شوت کردن توپ) را با زبان توابع برداری بررسی کنیم تا قدرت آن را ببینید؟]]></description><link>05-questions/ai/توضیح-تابع-و-روابط-برداری-هوش-مصنوعی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح تابع و روابط برداری هوش مصنوعی.md</guid><pubDate>Sat, 06 Dec 2025 12:09:17 GMT</pubDate></item><item><title><![CDATA[مشتق-ضمنی]]></title><description><![CDATA[<a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a><br>
+<a data-href="توضیح رابطه ضمنی هوش مصنوعی" href="05-questions/ai/توضیح-رابطه-ضمنی-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح رابطه ضمنی هوش مصنوعی</a>خلاصه سریع
+وقتی نمی‌توانیم را تنها کنیم (مثلاً )، از فرمول مشتقات جزئی استفاده می‌کنیم.
+برای هر معادله به فرم : (یعنی یک طرف معادله رو همیشه صفر می‌کنیم)فرمول : مشتق نسبت به (فرض می‌کنیم عدد ثابت است).
+: مشتق نسبت به (فرض می‌کنیم عدد ثابت است).
+<br>توضیح قسمت : <a data-href="توضیح بیشتر معادله مشتق ضمنی" href="05-questions/ai/توضیح-بیشتر-معادله-مشتق-ضمنی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح بیشتر معادله مشتق ضمنی</a> <br>مثال ۱: مثلثاتی و نمایی
+<a data-href="تعریف-عدد-نپر" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-عدد-نپر.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-عدد-نپر</a> <a data-href="اثبات-مشتق-نمایی" href="01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-نمایی.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات-مشتق-نمایی</a>
+معادله: محاسبه ( ثابت): محاسبه ( ثابت): نتیجه نهایی (): قرینه کسر بالا.
+<br>مثال ۲: هایپربولیک
+<a data-href="معرفی-توابع-هایپربولیک" href="01-concepts/سه‌شنبه-هفته-چهارم/معرفی-توابع-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">معرفی-توابع-هایپربولیک</a> <a data-href="مشتق-توابع-هایپربولیک" href="01-concepts/پنجشنبه-هفته-چهارم/مشتق-توابع-هایپربولیک.html" class="internal-link" target="_self" rel="noopener nofollow">مشتق-توابع-هایپربولیک</a>
+معادله: سوال: خط مماس بر در نقطه .
+بررسی نقطه: (برقرار است ).
+محاسبه شیب (): معادله خط: ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/مشتق-ضمنی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/مشتق-ضمنی.md</guid><pubDate>Sat, 06 Dec 2025 11:59:07 GMT</pubDate></item><item><title><![CDATA[توضیح بیشتر معادله مشتق ضمنی]]></title><description><![CDATA[<a data-href="مشتق-ضمنی" href="01-concepts/شنبه-یکشنبه-هفته-پنجم/مشتق-ضمنی.html" class="internal-link" target="_self" rel="noopener nofollow">مشتق-ضمنی</a>
+سوال ارسلان: در فرمول مشتق ضمنی، وای پریم بیانگر چیست؟پاسخ هوش مصنوعی:<br>
+در تصویری که فرستادید، در فرمول «مشتق طلایی» (مشتق ضمنی)، (وای پریم) بیانگر مشتق نسبت به متغیر است. <a data-href="توضیح رابطه ضمنی هوش مصنوعی" href="05-questions/ai/توضیح-رابطه-ضمنی-هوش-مصنوعی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح رابطه ضمنی هوش مصنوعی</a>به بیان دقیق‌تر:این نماد نشان می‌دهد که:
+نرخ تغییرات: متغیر با چه سرعتی نسبت به تغییرات تغییر می‌کند.
+شیب خط مماس: از نظر هندسی، همان شیب خط مماس بر نمودار تابع (منحنی ) در هر نقطه است.
+نکته کلیدی در فرمول تصویر:
+فرمول موجود در عکس () یک روش میانبر بسیار سریع است که به شما اجازه می‌دهد مقدار (همان ) را بدون اینکه نیاز باشد مشتق‌گیری ضمنیِ طولانی انجام دهید، تنها با محاسبه دو مشتق جزئی ( و ) به دست آورید.]]></description><link>05-questions/ai/توضیح-بیشتر-معادله-مشتق-ضمنی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح بیشتر معادله مشتق ضمنی.md</guid><pubDate>Sat, 06 Dec 2025 11:55:00 GMT</pubDate></item><item><title><![CDATA[توضیح رابطه ضمنی هوش مصنوعی]]></title><description><![CDATA[ارسلان: منحنی F(x,y)=0 رو کامل توضیح بده و بگو فرقش با تابع هایی که در دبیرستان خوندیم چیه و قوانینش به چه صورت میباشد؟پاسخ:
+عبارت بیانگر یک رابطه ضمنی (Implicit Relation) است. برای درک عمیق این موضوع، بیایید آن را با آنچه در دبیرستان خوانده‌اید مقایسه کنیم.الف) تابع صریح (Explicit) - آنچه در دبیرستان خواندید:
+در اکثر مباحث دبیرستان، توابع به صورت نوشته می‌شدند.
+ویژگی: متغیر (خروجی) تنها در یک طرف تساوی است و متغیر (ورودی) در طرف دیگر.
+معنی: "اگر را به من بدهی، من مستقیماً را به تو می‌دهم."
+مثال: یا .
+محدودیت: طبق تعریف "تابع"، به ازای هر فقط باید یک داشته باشیم (در آزمون خط عمودی نمودار را فقط در یک نقطه قطع کند).
+ب) رابطه ضمنی (Implicit) - فرم :
+در اینجا، و با هم در یک معادله آمیخته شده‌اند و همگی در یک طرف تساوی (معمولاً برابر با صفر) قرار دارند.
+ویژگی: تنها نشده است.
+معنی: "رابطه‌ای بین و برقرار است که اگر زوج در این معادله صدق کند، روی منحنی قرار دارد."
+مثال: (معادله دایره).
+تفاوت اصلی: این فرم می‌تواند شکل‌هایی را تولید کند که اصلاً "تابع" نیستند (مثل دایره یا بیضی که اگر خط عمودی بکشید، در دو نقطه قطع می‌شوند). در واقع کلی‌تر از تابع است.
+تصور کنید مثل یک ماشین است که دو ورودی ( و ) می‌گیرد. معادله یعنی "مجموعه تمام نقاطی که اگر وارد این ماشین شوند، خروجی صفر می‌شود."
+این نقاط کنار هم یک منحنی را در صفحه تشکیل می‌دهند (مثل مرزهای یک نقشه).برای کار با این توابع (مخصوصاً در دانشگاه)، قوانین کمی متفاوت است:۱. نمودار (هندسه):
+نمودار این روابط می‌تواند پیچیده باشد و شامل حلقه‌های بسته (مثل دایره)، گره‌ها، یا چندین شاخه باشد. برخلاف توابع صریح که معمولاً از چپ به راست کشیده می‌شوند.۲. مشتق‌گیری (قانون اصلی):
+چون تنها نیست، نمی‌توانیم مثل دبیرستان راحت مشتق بگیریم ( بنویسیم).
+روش دبیرستان: را تنها کن، بعد مشتق بگیر (گاهی غیرممکن است).
+روش دانشگاهی (مشتق ضمنی): فرض می‌کنیم تابعی از است (یعنی ) و از دو طرف مشتق می‌گیریم. هر جا به رسیدیم، باید در ضرب کنیم (قانون زنجیره‌ای).
+۳. فرمول طلایی (مشتق جزئی):
+همان فرمولی که در تصویر قبلی فرستادید، یک راه میانبر برای محاسبه شیب مماس () در این منحنی‌هاست: : مشتق نسبت به (فرض می‌کنیم عدد ثابت است).
+: مشتق نسبت به (فرض می‌کنیم عدد ثابت است).
+توابع دبیرستانی () مثل یک "دستور پخت" آماده بودند (ورودی بده، خروجی بگیر). اما مثل یک "معما" یا "قانون تعادل" است که و باید با هم آن را حل کنند، و این اجازه می‌دهد شکل‌های هندسی بسیار کامل‌تری (مثل دایره‌ها و منحنی‌های بسته) را توصیف کنیم.]]></description><link>05-questions/ai/توضیح-رابطه-ضمنی-هوش-مصنوعی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح رابطه ضمنی هوش مصنوعی.md</guid><pubDate>Sat, 06 Dec 2025 11:54:24 GMT</pubDate></item><item><title><![CDATA[توضیح رابطه یا توابع پارامتری (هوش مصنوعی)]]></title><description><![CDATA[توابع پارامتری (Parametric Functions) هم مثل توابع ضمنی، دنیای ما را نسبت به توابع ساده دبیرستانی () گسترده‌تر می‌کنند. بیایید این نوع توابع را با همان ساختار مقایسه‌ای و شهودی بررسی کنیم.الف) تابع صریح (دبیرستان): داستان: ارباب است و تابعِ او. هر جا برود، مجبور است مقدارش را تعیین کند.
+محدودیت: نمودار ساکن است. ما فقط شکل جاده را می‌بینیم.
+ب) تابع پارامتری: داستان: در اینجا و هیچکدام رئیس دیگری نیستند! هر دو تابعِ یک متغیر سوم هستند که معمولاً با (اول کلمه Time) نشان داده می‌شود و به آن «پارامتر» می‌گویند.
+معنی: «در لحظه ، ذره‌ی ما در موقعیت افقی و موقعیت عمودی قرار دارد.»
+تفاوت اصلی: این توابع علاوه بر «مسیر»، «زمان و جهت حرکت» را هم توصیف می‌کنند.
+برای درک عمیق، این تصویر را در ذهن داشته باشید:
+تابع معمولی (): مثل ردپای جوهر روی کاغذ است. شما فقط یک منحنی می‌بینید و نمی‌دانید قلم از کدام طرف حرکت کرده یا با چه سرعتی کشیده شده است.
+تابع پارامتری (): مثل یک مورچه است که روی کاغذ راه می‌رود. : ساعت مچی مورچه است (زمان).
+: می‌گوید مورچه چقدر به چپ یا راست رفته.
+: می‌گوید مورچه چقدر بالا یا پایین رفته. [Image of parametric curve spiral]
+نکته جالب: با توابع پارامتری می‌توان شکل‌هایی کشید که خودشان را قطع می‌کنند (مثل نوشتن عدد انگلیسی 8) یا مدام دور خود می‌چرخند (مثل فنر). این کار با غیرممکن است.
+در فیزیک و مهندسی، دانستن شکل مسیر کافی نیست. ما می‌خواهیم بدانیم جسم کی و کجا بوده است.مثال معروف (دایره):
+روش دبیرستان (سخت): (پر از رادیکال و دردسر علامت مثبت و منفی).
+روش پارامتری (آسان): این فرمول می‌گوید: «با تغییر زاویه ، روی محیط دایره بچرخ.» خیلی تمیزتر و راحت‌تر!
+توابع پارامتری ابزار توصیف «حرکت» هستند. آن‌ها آزادی عمل بسیار بیشتری نسبت به توابع معمولی و حتی ضمنی دارند، چون متغیرهای و را از قید یکدیگر آزاد کرده و هر دو را به دست یک فرمانده‌ی سوم () می‌سپارند.]]></description><link>05-questions/ai/توضیح-رابطه-یا-توابع-پارامتری-(هوش-مصنوعی).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح رابطه یا توابع پارامتری (هوش مصنوعی).md</guid><pubDate>Sat, 06 Dec 2025 11:50:25 GMT</pubDate></item><item><title><![CDATA[تقریب-خطی-و-دیفرانسیل]]></title><description><![CDATA[<a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a>خلاصه سریع
+در تغییرات بسیار کوچک، نمودار خمیده تابع را می‌توان با "خط مماس" جایگزین کرد.
+فرمول کلیدی: برای تابع مشتق‌پذیر ، دیفرانسیل تقریبی از تغییرات واقعی تابع () است:
+برای تخمین مقدار تابع در همسایگی نقطه :فرمول مثال ۱: محاسبه رادیکال () تابع: نقطه مبنا (): ۱۶ (نزدیکترین عدد که جذر کامل دارد)
+تغییرات (): مشتق: محاسبه: مثال ۲: محاسبه ریشه سوم () تابع: نقطه مبنا: تغییرات: مشتق: محاسبه: ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/تقریب-خطی-و-دیفرانسیل.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/تقریب-خطی-و-دیفرانسیل.md</guid><pubDate>Sat, 06 Dec 2025 11:26:49 GMT</pubDate></item><item><title><![CDATA[رابطه پیوستگی و مشتق تابع]]></title><description><![CDATA[<a data-href="تعریف-دقیق-مشتق" href="01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-مشتق</a> <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>
+سوال ارسلان: با توجه به فرمول اصلی تعریف دقیق بررسی کن که اگر تابعی مشتق پذیر باشد حتما پیوسته هست یا نه؟ جمع‌بندی حالت‌ها:
+برای درک بهتر، می‌توانیم حالت‌های مختلف را به صورت زیر دسته‌بندی کنیم:
+وضعیت تابع	نتیجه
+اگر تابع مشتق‌پذیر باشد	⟹ حتماً پیوسته است.
+اگر تابع پیوسته باشد	⟹ ممکن است مشتق‌پذیر باشد یا نباشد (بستگی به تیزی نمودار دارد).
+اگر تابع ناپیوسته باشد	⟹ قطعاً مشتق‌پذیر نیست.بله، بیایید دقیقاً با استفاده از فرمول اصلی تعریف مشتق و قوانین حد، اثبات کنیم که «اگر تابعی در نقطه‌ای مشتق‌پذیر باشد، حتماً در آن نقطه پیوسته است».فرض کنیم تابع در نقطه مشتق‌پذیر است.برای اینکه تابع در نقطه پیوسته باشد، باید ثابت کنیم که حد تابع در آن نقطه برابر با مقدار تابع است:
+یا به عبارت دیگر، باید نشان دهیم که اختلاف آن‌ها به سمت صفر میل می‌کند:
+چون فرض کردیم تابع مشتق‌پذیر است، پس حد زیر وجود دارد و برابر با یک عدد متناهی () است:
+ما بررسی را با عبارت شروع می‌کنیم.
+می‌توانیم این عبارت را در ضرب و تقسیم کنیم (به شرطی که که در مبحث حد همیشه برقرار است):حالا از طرفین تساوی حد می‌گیریم وقتی :طبق قوانین حدها، حدِ ضرب دو عبارت برابر است با ضربِ حدهای آن‌ها (به شرطی که هر دو حد وجود داشته باشند):حالا جایگذاری می‌کنیم:
+پرانتز اول همان است (چون فرض کردیم مشتق‌پذیر است).
+پرانتز دوم برابر است با .
+بنابراین:
+این یعنی:
+ما با استفاده از فرمول تعریف مشتق نشان دادیم که اگر وجود داشته باشد (عدد متناهی باشد)، حد تابع حتماً با مقدار تابع برابر می‌شود.
+بنابراین اثبات شد که هر تابع مشتق‌پذیر، قطعاً پیوسته است.]]></description><link>05-questions/ai/رابطه-پیوستگی-و-مشتق-تابع.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/رابطه پیوستگی و مشتق تابع.md</guid><pubDate>Sat, 06 Dec 2025 11:09:00 GMT</pubDate></item><item><title><![CDATA[مسئله های معادلات تابعی و موارد اضافه تر هوش مصنوعی]]></title><description><![CDATA[<a data-href="حل-کامل-معادله-کوشی" href="01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-کامل-معادله-کوشی</a><br>
+<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>صورت مسئله
+تمام توابع پیوسته را بیابید که در رابطه زیر صدق کنند:
+راهنمایی: این مسئله را با استفاده از توابع لگاریتمی به "معادله کوشی استاندارد" که در جزوه دارید تبدیل کنید.
+مشاهده پاسخ تشریحی
+گام ۱: تغییر متغیر برای خطی‌سازی
+چون دامنه برد تابع است (همواره مثبت)، می‌توانیم از طرفین لگاریتم طبیعی بگیریم.
+تعریف می‌کنیم .
+گام ۲: بازنویسی معادله
+طبق خواص لگاریتم:
+پس تابع جدید در رابطه زیر صدق می‌کند: گام ۳: حل معادله کمکی<br>
+این دقیقاً همان معادله تابعی کوشی است که در فایل <a data-href="حل-کامل-معادله-کوشی" href="01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-کامل-معادله-کوشی</a> حل کردیم.
+چون پیوسته است، یا همان نیز پیوسته است.
+پاسخ عمومی معادله کوشی پیوسته عبارت است از: گام ۴: بازگشت به تابع اصلی
+اگر را به صورت در نظر بگیریم، پاسخ به فرم نمایی (برای ) در می‌آید.
+<br><a href=".?query=tag:نخوندم" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#نخوندم">#نخوندم</a><br>
+<a data-href="معادله کوشی پیوستگی" href="01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">معادله کوشی پیوستگی</a><br>
+<a data-href="سوپریموم-و-اینفیموم" href="01-concepts/سه‌شنبه-هفته-سوم/سوپریموم-و-اینفیموم.html" class="internal-link" target="_self" rel="noopener nofollow">سوپریموم-و-اینفیموم</a>صورت مسئله (سطح آنالیز پیشرفته)
+فرض کنید تابع در معادله کوشی صدق می‌کند.
+ثابت کنید اگر تابع روی یک بازه کوچک مثل کراندار باشد (یعنی )، آنگاه روی کل پیوسته است.
+تحلیل: در جزوه خواندید که "پیوستگی در یک نقطه" باعث پیوستگی در همه جا می‌شود. اینجا می‌خواهیم ثابت کنیم حتی شرط ضعیف‌تر "کران‌داری" هم برای پیوستگی کافیست.
+<br>مشاهده اثبات دقیق
+استراتژی: نشان می‌دهیم در پیوسته است. سپس طبق <a data-href="معادله کوشی پیوستگی" href="01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">معادله کوشی پیوستگی</a>، تابع همه‌جا پیوسته خواهد شد.
+گام ۱: پیوستگی در صفر یعنی چه؟
+باید نشان دهیم .
+یعنی برای هر ، یک پیدا کنیم که اگر ، آنگاه .
+گام ۲: استفاده از خاصیت همگن بودن روی گویاها<br>
+از <a data-href="حل-کامل-معادله-کوشی" href="01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">حل-کامل-معادله-کوشی</a> می‌دانیم برای هر داریم .
+گام ۳: تکنیک فشرده‌سازی
+فرض کنید یک عدد دلخواه کوچک باشد. می‌توانیم را به صورت بنویسیم که در آن در بازه امن باشد و یک عدد طبیعی بزرگ.
+طبق خاصیت معادله کوشی: گام ۴: استفاده از کران‌داری
+چون ، طبق فرض مسئله . گام ۵: نتیجه‌گیری
+وقتی ، می‌توانیم را به سمت بی‌نهایت میل دهیم.
+در نتیجه کوچکتر از عددی می‌شود که به صفر میل می‌کند.
+پس .<br>
+تابع در صفر پیوسته شد، پس بنابر <a data-href="معادله کوشی پیوستگی" href="01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">معادله کوشی پیوستگی</a>، در کل پیوسته است و فرم آن است. <br><a href=".?query=tag:نخوندم" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#نخوندم">#نخوندم</a><br>
+<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a><br>
+<a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a>صورت مسئله (بر اساس سوال ۱ امتحان استاد)
+فرض کنید یک تابع پیوسته باشد.
+ثابت کنید نقطه‌ای مثل وجود دارد که .
+(به این نقطه، نقطه ثابت یا Fixed Point می‌گویند. یعنی نقطه‌ای که تابع آن را جابجا نمی‌کند).
+راهنمایی: از تابع کمکی و قضیه مقدار میانی (IVT) استفاده کنید.
+مشاهده پاسخ تشریحی
+گام ۱: تعریف تابع کمکی
+مشابه سوال ۱ امتحان، تابعی می‌سازیم که صفر شدن آن معادل حکم مسئله باشد:
+چون و پیوسته هستند، نیز روی پیوسته است.
+گام ۲: بررسی نقاط مرزی مقدار در ابتدای بازه ():
+چون برد تابع است، پس . بنابراین . مقدار در انتهای بازه ():
+چون برد تابع است، پس . بنابراین . گام ۳: استفاده از قضیه مقدار میانی (IVT)
+تابع پیوسته است و تغییر علامت داده (یا صفر شده) است:
+بنابر قضیه مقدار میانی، حتماً نقطه‌ای مثل بین ۰ و ۱ وجود دارد که .
+گام ۴: نتیجه نهایی <br><a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a><br>
+<a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a><br>
+<a href=".?query=tag:نخوندم" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#نخوندم">#نخوندم</a> صورت مسئله (بر اساس سوال ۵ امتحان استاد)
+الف) ثابت کنید برای هر :
+(اگر مشتق نخوانده‌اید، این بخش را به عنوان پیش‌فرض بپذیرید).
+ب) با استفاده از نامساوی قسمت (الف) و نامساوی بدیهی ، حد زیر را محاسبه کنید: مشاهده پاسخ تشریحی
+تحلیل: این مسئله دقیقاً فرمت سوال ۵ امتحان (الف و ب) را شبیه‌سازی می‌کند.
+حل قسمت (ب):
+تغییر متغیر می‌دهیم: . وقتی ، آنگاه .
+حد خواسته شده: ساخت ساندویچ:
+از نامساوی قسمت الف استفاده می‌کنیم:
+طرفین را منهای می‌کنیم:
+طرفین را بر (که مثبت است) تقسیم می‌کنیم: حدگیری:
+وقتی :
+سمت چپ: .
+سمت راست: .<br>
+پس طبق <a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a>، حد وسط نیز صفر است.
+نکته اضافی: اگر در مخرج داشتیم، حد برابر می‌شد. (این سوال دقت شما را در توان‌ها می‌سنجد).
+]]></description><link>03-practice/ai/مسئله-های-معادلات-تابعی-و-موارد-اضافه-تر-هوش-مصنوعی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/03 Practice/AI/مسئله های معادلات تابعی و موارد اضافه تر هوش مصنوعی.md</guid><pubDate>Fri, 05 Dec 2025 21:20:12 GMT</pubDate></item><item><title><![CDATA[حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)]]></title><description><![CDATA[ارسلان: سوالی که بعد از خوندن این مطلب از هوش مصنوعی پرسیدم:
+<a data-href="سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی)" href="05-questions/ai/سوال-و-رفع-ابهام-معادله-تابعی-کوشی-و-توضیح-بیشترش-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی)</a>معادله تابعی کوشی یکی از بنیادی‌ترین معادلات در آنالیز ریاضی است که خاصیت جمع‌پذیری (Additivity) توابع را توصیف می‌کند.معادله تابعی کوشی به صورت زیر تعریف می‌شود:این معادله بیان می‌کند که تصویر مجموع دو عدد برابر با مجموع تصاویر آن دو عدد است. به توابعی که در این شرط صدق می‌کنند، توابع جمع‌پذیر می‌گویند.برای حل این معادله، دامنه اعداد را مرحله به مرحله گسترش می‌دهیم.فرض کنیم یک عدد ثابت باشد.با استفاده از استقرای ریاضی نشان می‌دهیم :
+پایه: فرض: . تعمیم: بنابراین یک تابع فرد است و برای هر عدد صحیح :فرض کنیم که و .داریم:<br>از خاصیت جمع‌پذیری برای جملات تکراری (مشابه بخش الف): این بخش رو نفهمیدی: <a data-href="توضیح بیشتر قسمت گویا اثبات معادله تابعی کوشی" href="05-questions/ai/توضیح-بیشتر-قسمت-گویا-اثبات-معادله-تابعی-کوشی.html" class="internal-link" target="_self" rel="noopener nofollow">توضیح بیشتر قسمت گویا اثبات معادله تابعی کوشی</a>
+نتیجه: برای هر داریم .
+<br><a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>تا اینجا نشان دادیم که روی اعداد گویا است. اما برای اعداد حقیقی (شامل اعداد گنگ)، لزوماً اینطور نیست مگر اینکه شرط پیوستگی را اعمال کنیم.قضیه: اگر در معادله کوشی صدق کند و در تمام نقاط پیوسته باشد، آنگاه برای همه داریم .اثبات:۱. فرض کنیم یک عدد حقیقی دلخواه باشد ().۲. چون مجموعه اعداد گویا () در اعداد حقیقی چگال (Dense) است، دنباله‌ای از اعداد گویا مثل وجود دارد که به میل می‌کند:۳. چون گویا است، طبق بخش قبلی می‌دانیم:۴. حال از شرط پیوستگی تابع در نقطه استفاده می‌کنیم. تعریف پیوستگی ایجاب می‌کند که حد تابع برابر با مقدار تابع باشد:۵. چون پیوسته است، می‌توانیم حد را به بیرون تابع منتقل کنیم (جابجایی حد و تابع):۶. جایگذاری رابطه اعداد گویا:۷. چون ثابت است از حد بیرون می‌آید:۸. و چون :علاوه بر پیوستگی، هر یک از شرایط زیر نیز برای نتیجه‌گیری کافی است:
+پیوستگی در یک نقطه: اگر تنها در یک نقطه پیوسته باشد، در همه جا پیوسته است.
+کرانداری: اگر در یک بازه کوچک کراندار باشد (از بالا یا پایین).
+یکنوایی: اگر صعودی یا نزولی باشد.
+انتگرال‌پذیری: اگر به صورت محلی انتگرال‌پذیر باشد.
+اگر هیچ شرط اضافی (پیوستگی، کرانداری و...) نداشته باشیم، با پذیرش اصل انتخاب (Axiom of Choice)، توابعی وجود دارند که هستند اما .
+این توابع نموداری بسیار آشفته دارند (در هر همسایگی از هر نقطه، نمودار متراکم است). برای ساختن آن‌ها، را به عنوان یک فضای برداری روی میدان در نظر می‌گیرند و از پایه‌ای به نام پایه هامل استفاده می‌کنند.
+]]></description><link>05-questions/ai/حل-کامل-معادله-تابعی-کوشی-و-توضیح-معادله-تابعی-کوشی-(هوش-مصنوعی).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی).md</guid><pubDate>Fri, 05 Dec 2025 20:49:02 GMT</pubDate></item><item><title><![CDATA[معادله کوشی پیوستگی]]></title><description><![CDATA[خلاصه سریع
+در معادله ، اگر تابع فقط در یک نقطه (مثلاً صفر) پیوسته باشد، پیوستگی به تمام نقاط دامنه سرایت می‌کند.
+<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>حکم: اگر در پیوسته باشد، در هر نقطه دلخواه نیز پیوسته است.مراحل اثبات
+۱. تغییر متغیر: فرض کنیم به میل می‌کند. متغیر را بصورت تعریف می‌کنیم.
+وقتی ، طبیعتاً .
+۲. بررسی حد: ۳. استفاده از خاصیت جمعی (معادله کوشی): ۴. محاسبه حد:
+چون ثابت است، حدش خودش می‌شود. برای چون در صفر پیوسته است:
+از طرفی می‌دانیم (چون ).
+۵. نتیجه:
+پس تابع در پیوسته است. به همین ترتیب هم اثبات میشه اگر در هر نقطه ای پیوسته باشه در تمامی نقاط پیوسته است]]></description><link>01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/معادله کوشی پیوستگی.md</guid><pubDate>Fri, 05 Dec 2025 20:32:14 GMT</pubDate></item><item><title><![CDATA[توضیح بیشتر قسمت گویا اثبات معادله تابعی کوشی]]></title><description><![CDATA[<a data-href="حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)" href="05-questions/ai/حل-کامل-معادله-تابعی-کوشی-و-توضیح-معادله-تابعی-کوشی-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)</a>این بخش قلب تپنده‌ی اثبات برای اعداد گویا است. دلیل اینکه در متن اصلی به صورت خلاصه ("مشابه بخش الف") به آن اشاره شد، این است که منطق آن دقیقاً تکرار همان کاری است که برای اعداد طبیعی انجام دادیم، اما این بار روی یک عدد کسری اعمال می‌شود.بیایید این بخش را زیر ذره‌بین ببریم و باز کنیم تا کاملاً شفاف شود. این متن برای کپی در جزوه شما آماده شده است:در معادله تابعی کوشی، ما یک قانون ساده داریم: «تابع جمع را می‌شکند».
+وقتی می‌خواهیم این خاصیت را برای جملات تکراری (ضرب در عدد صحیح) استفاده کنیم، در واقع داریم از تعریف ضرب به عنوان جمع‌های مکرر استفاده می‌کنیم.فرض کنید یک عدد دلخواه (حقیقی، گویا، یا کسری) باشد و یک عدد طبیعی ().
+عبارت یعنی چه؟
+یعنی تابع را روی مجموعِ بارِ عدد اعمال کنیم:حالا تابع را روی این عبارت اعمال می‌کنیم و قدم‌به‌قدم باز می‌کنیم:در ریاضیات، جمعِ بارِ یک مقدار مثل برابر است با ضربدر آن مقدار:
+معنای شهودی: در معادله کوشی، ضریب صحیح () می‌تواند از داخل پرانتز به بیرون پرانتز «سُر بخورد».
+در اثبات اعداد گویا، ما گیر کرده بودیم و می‌خواستیم مقدار را پیدا کنیم.
+برای این کار، یک ترفند زدیم. آمدیم عبارت را به دو روش مختلف محاسبه کردیم:روش اول (ساده‌سازی جبری درون پرانتز):
+توی پرانتز، در مخرج با ضریب ساده می‌شود:و چون عدد صحیح است، قبلاً ثابت کردیم . پس:روش دوم (استفاده از خاصیت بیرون کشیدن ضریب):
+اینجاست که از آن خاصیت "جملات تکراری" که در بالا توضیح دادم استفاده می‌کنیم. فرض کنید . طبق فرمول کادر بالا ():نتیجه‌گیری نهایی:
+چون هر دو روش مربوط به یک چیز واحد () هستند، باید با هم برابر باشند:حالا کافیست طرفین را بر تقسیم کنیم تا تنها شود:خلاصه برای یادداشت:
+عبارت «خاصیت جمع‌پذیری برای جملات تکراری» یعنی ما اجازه داریم عدد صحیح را از آرگومان تابع بیرون بکشیم:
+این کلید حل معادله برای اعداد کسری است.]]></description><link>05-questions/ai/توضیح-بیشتر-قسمت-گویا-اثبات-معادله-تابعی-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/توضیح بیشتر قسمت گویا اثبات معادله تابعی کوشی.md</guid><pubDate>Fri, 05 Dec 2025 20:19:46 GMT</pubDate></item><item><title><![CDATA[سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی)]]></title><description><![CDATA[<a data-href="حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)" href="05-questions/ai/حل-کامل-معادله-تابعی-کوشی-و-توضیح-معادله-تابعی-کوشی-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)</a>
+سوال ارسلان:
+اکثر توابع در فرم معادله تابعی کوشی قرار نمی‌گیرند؟ درست میگم؟ یعنی محدود توابعی وجود دارد که برای آنها شرط برقرار هستش؟پاسخ هوش مصنوعی:
+بله، کاملاً درست می‌گویید. شهود شما بسیار دقیق است.در واقع، این معادله یک فیلتر بسیار سخت‌گیرانه است. در میان اقیانوس بی‌نهایت توابعی که در ریاضیات وجود دارند، تعداد بسیار اندکی (عملاً فقط خط‌های راستی که از مبدأ می‌گذرند) اجازه عبور از این فیلتر را دارند.برای اینکه این موضوع را دقیق‌تر در جزوه آبسیدین خود داشته باشید، می‌توانید توضیحات زیر را اضافه کنید:شرط بیانگر خاصیت «خطی بودن» (Linearity) به خالص‌ترین شکل ممکن است. این شرط دو محدودیت بزرگ ایجاد می‌کند:
+تابع نباید انحنا داشته باشد: (چون انحنا باعث می‌شود مجموع تغییر کند).
+تابع نباید از مبدأ فاصله داشته باشد: (باید حتماً از بگذرد).
+بیایید چند تابع بسیار ساده را چک کنیم تا ببینیم چقدر سریع در این آزمون مردود می‌شوند:فرض کنید .
+سمت چپ: سمت راست: نتیجه: مردود (چون منحنی است). این مورد بسیار مهم است. در دبیرستان به می‌گوییم تابع خطی، اما در جبر خطی و معادله کوشی، این تابع خطی نیست (به آن آفین می‌گویند).فرض کنید .
+سمت چپ: سمت راست: نتیجه: مردود (چون از مبدأ نمی‌گذرد). فرض کنید .می‌دانیم .این عبارت مشخصاً با برابر نیست.
+نتیجه: مردود. فرض کنید .
+سمت چپ: سمت راست: نتیجه: ضرب کجا و جمع کجا! مردود. اگر تمام توابع ممکن را مثل یک هرم در نظر بگیریم:
+قاعده هرم (اکثریت مطلق): توابعی که در معادله کوشی صدق نمی‌کنند (مثل ).
+نوک هرم (اقلیت محض): توابعی که صدق می‌کنند. این‌ها فقط و فقط توابع به فرم هستند (با فرض پیوستگی). نکته برای جزوه:
+معادله تعریف‌کننده همومورفیسم گروهی (Group Homomorphism) برای جمع است. این ساختار آنقدر صلب و خشک است که اجازه هیچ‌گونه «خلاقیت» یا «انحنا» به تابع نمی‌دهد.
+قدم بعدی پیشنهادی:حالا که متوجه شدید این معادله چقدر سخت‌گیر است، آیا می‌خواهید بدانید اگر شرط را کمی تغییر دهیم (مثلاً که مربوط به لگاریتم است)، چه توابعی قبول می‌شوند؟ این می‌تواند یک جدول مقایسه عالی برای جزوه‌تان باشد.]]></description><link>05-questions/ai/سوال-و-رفع-ابهام-معادله-تابعی-کوشی-و-توضیح-بیشترش-(هوش-مصنوعی).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی).md</guid><pubDate>Fri, 05 Dec 2025 19:58:41 GMT</pubDate></item><item><title><![CDATA[حل-کامل-معادله-کوشی]]></title><description><![CDATA[ارسلان: من این جزوه و حل استاد رو نفهمیدم و بنظرم خوب توضیحش نداده و با روش خوبی اثباتش نکرده، از اینجاها خوندمش:
+<a data-href="حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)" href="05-questions/ai/حل-کامل-معادله-تابعی-کوشی-و-توضیح-معادله-تابعی-کوشی-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">حل کامل معادله تابعی کوشی و توضیح معادله تابعی کوشی (هوش مصنوعی)</a><br>
+<a data-href="سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی)" href="05-questions/ai/سوال-و-رفع-ابهام-معادله-تابعی-کوشی-و-توضیح-بیشترش-(هوش-مصنوعی).html" class="internal-link" target="_self" rel="noopener nofollow">سوال و رفع ابهام معادله تابعی کوشی و توضیح بیشترش (هوش مصنوعی)</a>توابع را بیابید که در شرط زیر صدق کنند و پیوسته باشند:
+پاسخ: (که ).این اثبات کلاسیک در ۴ مرحله دامنه را گسترش می‌دهد: .با استقرای ریاضی نشان می‌دهیم .
+پایه: .
+حکم: .
+ابتدا ثابت می‌کنیم تابع فرد است:
+پس برای اعداد منفی هم خاصیت خطی برقرار است: .فرض کنیم یک عدد گویا باشد.
+از طرف دیگر طبق خاصیت قسمت اول:
+پس و با تقسیم بر :
+اگر قرار دهیم و باشد، داریم: برای هر گویا.برای تعمیم به اعداد حقیقی، پیوستگی الزامی است.
+برای هر عدد حقیقی ، دنباله‌ای از اعداد گویا وجود دارد که به میل می‌کند () [چگالی اعداد گویا].چون پیوسته است، حد جابجا می‌شود:
+چون گویاست، طبق مرحله ۳ داریم :
+نتیجه: برای تمام .]]></description><link>01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/حل-کامل-معادله-کوشی.md</guid><pubDate>Fri, 05 Dec 2025 19:26:25 GMT</pubDate></item><item><title><![CDATA[قضیه-همگرایی-زیردنباله]]></title><description><![CDATA[<a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>صورت قضیه
+یک دنباله همگراست اگر و تنها اگر تمام زیردنباله‌های آن همگرا باشند (و به همان حد میل کنند).
+فرض: همه زیردنباله‌ها همگرا هستند.
+حکم: خود دنباله همگراست.
+اثبات: خود دنباله ، یک زیردنباله از خودش است (با انتخاب ). پس طبق فرض، همگراست. فرض: دنباله اصلی به همگراست ().
+حکم: هر زیردنباله دلخواه نیز به همگراست.مراحل اثبات دقیق
+۱. استفاده از تعریف حد برای :
+چون ، برای هر ، یک وجود دارد که: ۲. ویژگی اندیس‌ها:
+می‌دانیم صعودی اکید است، پس همواره .
+اگر باشد، نتیجه می‌گیریم .
+۳. ترکیب:
+فرض کنیم .
+اندیس را در نظر بگیرید. چون است، می‌توانیم آن را در رابطه جایگذاری کنیم: ۴. نتیجه:
+نشان دادیم .
+پس زیردنباله به میل می‌کند. از این قضیه معمولاً برای رد همگرایی استفاده می‌شود:
+اگر بتوانیم دو زیردنباله پیدا کنیم که به حدهای متفاوتی بروند (مثلاً یکی به و دیگری به )، دنباله اصلی واگراست.]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/قضیه-همگرایی-زیردنباله.md</guid><pubDate>Fri, 05 Dec 2025 17:05:38 GMT</pubDate></item><item><title><![CDATA[قضیه-همگرایی-یکنوا]]></title><description><![CDATA[خلاصه سریع
+اگر یک دنباله همواره در حال صعود باشد اما سقفی داشته باشد که نتواند از آن عبور کند، حتماً به یک عدد خاص گیر می‌کند (همگرا می‌شود).
+یک دنباله همگراست اگر و تنها اگر:
+یکنوا باشد (اکیداً صعودی یا اکیداً نزولی).
+کران‌دار باشد (محدود به یک عدد ).
+فرم ریاضی در دنباله‌هایی که با رابطه بازگشتی داده می‌شوند، برای یافتن حد ۳ مرحله داریم:
+اثبات یکنوایی: با استقرا نشان دهیم .
+اثبات کران‌داری: عددی مثل را حدس بزنیم و با استقرا نشان دهیم .
+محاسبه حد: حالا که وجود حد () تضمین شد، در رابطه بازگشتی جای و ، مقدار را قرار داده و معادله را حل می‌کنیم.
+]]></description><link>01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته سوم/قضیه-همگرایی-یکنوا.md</guid><pubDate>Thu, 04 Dec 2025 22:45:29 GMT</pubDate></item><item><title><![CDATA[تعریف-زیردنباله]]></title><description><![CDATA[خلاصه سریع
+زیردنباله یعنی انتخاب تعدادی از جملات دنباله اصلی با حفظ ترتیب آن‌ها. (نمی‌توانیم به عقب برگردیم).
+<a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>فرض کنید یک دنباله باشد.
+یک تابع اکیداً صعودی از اعداد طبیعی به اعداد طبیعی در نظر می‌گیریم:
+به دنباله جدید یک زیردنباله از می‌گویند.چون صعودی اکید است () و دامنه آن اعداد طبیعی است، می‌توان با استقرا ثابت کرد:ویژگی مهم
+یعنی اندیس -امین جمله زیردنباله، همیشه جلوتر یا مساوی -امین جمله دنباله اصلی است. این ویژگی در اثبات‌های همگرایی کلیدی است.
+]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/تعریف-زیردنباله.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/تعریف-زیردنباله.md</guid><pubDate>Thu, 04 Dec 2025 22:38:13 GMT</pubDate></item><item><title><![CDATA[اثبات-یکتایی-حد]]></title><description><![CDATA[<a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a><br>
+<a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>اگر دنباله همگرا باشد، حد آن یکتا است. (نمی‌تواند همزمان به دو عدد و میل کند).گام ۱: فرض خلف
+فرض می‌کنیم دنباله به دو حد متمایز و همگرا باشد ().
+گام ۲: تعریف همسایگی‌ها
+طبق تعریف همگرایی، برای هر دلخواه: برای : برای : فرض می‌کنیم تا هر دو شرط برقرار باشند.
+<br>گام ۳: استفاده از <a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a>
+فاصله بین دو حد فرضی را می‌سنجیم:
+با جایگذاری مقادیر گام ۲: گام ۴: نتیجه‌گیری
+رسیدیم به .
+فاصله ثابت بین دو عدد نمی‌تواند از هر عدد مثبت دلخواهی () کوچکتر باشد، مگر اینکه آن فاصله صفر باشد.
+تضاد با فرض خلف. پس حد یکتاست. ]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/اثبات-یکتایی-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/اثبات-یکتایی-حد.md</guid><pubDate>Thu, 04 Dec 2025 22:36:59 GMT</pubDate></item><item><title><![CDATA[دنباله-و-همگرایی]]></title><description><![CDATA[خلاصه سریع
+دنباله تابعی است با دامنه اعداد طبیعی (). همگرایی دنباله همان مفهوم حد است وقتی به بی‌نهایت می‌رود. دنباله: تابعی .
+کران‌داری: دنباله کراندار است اگر عددی مثل باشد که تمام جملات در بازه باشند.
+یکنوایی: صعودی: نزولی: دنباله به همگراست اگر:Theorem برای اثبات عدم وجود حد در توابع، از دنباله‌ها استفاده می‌کنیم.
+<a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a>
+طبق قضیه هاینه، اگر بتوانیم دو دنباله متفاوت پیدا کنیم که هر دو به میل کنند اما خروجی تابع () به مقادیر متفاوتی برود، تابع در حد ندارد.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/دنباله-و-همگرایی.md</guid><pubDate>Thu, 04 Dec 2025 22:30:33 GMT</pubDate></item><item><title><![CDATA[عدم-وجود-حد-سینوس]]></title><description><![CDATA[خلاصه سریع
+برای اثبات اینکه تابعی حد ندارد، کافیست دو دنباله پیدا کنیم که به یک نقطه بروند، اما تابع روی آن‌ها مقادیر متفاوتی بدهد.
+آیا تابع زیر در پیوسته است (حد دارد)؟
+از دو دنباله متفاوت که هر دو به میل می‌کنند
+استفاده می‌کنیم:<a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a> دنباله اول (): نقاطی که سینوس را می‌کنند. دنباله دوم (): نقاطی که سینوس را یا مقدار دیگری می‌کنند (در جزوه مثال خاصی زده شده): نتیجه
+چون ، حد تابع در صفر وجود ندارد. پس تابع ناپیوسته است.
+<br>سوال رفع ابهام ارسلان این جزوه: <a data-href="اثبات عدم وجود حد با ملاک دنباله‌ای" href="05-questions/ai/اثبات-عدم-وجود-حد-با-ملاک-دنباله‌ای.html" class="internal-link" target="_self" rel="noopener nofollow">اثبات عدم وجود حد با ملاک دنباله‌ای</a>]]></description><link>01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/عدم-وجود-حد-سینوس.md</guid><pubDate>Thu, 04 Dec 2025 22:30:08 GMT</pubDate></item><item><title><![CDATA[ملاک-دنباله‌ای-پیوستگی]]></title><description><![CDATA[خلاصه سریع
+این قضیه پلی است بین توابع پیوسته و دنباله‌ها. می‌گوید پیوستگی یعنی "حفظ همگرایی".
+تابع در نقطه پیوسته است اگر و تنها اگر:
+برای هر دنباله در دامنه که به همگراست ()، دنباله تصاویر نیز به همگرا باشد ().
+اثبات ناپیوستگی: اگر فقط یک دنباله پیدا کنید که ولی ، ناپیوستگی ثابت می‌شود.
+حد توابع عجیب: برای محاسبه حد توابعی که داخلشان دنباله دارند، بسیار مفید است.
+از روی جزوه های دیگه بخوندیش.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/ملاک-دنباله‌ای-پیوستگی.md</guid><pubDate>Thu, 04 Dec 2025 22:28:28 GMT</pubDate></item><item><title><![CDATA[پیوستگی-تابع]]></title><description><![CDATA[خلاصه سریع
+تابعی پیوسته است که حد آن با مقدار آن برابر باشد. به زبان ساده، نمودار آن پارگی یا پرش نداشته باشد.
+تابع در نقطه پیوسته است هرگاه:شرط پیوستگی به زبان منطق ():
+(تفاوت با حد: شرط حذف شده است).اگر پیوسته باشد، می‌توان حد را به درون تابع برد. این ویژگی کلیدی در حل حدود پیچیده است:
+توابع براکتی کاندیدای اصلی ناپیوستگی در نقاط صحیح هستند.مثال خاص: با اینکه کسر داخل به میل می‌کند، اما چون مخرج بزرگتر است، مقدار کسر همواره اندکی کمتر از ۱ است ().
+نکته: برای اطمینان از نزولی/صعودی بودن عبارت داخل، می‌توان از مشتق استفاده کرد.
+]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/پیوستگی-تابع.md</guid><pubDate>Thu, 04 Dec 2025 22:28:01 GMT</pubDate></item><item><title><![CDATA[منطق-اثبات-حد]]></title><description><![CDATA[<a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>دام منطقی
+در حل مسائل حد ()، روشی که روی کاغذ می‌نویسیم (از شروع می‌کنیم تا به برسیم) در واقع مسیر بازگشت است.
+از نظر منطق ریاضی، استفاده از حکم برای رسیدن به فرض غلط است!
+فرآیند استاندارد دو مرحله دارد:در این مرحله ما "فرض می‌کنیم" حکم درست است تا ببینیم چه ای مناسب است.
+در برگه امتحان یا مقالات، اثبات باید از شروع شود:
+فرض می‌کنیم داده شده است.
+ما را (که در مرحله قبل کشف کردیم) معرفی می‌کنیم.
+با فرض ، قدم به قدم جلو می‌رویم تا ثابت کنیم .
+]]></description><link>01-concepts/یکشنبه-هفته-سوم/منطق-اثبات-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/منطق-اثبات-حد.md</guid><pubDate>Thu, 04 Dec 2025 22:27:48 GMT</pubDate></item><item><title><![CDATA[تعریف-دقیق-حد]]></title><description><![CDATA[خلاصه سریع
+حد به این معناست که برای هر فاصله خطای دلخواه () روی محور ، می‌توانیم یک فاصله () روی محور پیدا کنیم که تمام نقاط آن بازه را درون خطای مجاز نگه دارد.
+این تعریف یک بازی ریاضی است:
+چالشگر (): یک بازه بسیار کوچک دور عدد روی محور عرض‌ها انتخاب می‌کند.
+پاسخ‌دهنده (): باید یک شعاع همسایگی دور روی محور طول‌ها پیدا کند که تمام نقاط آن (به جز خود ) توسط تابع به درون بازه حریف پرتاب شوند.
+تابع در نقطه دارای حد است () اگر و تنها اگر:تعریف کوشی همسایگی محذوف (): این شرط یعنی خود نقطه هیچ اهمیتی ندارد. تابع حتی می‌تواند در تعریف نشده باشد.
+وابستگی: مقدار معمولاً تابعی از است (). هرچه کوچکتر شود، معمولاً نیز باید کوچکتر شود.
+اگر شرط "همسایگی محذوف" برداشته شود و مقدار حد برابر باشد، به تعریف <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a> می‌رسیم.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/تعریف-دقیق-حد.md</guid><pubDate>Thu, 04 Dec 2025 22:27:41 GMT</pubDate></item><item><title><![CDATA[تعریف-اپسیلونی-صفر]]></title><description><![CDATA[خلاصه سریع
+در آنالیز حقیقی، عددی که از هر عدد مثبت دلخواهی کوچکتر باشد (و منفی نباشد)، قطعاً صفر است.
+اگر یک عدد نامنفی باشد () و داشته باشیم:
+آنگاه نتیجه می‌گیریم:
+این مفهوم در اثبات یکتایی حد و همگرایی دنباله‌ها بسیار حیاتی است. وقتی ثابت می‌کنیم فاصله بین دو چیز () از هر کوچکتر است، در واقع ثابت کرده‌ایم که آن فاصله صفر است و .]]></description><link>01-concepts/یکشنبه-هفته-سوم/تعریف-اپسیلونی-صفر.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/تعریف-اپسیلونی-صفر.md</guid><pubDate>Thu, 04 Dec 2025 22:27:15 GMT</pubDate></item><item><title><![CDATA[تابع-فرد]]></title><description><![CDATA[خلاصه سریع
+تابعی که نسبت به مبدأ مختصات تقارن دارد.
+تابع فرد است اگر برای هر در دامنه، نیز در دامنه باشد و:
+در حل معادله کوشی ()، فرد بودن تابع یک نتیجه مستقیم است:
+]]></description><link>01-concepts/یکشنبه-هفته-سوم/تابع-فرد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/تابع-فرد.md</guid><pubDate>Thu, 04 Dec 2025 22:27:04 GMT</pubDate></item><item><title><![CDATA[نامساوی-مثلثی]]></title><description><![CDATA[خلاصه سریع
+قدرمطلق مجموع دو عدد، همواره کوچکتر یا مساوی مجموع قدرمطلق‌های آن‌هاست. این ابزار اصلی در اثبات‌های است.
+برای هر دو عدد حقیقی و :قضیه همچنین فرم تفاضلی آن (که در اثبات حد بسیار پرکاربرد است):
+یک فرم خاص و قوی‌تر که در کلاس مطرح شد (منسوب به سعادتی):ایده اثبات
+این رابطه از بسط نتیجه می‌شود که به نامساوی می‌رسیم. با اضافه کردن به طرفین، اتحاد کامل ساخته شده و جذر گرفته می‌شود.
+در اثبات‌های <a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>، معمولاً سعی می‌کنیم عبارت را با استفاده از نامساوی مثلثی به اجزای کوچکتری بشکنیم که بتوانیم آن‌ها را با کنترل کنیم.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/نامساوی-مثلثی.md</guid><pubDate>Thu, 04 Dec 2025 22:26:55 GMT</pubDate></item><item><title><![CDATA[قضیه-فشردگی]]></title><description><![CDATA[خلاصه سریع
+اگر تابعی بین دو تابع دیگر گیر کرده باشد و آن دو تابع به یک عدد میل کنند، تابع وسطی هم مجبور است به همان عدد میل کند.
+اگر برای تمام ها در نزدیکی داشته باشیم:
+و بدانیم ، آنگاه:
+مراحل اثبات برای : چون حدش است، پس در فاصله داریم: .
+برای : چون حدش است، پس در فاصله داریم: .
+کلید اثبات: انتخاب .
+در این فاصله مشترک: حد :
+کران سینوس: .
+ضرب در (یا برای دقت): .
+حد طرفین صفر است، پس حد وسط هم صفر است.
+]]></description><link>01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/قضیه-فشردگی.md</guid><pubDate>Thu, 04 Dec 2025 22:25:44 GMT</pubDate></item><item><title><![CDATA[سوپریموم-و-اینفیموم]]></title><description><![CDATA[خلاصه سریع
+دقیق‌ترین و "تنگ‌ترین" کران‌های ممکن برای یک مجموعه. Sup: سقفِ چسبیده به مجموعه.
+Inf: کفِ چسبیده به مجموعه. اگر یک مجموعه از اعداد حقیقی باشد:کوچکترین کران بالا (Least Upper Bound - LUB).
+یعنی عددی مثل که:
+همه اعضای مجموعه از آن کوچکتر یا مساوی باشند ().
+هیچ عدد کوچکتری از نتواند کران بالا باشد.
+بزرگترین کران پایین (Greatest Lower Bound - GLB).
+یعنی عددی مثل که:
+همه اعضای مجموعه از آن بزرگتر یا مساوی باشند ().
+هیچ عدد بزرگتری از نتواند کران پایین باشد.
+تفاوت با Max و Min
+سوپریموم و اینفیموم لزومی ندارد عضو خود مجموعه باشند (مثل بازه که است اما در مجموعه نیست)، اما ماکزیمم و مینیمم حتماً باید عضو مجموعه باشند.
+]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/سوپریموم-و-اینفیموم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/سوپریموم-و-اینفیموم.md</guid><pubDate>Thu, 04 Dec 2025 22:24:38 GMT</pubDate></item><item><title><![CDATA[مسئله دنباله ها]]></title><description><![CDATA[<a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a><br>
+<a data-href="دنباله-و-همگرایی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html" class="internal-link" target="_self" rel="noopener nofollow">دنباله-و-همگرایی</a>صورت مسئله (تیپ رایج امتحانی)
+دنباله به صورت زیر تعریف شده است:
+با استفاده از قضیه همگرایی یکنوا، ثابت کنید این دنباله همگراست و حد آن را بیابید.
+<br>مشاهده پاسخ تشریحی و استقرا
+طبق استراتژی فایل <a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a>، باید ۳ مرحله را طی کنیم:
+گام ۱: اثبات کران‌داری (استقرا)
+ادعا می‌کنیم برای هر ، . پایه: . (برقرار است)
+فرض: فرض کنیم .
+حکم: ثابت می‌کنیم : پس دنباله از بالا به ۲ کراندار است (). گام ۲: اثبات صعودی بودن (بررسی تفاضل یا استقرا)
+باید نشان دهیم . معادل اینکه نشان دهیم .
+چون طبق گام ۱ می‌دانیم ، پس منفی است.
+همچنین همواره مثبت است.
+در نتیجه حاصل‌ضرب برابر مثبت می‌شود. گام ۳: محاسبه حد<br>
+چون دنباله صعودی و کراندار است، طبق <a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a> همگراست. فرض کنیم حد آن باشد.
+در رابطه بازگشتی حد می‌گیریم:
+چون جملات مثبت هستند، قابل قبول است.
+<br><a data-href="قضیه-همگرایی-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-زیردنباله</a><br>
+<a data-href="تعریف-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/تعریف-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-زیردنباله</a>صورت مسئله (اثبات نظری)
+فرض کنید یک دنباله باشد. ثابت کنید اگر دو زیردنباله جملات زوج () و جملات فرد () هر دو به یک عدد واحد همگرا باشند، آنگاه کل دنباله به همگراست.
+چالش: چرا این مسئله بدیهی نیست؟ چون قضیه اصلی می‌گفت "اگر دنباله همگرا باشد، زیردنباله‌ها همگرایند". اینجا عکس آن را با شرط خاص بررسی می‌کنیم.
+مشاهده اثبات دقیق
+هدف: نشان دهیم .
+گام ۱: استفاده از فرض‌ها
+چون :
+چون : گام ۲: یافتن کلی
+باید اندیسی پیدا کنیم که از آن به بعد، هم جملات زوج و هم فرد پوشش داده شوند.
+فرض کنید .
+گام ۳: بررسی نهایی
+فرض کنید . دو حالت داریم: حالت اول ( زوج است): .
+چون . پس طبق فرض اول، .
+حالت دوم ( فرد است): .
+چون . پس طبق فرض دوم، . نتیجه: در هر دو حالت فاصله کمتر از شد. پس کل دنباله همگراست. <br><a data-href="سوپریموم-و-اینفیموم" href="01-concepts/سه‌شنبه-هفته-سوم/سوپریموم-و-اینفیموم.html" class="internal-link" target="_self" rel="noopener nofollow">سوپریموم-و-اینفیموم</a><br>
+<a data-href="قضیه-همگرایی-یکنوا" href="01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-یکنوا</a>صورت مسئله (مفهومی و عمیق)
+ثابت کنید: اگر دنباله صعودی و کراندار باشد، آنگاه حد دنباله دقیقاً برابر با سوپریموم مجموعه جملات آن است. مشاهده اثبات آنالیزی
+فرض کنیم مجموعه جملات باشد و .
+باید نشان دهیم .
+گام ۱: شرط اول حد (کوچکتر بودن)
+چون سوپریموم (کوچکترین کران بالا) است، پس کران بالا هم هست. یعنی برای تمام ها:
+بنابراین .
+گام ۲: شرط دوم سوپریموم (نزدیک شدن)
+طبق تعریف سوپریموم، اگر مقدار بسیار کمی () از کم کنیم، دیگر کران بالا نخواهد بود.
+یعنی عددی در دنباله وجود دارد (مثلاً ) که از بزرگتر است: گام ۳: استفاده از صعودی بودن
+چون دنباله صعودی است، برای هر داریم .
+پس: نتیجه‌گیری:
+برای هر ، یک یافتیم که اگر :
+این دقیقاً تعریف حد است. پس . <br><a data-href="قضیه-همگرایی-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-زیردنباله</a>صورت مسئله
+نشان دهید دنباله واگراست.
+راهنمایی: دو زیردنباله پیدا کنید که به مقادیر متفاوتی بروند.
+مشاهده پاسخ
+برای اثبات واگرایی، کافیست دو زیردنباله با حدهای متفاوت بیابیم.
+زیردنباله اول ():
+حد این زیردنباله ۱ است.
+زیردنباله دوم ():
+حد این زیردنباله ۱- است.
+نتیجه:<br>
+چون ، طبق <a data-href="قضیه-همگرایی-زیردنباله" href="01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-همگرایی-زیردنباله</a> (جهت رفت)، دنباله اصلی نمی‌تواند همگرا باشد.
+]]></description><link>03-practice/ai/مسئله-دنباله-ها.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/03 Practice/AI/مسئله دنباله ها.md</guid><pubDate>Thu, 04 Dec 2025 22:06:27 GMT</pubDate></item><item><title><![CDATA[مسئله-حد-و-پیوستگی]]></title><description><![CDATA[<a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a><br>
+<a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>صورت سوال
+با استفاده از تعریف دقیق حد () ثابت کنید: مشاهده پاسخ تشریحی
+گام ۱: تحلیل و ساده‌سازی عبارت ابتدا تفاضل تابع از حد را تشکیل می‌دهیم تا عامل را در آن پیدا کنیم: هدف ما این است که کل این عبارت کوچکتر از شود: گام ۲: یافتن کران برای عامل مزاحم (کنترل مخرج)
+باید کسر را از بالا کراندار کنیم. برای این کار باید مخرج را از پایین محدود کنیم (تا کسر بزرگ نشود).
+۱. فرض اولیه برای : فرض می‌کنیم .
+۲. محدود کردن :
+۳. ساختن مخرج (): پس .
+۴. کران‌داری کسر: گام ۳: یافتن نهایی
+اکنون نامساوی اصلی را بازنویسی می‌کنیم: می‌خواهیم این مقدار کمتر از باشد: انتخاب نهایی: گام ۴: نگارش اثبات (چک کردن نهایی)
+برای هر ، مقدار را انتخاب می‌کنیم.
+اگر باشد، آنگاه:
+۱. چون ، پس و در نتیجه .
+۲. چون است.
+در نتیجه: صورت مسئله
+فرض کنید تابع به صورت زیر تعریف شده باشد:
+با استفاده از قضایای حد، ثابت کنید که این تابع در نقطه پیوسته است.
+مشاهده پاسخ تشریحی و ارجاعات
+گام ۱: تحلیل شرط پیوستگی<br>
+برای اینکه تابع در صفر پیوسته باشد، طبق <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>، باید حد تابع در این نقطه با مقدار تابع برابر باشد:
+پس مسئله تبدیل می‌شود به محاسبه حد .
+گام ۲: استفاده از قضیه فشردگی<br>
+چون عبارت یک تابع نوسانی است و حد مشخصی ندارد، نمی‌توانیم از قوانین ساده حد استفاده کنیم. اما می‌دانیم این تابع کراندار است. طبق استراتژی‌های مطرح شده در <a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a> عمل می‌کنیم:
+۱. یافتن کران‌ها:
+می‌دانیم برای هر : ۲. ساختن تابع اصلی (ضرب در عبارت مثبت):
+طرفین نامساوی را در ضرب می‌کنیم. چون است، جهت نامساوی تغییر نمی‌کند: گام ۳: محاسبه حد طرفین
+حال حد توابع کران بالا و پایین را حساب می‌کنیم: گام ۴: نتیجه‌گیری نهایی<br>
+چون حد طرفین برابر صفر است، بنابر <a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a> (قضیه ساندویچ)، حد تابع وسط نیز مجبور است صفر باشد: از آنجا که این حد با مقدار برابر شد، تابع در پیوسته است. نکته مقایسه‌ای:<br>
+اگر توان در این مثال وجود نداشت (یعنی تابع بود)، طبق <a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a>، حد موجود نبود و تابع ناپیوسته می‌شد. وجود عامل (یا حتی ) باعث «دامپینگ» یا خفگی نوسان در مبدأ می‌شود.
+<br><a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a>صورت مسئله
+با استفاده از ملاک دنباله‌ای ثابت کنید که تابع زیر در نقطه حد ندارد (و در نتیجه ناپیوسته است):
+راهنمایی: باید دو دنباله متفاوت پیدا کنید که هر دو به صفر میل کنند، اما تصویر تابع روی آن‌ها به مقادیر متفاوتی برسد.
+مشاهده پاسخ تشریحی و اتصالات
+گام ۱: استراتژی حل<br>
+طبق <a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a>، اگر بتوانیم دو دنباله و پیدا کنیم که: و اما <br>
+آنگاه حد تابع در صفر وجود ندارد. این روش بسیار ساده‌تر از استفاده مستقیم از <a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a> برای اثبات عدم وجود است. گام ۲: ساخت دنباله اول ()
+می‌خواهیم دنباله‌ای بسازیم که همیشه برابر ۱ شود.
+می‌دانیم . پس قرار می‌دهیم:
+بررسی همگرایی: وقتی ، مخرج به بی‌نهایت می‌رود، پس .
+مقدار حد تصویر: گام ۳: ساخت دنباله دوم ()
+حالا دنباله‌ای می‌خواهیم که برابر -۱ (یا صفر) شود تا با حد قبلی متفاوت باشد.
+می‌دانیم (مضارب فرد ). پس:
+بررسی همگرایی: واضح است که .
+مقدار حد تصویر: گام ۴: نتیجه‌گیری<br>
+از آنجا که دو دنباله متفاوت به میل کردند اما تصاویر آن‌ها به مقادیر متفاوت ( و ) رسیدند، طبق <a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a> (که منطق مشابهی دارد) و اصل ملاک دنباله‌ای، وجود ندارد. 🔗 اتصالات شبکه دانش: <br>این مسئله دقیقاً «عکس نقیض» <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a> است.
+<br>تفاوت این مثال با مثال <a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a> در این است که در آنجا عامل نوسان را خفه می‌کرد، اما اینجا نوسان آزادانه تا بینهایت ادامه دارد. <br><a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a><br>صورت مسئله
+با استفاده از <a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a> () ثابت کنید:
+چالش: این مسئله ترکیبی از تکنیک توابع کسری (کنترل مخرج) و توابع رادیکالی (مزدوج) است.
+Solution
+مشاهده پاسخ تشریحی و ارجاعات
+گام ۱: ساده‌سازی و ظاهر کردن عامل هدف ما کوچک کردن عبارت است. ابتدا کسرها را یکی می‌کنیم:<br> برای اینکه عامل ظاهر شود، صورت کسر را در مزدوجش () ضرب و تقسیم می‌کنیم (تکنیک جدید برای <a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a>): گام ۲: کران‌داری (کنترل مخرج)
+اکنون باید «عامل مزاحم» را از بالا محدود کنیم. چون این عبارت در مخرج است، باید برای خود مخرج یک کران پایین (عدد مثبت دور از صفر) پیدا کنیم.
+۱. فرض اولیه: (یک شعاع امن دور ۴).
+۲. محدود کردن :
+۳. ساختن مخرج:
+چون ، پس .
+مخرج عبارت مزاحم عبارت است از . (نکته: برای سادگی محاسبات می‌توانیم بگوییم چون قطعا . پس مخرج بزرگتر از است. این کران ساده‌تر و امن است).
+پس: گام ۳: انتخاب نهایی نامساوی اصلی تبدیل می‌شود به:
+می‌خواهیم این عبارت کمتر از باشد: پس انتخاب می‌کنیم: 🔗 آپدیت شبکه دانش:<br>
+پیشنهاد می‌کنم این روش را به عنوان «بخش ۴: توابع رادیکالی» به فایل <a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a> اضافه کنی. کلید این روش ضرب در مزدوج برای تبدیل به است.
+<br><a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a><br>
+<a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a>صورت مسئله (سطح: دشوار)
+با استفاده از تعریف دقیق حد () ثابت کنید:
+چالش: تفاوت این مسئله با تابع درجه ۲ در این است که تجزیه جملات بزرگتری تولید می‌کند که کنترل کردن آن‌ها نیاز به دقت بالاتری در انتخاب دارد.
+مشاهده پاسخ تشریحی
+گام ۱: تجزیه و تحلیل تفاضل
+طبق معمول از شروع می‌کنیم و از اتحاد چاق و لاغر استفاده می‌کنیم:
+در اینجا عامل اصلی (Small term) و عامل مزاحم (Big term) است که باید محدود شود.
+گام ۲: کنترل عامل مزاحم (Bounding)
+برای کراندار کردن عامل مزاحم، باید یک همسایگی اولیه برای فرض کنیم.
+۱. فرض اولیه: فرض می‌کنیم .
+۲. یافتن بازه :
+۳. ماکسیمم کردن عامل مزاحم:<br>
+می‌خواهیم را در بازه از بالا کراندار کنیم. با استفاده از <a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a>: چون ماکسیمم در این بازه کوچکتر از ۳ است: بنابراین عامل مزاحم همواره کوچکتر از ۱۹ است.
+گام ۳: انتخاب نهایی
+نامساوی اصلی تبدیل می‌شود به:
+شرط : انتخاب: گام ۴: اثبات نهایی
+برای هر ، دلتای فوق را انتخاب می‌کنیم. اگر :
+۱. چون ، عامل مزاحم کمتر از ۱۹ است.
+۲. چون ، پس .
+در نتیجه: <br><a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a><br>
+<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>صورت مسئله (نکته‌دار)
+حد زیر را محاسبه کنید (یا نشان دهید وجود ندارد):
+راهنمایی: تابع جزء صحیح () به تنهایی حد ندارد، اما در اینجا با یک عامل صفر شونده قوی () ترکیب شده است. از ویژگی استفاده کنید.
+مشاهده پاسخ تشریحی
+گام ۱: استفاده از تعریف جزء صحیح
+برای هر عدد حقیقی داریم:
+اگر قرار دهیم: گام ۲: ساختن تابع اصلی
+طرفین نامساوی را در ضرب می‌کنیم.
+نکته مهم: چون همواره نامنفی است، جهت نامساوی تغییر نمی‌کند (اگر در ضرب می‌کردیم باید حالت‌های چپ و راست را جدا می‌کردیم).
+ساده‌سازی: گام ۳: حدگیری از کران‌ها گام ۴: نتیجه‌گیری<br>
+بنابر <a data-href="قضیه-فشردگی" href="01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-فشردگی</a>، چون توابع سمت چپ و راست به صفر میل می‌کنند، تابع وسط نیز مجبور است به صفر میل کند. تحلیل اضافی:
+اگر سوال بود، حد برابر ۱ می‌شد. (چرا؟ چون ). این مسئله نشان می‌دهد رفتار "بی‌نهایت کوچک" ضربدر "بی‌نهایت بزرگ" چقدر می‌تواند حساس باشد.
+<br><a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a>صورت مسئله (بسیار مهم در ریاضی محض)
+تابع (تابع دیریخله) به صورت زیر تعریف شده است:
+با استفاده از ملاک دنباله‌ای ثابت کنید این تابع در هیچ نقطه‌ای از اعداد حقیقی پیوسته نیست.
+راهنمایی: از خاصیت چگالی اعداد گویا و گنگ استفاده کنید (در هر بازه کوچک، هم عدد گویا هست و هم گنگ).
+مشاهده پاسخ تشریحی
+گام ۱: انتخاب یک نقطه دلخواه
+فرض کنیم یک عدد حقیقی دلخواه باشد (می‌خواهیم نشان دهیم در حد نداریم).
+گام ۲: ساخت دنباله از اعداد گویا ()
+چون اعداد گویا در چگال هستند، می‌توانیم دنباله‌ای از اعداد گویا مثل پیدا کنیم که به میل کنند ().
+مقدار تابع روی این دنباله: گام ۳: ساخت دنباله از اعداد گنگ ()
+چون اعداد گنگ نیز در چگال هستند، می‌توانیم دنباله‌ای از اعداد گنگ مثل پیدا کنیم که به میل کنند ().
+مقدار تابع روی این دنباله: گام ۴: نتیجه‌گیری
+ما دو دنباله پیدا کردیم که هر دو به میل می‌کنند، اما حدود تصاویر آن‌ها متفاوت است ().<br>
+طبق <a data-href="ملاک-دنباله‌ای-پیوستگی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/ملاک-دنباله‌ای-پیوستگی.html" class="internal-link" target="_self" rel="noopener nofollow">ملاک-دنباله‌ای-پیوستگی</a>، تابع در نقطه حد ندارد.
+چون دلخواه بود، این تابع در هیچ جا پیوسته نیست. <br><a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a><br>
+<a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>صورت مسئله (اثبات قضیه)
+فرض کنید تابع در نقطه پیوسته باشد. با استفاده از تعریف دقیق () و نامساوی مثلثی، ثابت کنید که تابع نیز در نقطه پیوسته است.
+سوال امتیازی: آیا عکس این قضیه نیز برقرار است؟ (اگر پیوسته باشد، هم پیوسته است؟)
+مشاهده اثبات و تحلیل
+بخش اول: اثبات پیوستگی <br>
+۱. فرض مسئله: چون در پیوسته است، طبق <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>، برای هر وجود دارد که: ۲. حکم مسئله: می‌خواهیم نشان دهیم پیوسته است، یعنی:<br> ۳. استفاده از ابزار: طبق فرم تفاضلی <a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a> می‌دانیم برای هر دو عدد حقیقی: اگر و باشد، داریم: ۴. نتیجه‌گیری:
+از ترکیب (۱) و (۳) نتیجه می‌شود که اگر : پس نیز پیوسته است. بخش دوم: تحلیل عکس قضیه (مثال نقض)
+خیر، عکس قضیه برقرار نیست.
+مثال نقض:
+این تابع در ناپیوسته است (حد چپ و راست برابر نیستند). اما تابع همواره برابر با ۱ است (تابع ثابت) که در تمام نقاط پیوسته است.
+<br><a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a><br>
+<a data-href="تکنیک‌های-اثبات-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تکنیک‌های-اثبات-حد</a>صورت مسئله
+حاصل حد زیر را بیابید. در هر مرحله ذکر کنید از کدام ویژگی استفاده می‌کنید. مشاهده پاسخ
+گام ۱: تحلیل تابع
+ما با یک تابع مرکب مواجهیم به فرم .<br>
+طبق ویژگی جابجایی در فایل <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a>، اگر تابع بیرونی (کسینوس) در نقطه حدِ درون پیوسته باشد، می‌توانیم لیمیت را به داخل کمان ببریم.
+گام ۲: نفوذ حد به درون تابع
+شرط: این کار مجاز است چون یک تابع پیوسته در تمام است.
+گام ۳: محاسبه حد درونی
+عبارت داخل شامل دو بخش است:
+۱. (حد معروف مثلثاتی).
+۲. .
+گام ۴: محاسبه نهایی <br><a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a><br>
+<a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>صورت مسئله (تیپ رایج امتحانی)
+مقادیر و را طوری بیابید که تابع زیر روی تمام مجموعه اعداد حقیقی پیوسته باشد: مشاهده پاسخ تشریحی
+تحلیل: نقاط شکست تابع، و هستند. برای پیوستگی روی ، تابع باید در این دو نقطه پیوستگی چپ و راست داشته باشد.
+گام ۱: بررسی پیوستگی در حد چپ: مقدار تابع و حد راست: شرط پیوستگی: گام ۲: بررسی پیوستگی در حد چپ: مقدار تابع و حد راست: شرط پیوستگی: گام ۳: حل دستگاه دو معادله
+جمع دو معادله:
+جایگذاری در معادله ۱: جواب نهایی: .
+]]></description><link>03-practice/ai/مسئله-حد-و-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/03 Practice/AI/مسئله-حد-و-پیوستگی.md</guid><pubDate>Thu, 04 Dec 2025 21:13:11 GMT</pubDate></item><item><title><![CDATA[محک-مفاهیم-جزوه-حد-پیوستگی]]></title><description><![CDATA[راهنما
+روی فلش کنار "مشاهده پاسخ" کلیک کنید تا جواب صحیح و تشریح آن باز شود.
+در اثبات حد با تعریف ، برای کنترل عامل «مزاحم» ، معمولاً فرض اولیه در نظر گرفته می‌شود. بر این اساس، کدام انتخاب نهایی برای صحیح است؟
+الف) ب) ج) د) مشاهده پاسخ
+گزینه صحیح: (ب)
+تشریح:
+طبق تکنیک کران‌داری، ابتدا فرض می‌کنیم . بنابراین که نتیجه می‌دهد .
+حال عامل مزاحم را می‌سازیم: . پس .
+برای اینکه برقرار شود، باید باشد، پس .
+در نهایت باید مینیمم دو شرط را بگیریم: .
+طبق «ملاک دنباله‌ای» (Sequential Criterion)، کدام گزاره برای اثبات ناپیوستگی تابع در نقطه کافی است؟
+الف) یافتن یک دنباله که به همگرا باشد ولی به همگرا نشود.
+ب) یافتن دو دنباله که هر دو به همگرا باشند و تصاویرشان به یک عدد یکسان میل کنند.
+ج) نشان دادن اینکه حد چپ و راست تابع در نقطه موجود ولی نابرابر است.
+د) اثبات اینکه برای هر هیچ ای یافت نمی‌شود.
+مشاهده پاسخ
+گزینه صحیح: (الف)
+تشریح:
+ملاک دنباله‌ای پیوستگی می‌گوید در پیوسته است اگر و تنها اگر برای هر دنباله داشته باشیم .
+پس برای رد پیوستگی (مثال نقض)، کافیست فقط یک دنباله پیدا کنیم که باشد اما تصویر آن به مقدار تابع در آن نقطه () میل نکند.
+در بررسی حد تابع در ، کدام استدلال صحیح است؟
+الف) چون نوسانی است، حد وجود ندارد.
+ب) چون و طرفین به صفر میل می‌کنند، حد صفر است.
+ج) حد برابر با حاصل‌ضرب حدهاست: .
+د) باید از قاعده هوپیتال استفاده کرد.
+مشاهده پاسخ
+گزینه صحیح: (ب)
+تشریح:
+تابع سینوس همواره کراندار است (). با ضرب طرفین در (برای حفظ جهت نامساوی)، تابع اصلی بین و گیر می‌کند (ساندویچ می‌شود). چون حد دو طرف صفر است، حد وسط نیز صفر می‌شود.
+برای اثبات عدم وجود حد تابع در نقطه ، کدام جفت دنباله مناسب است؟
+الف) و ب) و ج) و د) و مشاهده پاسخ
+گزینه صحیح: (ج)
+تشریح:
+دنباله اول آرگومان سینوس را به می‌برد که سینوس آن ۱ است.
+دنباله دوم آرگومان را به می‌برد که سینوس آن ۱/۲ است.
+چون ، حد وجود ندارد.
+در تعریف دقیق حد ()، شرط بیانگر چیست؟
+الف) بیانگر همسایگی متقارن است.
+ب) بیانگر «همسایگی محذوف» است؛ یعنی رفتار تابع در خود نقطه اهمیتی ندارد.
+ج) تضمین می‌کند که مثبت باشد.
+د) نشان می‌دهد که تابع باید در تعریف شده باشد.
+مشاهده پاسخ
+گزینه صحیح: (ب)
+تشریح:
+شرط به این معنی است که فاصله تا نباید صفر باشد (یعنی ). این همان مفهوم همسایگی محذوف است و تفاوت کلیدی تعریف حد با پیوستگی در همین است (در حد، مقدار تابع در نقطه مهم نیست).
+مقدار حد چقدر است؟
+الف) ۱
+ب) ۰
+ج) وجود ندارد
+د) مشاهده پاسخ
+گزینه صحیح: (ب)
+تشریح:
+کسر اگرچه به ۱ میل می‌کند، اما چون صورت از مخرج کوچکتر است، مقدار کسر همواره اندکی از ۱ کمتر است (به صورت ظاهر می‌شود).
+جزء صحیح عددی که اندکی از ۱ کمتر است ()، برابر با ۰ می‌شود.
+در اثبات حد توابع کسری مثل وقتی ، هدف اصلی از محدود کردن (مثلاً ) چیست؟
+الف) کراندار کردن صورت کسر.
+ب) ایجاد یک «کران پایین» برای مخرج تا از صفر دور شود.
+ج) استفاده از اتحاد مزدوج.
+د) مثبت نگه داشتن .
+مشاهده پاسخ
+گزینه صحیح: (ب)
+تشریح:
+در توابع کسری، خطر اصلی صفر شدن مخرج و بی‌کران شدن کسر است. با محدود کردن (مثلاً به )، تضمین می‌کنیم که در بازه‌ای قرار گیرد که مخرج آن (در اینجا ) از صفر فاصله مشخصی داشته باشد (مثلاً بزرگتر از شود).
+]]></description><link>03-practice/testing-concepts/محک-مفاهیم-جزوه-حد-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/03 Practice/Testing concepts/محک-مفاهیم-جزوه-حد-پیوستگی.md</guid><pubDate>Thu, 04 Dec 2025 19:01:13 GMT</pubDate></item><item><title><![CDATA[اثبات عدم وجود حد با ملاک دنباله‌ای]]></title><description><![CDATA[<a data-href="عدم-وجود-حد-سینوس" href="01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html" class="internal-link" target="_self" rel="noopener nofollow">عدم-وجود-حد-سینوس</a>
+سوال: این رو بهم کامل توضیح بده؟ روش حلش اشتباه نیست؟ مگر نباید دنباله به 1/x همگرا باشه بجای اینکه به x همگرا باشه؟پاسخ:خیر، روش حل کاملاً صحیح است و یادداشت شما اشتباهی ندارد.بیایید دقیقاً بررسی کنیم چرا این روش درست است و چرا دنباله باید به همگرا باشد، نه به .شما پرسیدید: «مگر نباید دنباله به همگرا باشه؟»پاسخ خیر است. دلیل آن در تعریف حد نهفته است:
+وقتی می‌گوییم ، یعنی متغیر دارد به عدد صفر نزدیک می‌شود.
+ما می‌خواهیم رفتار تابع را در نزدیکی صفر بسنجیم.
+بنابراین، دنباله‌هایی () که انتخاب می‌کنیم، نقش همان را بازی می‌کنند.
+چون ، پس دنباله‌های ما ( و ) هم باید به صفر همگرا باشند ().
+نکته کلیدی:
+این عبارت چیزی است که درون تابع اتفاق می‌افتد. وقتی (یا همان دنباله ما) به سمت صفر می‌رود، عبارت به سمت بی‌نهایت () می‌رود. دقیقا همین "به سمت بی‌نهایت رفتن آرگومان سینوس" است که باعث نوسان شدید می‌شود.برای اینکه ثابت کنیم تابعی در یک نقطه حد ندارد، از ابزاری قدرتمند به نام ملاک دنباله‌ای استفاده می‌کنیم. منطق آن چنین است:
+اگر تابع در نقطه حد داشته باشد (مثلاً عدد )، آنگاه تمام مسیرهایی (دنباله‌هایی) که به صفر می‌رسند، باید خروجی‌شان به همان برسد.
+اگر ما بتوانیم دو مسیر (دو دنباله) پیدا کنیم که هر دو به صفر برسند، اما تابع مقادیر متفاوتی را نشان دهد، یعنی حد وجود ندارد.در فایل شما از دو دنباله هوشمندانه استفاده شده است:مسیر اول (دنباله ):
+ما می‌دانیم در نقاطی مثل برابر با ۱ است.
+پس دنباله را طوری می‌سازیم که وقتی معکوس شد ()، دقیقاً روی این قله‌ها بیفتد: وقتی ، مخرج بزرگ می‌شود، پس (شرط حد رعایت شد).
+اما مقدار تابع: .
+مسیر دوم (دنباله ):
+ما می‌دانیم در نقاطی مثل برابر با است.
+پس دنباله را برای هدف قرار دادن این نقاط می‌سازیم: باز هم وقتی ، کسر کوچک می‌شود و .
+اما مقدار تابع: .
+از آنجا که:
+ما از دو مسیر مختلف به نزدیک شدیم ( و ).
+در مسیر اول تابع عدد ۱ را نشان داد.
+در مسیر دوم تابع عدد ۰.۵ را نشان داد.
+چون ، پس تابع نمی‌تواند تصمیم بگیرد به چه عددی نزدیک شود. بنابراین حد وجود ندارد.آیا مایل هستید یک مثال دیگر از عدم وجود حد (مثلاً تابع علامت یا ) را با همین روش بررسی کنیم تا موضوع کاملاً جا بیفتد؟]]></description><link>05-questions/ai/اثبات-عدم-وجود-حد-با-ملاک-دنباله‌ای.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/05 Questions/AI/اثبات عدم وجود حد با ملاک دنباله‌ای.md</guid><pubDate>Thu, 04 Dec 2025 17:06:07 GMT</pubDate></item><item><title><![CDATA[یک‌شنبه هفته چهارم]]></title><description><![CDATA[مسأله: بررسی کنید که تابعدر صفر پیوسته است؟و:پس تابع پیوسته نیست.قضیه ساندویچ (افشردگی)
 فرض کنید برای هر داشته باشیم:
 اگر:و(اگر بخوایم پیوستگی هم بررسی کنیم باید: )
 در این صورت:فرض‌ها:
@@ -147,11 +1048,11 @@
 حد بخش دوم:
 ۶. ترکیب نتایج:
 در نهایت، نتایج به دست آمده از دو بخش را در هم ضرب می‌کنیم:جواب نهایی:
-مشخصات تابع :و برای هر :<img alt="نمودار-نپر-لگاریتم-معکوس.jpg" src="04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">این تابع یک به یک و در نتیجه وارون پذیر است. وارون آن را با بصورت زیر نشان میدهیم:]]></description><link>99-archive/یک‌شنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/یک‌شنبه هفته چهارم.md</guid><pubDate>Wed, 03 Dec 2025 16:26:25 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[پارامتری-دایره-و-هذلولی]]></title><description><![CDATA[خلاصه سریع
+مشخصات تابع :و برای هر :<img alt="نمودار-نپر-لگاریتم-معکوس.jpg" src="04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">این تابع یک به یک و در نتیجه وارون پذیر است. وارون آن را با بصورت زیر نشان میدهیم:]]></description><link>99-archive/یک‌شنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/یک‌شنبه هفته چهارم.md</guid><pubDate>Wed, 03 Dec 2025 16:26:25 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[پارامتری-دایره-و-هذلولی]]></title><description><![CDATA[خلاصه سریع
 همانطور که نقاط روی دایره را تولید می‌کنند، نقاط روی هذلولی را می‌سازند.
 <img alt="circle.jpg" src="04-sources/pictures/plots/circle.jpg" target="_self"><br><img alt="هذلولی.jpg" src="04-sources/pictures/plots/هذلولی.jpg" target="_self">به جای رابطه مستقیم و (نمایش دکارتی)، هر دو را تابعی از یک پارامتر سوم در نظر می‌گیریم: .این جدول دلیل نامگذاری توابع "هایپربولیک" را نشان می‌دهد:نتیجه‌گیری
 توابع هایپربولیک ابزار طبیعی برای کار با منحنی‌های هذلولی هستند، درست مثل توابع مثلثاتی برای دایره.
-]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/پارامتری-دایره-و-هذلولی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/پارامتری-دایره-و-هذلولی.md</guid><pubDate>Wed, 03 Dec 2025 16:25:18 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[پنجشنبه هفته چهارم]]></title><description><![CDATA[در ریاضیات، ما می‌توانیم یک منحنی را به دو روش اصلی توصیف کنیم:
+]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/پارامتری-دایره-و-هذلولی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/پارامتری-دایره-و-هذلولی.md</guid><pubDate>Wed, 03 Dec 2025 16:25:18 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[پنجشنبه هفته چهارم]]></title><description><![CDATA[در ریاضیات، ما می‌توانیم یک منحنی را به دو روش اصلی توصیف کنیم:
 ارائه کاری (Cartesian): این روش یک رابطه مستقیم بین مختصات و برقرار می‌کند. مثال: (دایره) ارائه پارامتری (Parametric): در این روش، و هر دو به عنوان تابعی از یک متغیر سوم (پارامتر) به نام تعریف می‌شوند. این اغلب به صورت یک بردار موقعیت نوشته می‌شود. هدف اصلی این درس، مقایسه نحوه پارامتری کردن دو منحنی مهم (دایره و هذلولی) و معرفی ابزارهای مورد نیاز برای هر کدام است.<img alt="circle.jpg" src="04-sources/pictures/plots/circle.jpg" target="_self">
 معادله کاری (دکارتی): (در مثال استاد: ، پس )
 معادله پارامتری: چرا این درست است؟
@@ -171,7 +1072,7 @@
 بخش زوج: بخش فرد: حالا این قانون را برای (که نه زوج است و نه فرد) اعمال می‌کنیم: بخش زوج :
 (این دقیقاً تعریف cosh(x) است.) بخش فرد :
 (این دقیقاً تعریف sinh(x) است.) نتیجه‌گیری:توابع و صرفاً توابعی تصادفی نیستند، بلکه آن‌ها اجزای سازنده (بخش‌های زوج و فرد) خودِ تابع نمایی هستند.هدف: پیدا کردن تابع معکوس .ما به دنبال هستیم، که معمولاً به آن یا (ارک سینوس هایپربولیک) گفته می‌شود.فرایند اثبات (روش جبری):۱. شروع با : تابع را می‌نویسیم و هدفمان این است که را بر حسب پیدا کنیم.۲. استفاده از تعریف: تعریف بر اساس را جایگذاری می‌کنیم.۳. حذف مخرج: طرفین را در 2 ضرب می‌کنیم.۴. حذف با توان منفی: این مرحله کلیدی است. برای حذف ، کل معادله را در ضرب می‌کنیم:۵. ایجاد معادله درجه دو: همه عبارات را به یک سمت می‌بریم تا یک معادله درجه دو بر حسب بسازیم.۶. تغییر متغیر: برای سادگی، را در نظر می‌گیریم. (توجه کنید که باید همیشه مثبت باشد، ).۷. حل معادله درجه دو: از فرمول (روش کلی حل معادله درجه دو) برای پیدا کردن استفاده می‌کنیم (, , ).۸. ساده‌سازی: از 4 زیر رادیکال فاکتور می‌گیریم.۹. بازگرداندن :۱۰. تحلیل ریشه‌ها (مرحله بسیار مهم):ما دو جواب به دست آوردیم، اما همیشه باید مثبت باشد ().
-بررسی ریشه : توجه کنید که همیشه از (یعنی ) بزرگتر است. جواب اول (): . از آنجایی که ، این عبارت همیشه مثبت است. (این جواب قابل قبول است). جواب دوم ($- $): . از آنجایی که است، این عبارت همیشه منفی است. (این جواب مردود است، زیرا نمی‌تواند منفی باشد). ۱۱. حل نهایی برای : تنها جواب معتبر را نگه می‌داریم:از طرفین لگاریتم طبیعی (ln) می‌گیریم تا را به دست آوریم:۱۲. نوشتن فرمول نهایی:ما را بر حسب پیدا کردیم، که همان است.طبق قرارداد، متغیر تابع معکوس را می‌نامیم:نتیجه:هدف: اثبات اینکه یک تابع فرد است.یک تابع فرد است اگر به ازای تمام ها در دامنه‌اش، باشد.فرایند اثبات:۱. شروع با : ما را در نظر می‌گیریم و را محاسبه می‌کنیم.۲. استفاده از فرمول لگاریتمی: فرمولی که در بخش قبل به دست آوردیم را جایگذاری می‌کنیم:حالا را با جایگزین می‌کنیم:۳. مرحله کلیدی (ضرب در مزدوج): برای ساده‌سازی عبارت داخل لگاریتم، آن را در مزدوج صورتش ضرب و تقسیم می‌کنیم (این کار عبارت را "گویا" می‌کند).۴. ساده‌سازی صورت: صورت کسر یک اتحاد مزدوج است: صورت: ۵. جایگذاری نتیجه:۶. استفاده از قوانین لگاریتم: از قانون استفاده می‌کنیم.۷. جایگذاری نهایی: عبارتی که باقی مانده است، دقیقاً تعریف است.نتیجه:از آنجایی که ، ثابت می‌شود که تابع یک تابع فرد است و نمودار آن نسبت به مبدأ مختصات تقارن دارد.مشتق کسینوس و سینوس هایپربولیک ایکس را بدست آورید:جای نقطه چین، تعاریفشون رو بذار و به راحتی اثبات میشه.(حد از نوع ) تنظیم و : محاسبه حد : (حد از نوع است، از قاعده هوپیتال استفاده می‌کنیم) اعمال قاعده هوپیتال: جایگذاری : نتیجه نهایی: ]]></description><link>99-archive/پنجشنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/پنجشنبه هفته چهارم.md</guid><pubDate>Wed, 03 Dec 2025 16:22:21 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته پنجم]]></title><description><![CDATA[<img alt="Rolle.jpg" src="04-sources/pictures/notes/rolle.jpg" target="_self">اگر تابعی شرایط خاصی را داشته باشد، حداقل یک نقطه وجود دارد که شیب خط مماس در آن نقطه برابر صفر (موازی محور ها) باشد.قضیه رول
+بررسی ریشه : توجه کنید که همیشه از (یعنی ) بزرگتر است. جواب اول (): . از آنجایی که ، این عبارت همیشه مثبت است. (این جواب قابل قبول است). جواب دوم ($- $): . از آنجایی که است، این عبارت همیشه منفی است. (این جواب مردود است، زیرا نمی‌تواند منفی باشد). ۱۱. حل نهایی برای : تنها جواب معتبر را نگه می‌داریم:از طرفین لگاریتم طبیعی (ln) می‌گیریم تا را به دست آوریم:۱۲. نوشتن فرمول نهایی:ما را بر حسب پیدا کردیم، که همان است.طبق قرارداد، متغیر تابع معکوس را می‌نامیم:نتیجه:هدف: اثبات اینکه یک تابع فرد است.یک تابع فرد است اگر به ازای تمام ها در دامنه‌اش، باشد.فرایند اثبات:۱. شروع با : ما را در نظر می‌گیریم و را محاسبه می‌کنیم.۲. استفاده از فرمول لگاریتمی: فرمولی که در بخش قبل به دست آوردیم را جایگذاری می‌کنیم:حالا را با جایگزین می‌کنیم:۳. مرحله کلیدی (ضرب در مزدوج): برای ساده‌سازی عبارت داخل لگاریتم، آن را در مزدوج صورتش ضرب و تقسیم می‌کنیم (این کار عبارت را "گویا" می‌کند).۴. ساده‌سازی صورت: صورت کسر یک اتحاد مزدوج است: صورت: ۵. جایگذاری نتیجه:۶. استفاده از قوانین لگاریتم: از قانون استفاده می‌کنیم.۷. جایگذاری نهایی: عبارتی که باقی مانده است، دقیقاً تعریف است.نتیجه:از آنجایی که ، ثابت می‌شود که تابع یک تابع فرد است و نمودار آن نسبت به مبدأ مختصات تقارن دارد.مشتق کسینوس و سینوس هایپربولیک ایکس را بدست آورید:جای نقطه چین، تعاریفشون رو بذار و به راحتی اثبات میشه.(حد از نوع ) تنظیم و : محاسبه حد : (حد از نوع است، از قاعده هوپیتال استفاده می‌کنیم) اعمال قاعده هوپیتال: جایگذاری : نتیجه نهایی: ]]></description><link>99-archive/پنجشنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/پنجشنبه هفته چهارم.md</guid><pubDate>Wed, 03 Dec 2025 16:22:21 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته پنجم]]></title><description><![CDATA[<img alt="Rolle.jpg" src="04-sources/pictures/notes/rolle.jpg" target="_self">اگر تابعی شرایط خاصی را داشته باشد، حداقل یک نقطه وجود دارد که شیب خط مماس در آن نقطه برابر صفر (موازی محور ها) باشد.قضیه رول
 فرض کنید تابع روی بازه تعریف شده باشد: روی بازه بسته پیوسته باشد.
 روی بازه باز مشتق‌پذیر باشد.
 مقادیر در دو سر بازه برابر باشند: . آنگاه حداقل یک عدد وجود دارد به طوری که: سوال: فرض کنید روی پیوسته و روی مشتق‌پذیر باشد. اگر ، ثابت کنید وجود دارد به طوری که:
@@ -221,133 +1122,21 @@
 چون :
 مقدار را جایگذاری می‌کنیم:
 چون است، مخرج کسر مثبت است. طرفین را در ضرب می‌کنیم:
-]]></description><link>99-archive/سه‌شنبه-هفته-پنجم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/سه‌شنبه هفته پنجم.md</guid><pubDate>Wed, 03 Dec 2025 16:20:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[قضیه-رول]]></title><description><![CDATA[خلاصه سریع
-اگر نمودار تابعی از یک ارتفاع شروع شود و در نهایت به همان ارتفاع برگردد (بدون پارگی و شکستگی)، حتماً جایی در مسیر وجود دارد که در آن لحظه تراز شده‌اید (شیب صفر).
-فرض کنید تابع سه شرط زیر را داشته باشد:
-روی بازه بسته پیوسته باشد.
-روی بازه باز مشتق‌پذیر باشد (نقطه تیز نداشته باشد).
-مقادیر در دو سر بازه برابر باشند: .
-در این صورت، حداقل یک عدد درون بازه وجود دارد که:نتیجه حداقل یک نقطه روی منحنی وجود دارد که خط مماس در آن نقطه، افقی (موازی محور ها) است.<img alt="Rolle.jpg" src="04-sources/pictures/notes/rolle.jpg" target="_self">]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/قضیه-رول.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/قضیه-رول.md</guid><pubDate>Wed, 03 Dec 2025 16:20:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[قضیه-مقدار-میانگین]]></title><description><![CDATA[خلاصه سریع
+]]></description><link>99-archive/سه‌شنبه-هفته-پنجم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/سه‌شنبه هفته پنجم.md</guid><pubDate>Wed, 03 Dec 2025 16:20:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[قضیه-مقدار-میانگین]]></title><description><![CDATA[خلاصه سریع
 اگر با ماشین از شهر A به B بروید و سرعت متوسط شما ۸۰ کیلومتر باشد، حتماً لحظه‌ای وجود داشته که عقربه سرعت‌سنج دقیقاً روی ۸۰ بوده است.
-اگر تابع روی پیوسته و روی مشتق‌پذیر باشد، حداقل یک وجود دارد که:فرمول نقطه‌ای روی نمودار هست که خط مماس در آن، با خط واصل دو سر بازه (Secant Line) موازی است.<img alt="MVT.jpg" src="04-sources/pictures/notes/mvt.jpg" target="_self">قضیه رول حالت خاصی از MVT است که در آن ، پس صورت کسر صفر شده و می‌شود.]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/قضیه-مقدار-میانگین.md</guid><pubDate>Wed, 03 Dec 2025 16:20:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[رفع-ابهام-های-سخت]]></title><description><![CDATA[استراتژی کلی
-هرگاه متغیر هم در پایه و هم در توان بود، فوراً لگاریتم بگیرید تا توان تبدیل به ضریب شود.
-حل:
-لگاریتم: . (ابهام ).
-هوپیتال: مشتق صورت () و مخرج ().
-جایگذاری: در صورت می‌شود و مخرج .
-نتیجه: .
-حل:
-لگاریتم: . (ابهام ).
-هوپیتال: .
-هم‌ارزی (نکته طلایی): در جمع توان‌ها، پایه بزرگتر () زورگو است! از آن فاکتور می‌گیریم. نتیجه: .
-]]></description><link>01-concepts/شنبه-هفته-ششم/رفع-ابهام-های-سخت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/رفع-ابهام-های-سخت.md</guid><pubDate>Wed, 03 Dec 2025 15:44:56 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-قضیه-کوشی]]></title><description><![CDATA[مقدار قضیه کوشی را برای توابع زیر در بازه بیابید:
-۱. محاسبه مقادیر دو سر بازه: سمت چپ فرمول: .
-۲. محاسبه مشتق‌ها: سمت راست فرمول: .
-۳. حل معادله:
-۴. ریشه‌یابی و انتخاب:
-ریشه‌های معادله درجه دو: .
-چون باید در بازه باشد، مقدار منفی رد می‌شود.
-جواب نهایی: .]]></description><link>01-concepts/شنبه-هفته-ششم/حل-مسئله-قضیه-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/حل-مسئله-قضیه-کوشی.md</guid><pubDate>Wed, 03 Dec 2025 15:43:37 GMT</pubDate></item><item><title><![CDATA[قضیه-مقدار-میانگین-کوشی]]></title><description><![CDATA[خلاصه سریع
+اگر تابع روی پیوسته و روی مشتق‌پذیر باشد، حداقل یک وجود دارد که:فرمول نقطه‌ای روی نمودار هست که خط مماس در آن، با خط واصل دو سر بازه (Secant Line) موازی است.<img alt="MVT.jpg" src="04-sources/pictures/notes/mvt.jpg" target="_self">قضیه رول حالت خاصی از MVT است که در آن ، پس صورت کسر صفر شده و می‌شود.]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/قضیه-مقدار-میانگین.md</guid><pubDate>Wed, 03 Dec 2025 16:20:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[قضیه-مقدار-میانگین-کوشی]]></title><description><![CDATA[خلاصه سریع
 این قضیه "پدر" قاعده هوپیتال و "برادر بزرگتر" MVT است. به جای یک تابع، آهنگ تغییرات دو تابع را نسبت به هم می‌سنجد.
 فرض کنید دو تابع و روی پیوسته و روی مشتق‌پذیر باشند و .
 در این صورت حداقل یک نقطه وجود دارد که:فرمول ارتباط با MVT: اگر باشد، مخرج کسر سمت چپ و مخرج سمت راست () می‌شود که همان <a data-href="قضیه-مقدار-میانگین" href="01-concepts/سه‌شنبه-هفته-پنجم/قضیه-مقدار-میانگین.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-مقدار-میانگین</a> است.
 ارتباط با هوپیتال: اثبات قاعده هوپیتال دقیقاً از همین کسر (با میل دادن ) بدست می‌آید.
-اگر حرکت یک ذره را به صورت پارامتری در نظر بگیریم، این قضیه می‌گوید لحظه‌ای وجود دارد که شیب مسیر لحظه‌ای () با شیب خط واصل ابتدا و انتها برابر است.]]></description><link>01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/قضیه-مقدار-میانگین-کوشی.md</guid><pubDate>Wed, 03 Dec 2025 15:40:55 GMT</pubDate></item><item><title><![CDATA[مسائل-پیشرفته-MVT]]></title><description><![CDATA[سوال: اگر ، ثابت کنید .اثبات:
-طبق MVT: .
-باید ماکزیمم را پیدا کنیم: از اتحاد نتیجه می‌شود یا .
-پس ضریب تغییرات حداکثر است. سوال: برای ثابت کنید .اثبات:
-تابع: روی .
-MVT:
-(دقت کنید ).
-تحلیل بازه:
-در بازه ، تابع نزولی و منفی است.
-چون : نتیجه:
-با جایگذاری و ضرب در مخرج مثبت ، حکم ثابت می‌شود. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/مسائل-پیشرفته-mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/مسائل-پیشرفته-MVT.md</guid><pubDate>Wed, 03 Dec 2025 15:36:44 GMT</pubDate></item><item><title><![CDATA[اثبات-نامساوی-با-MVT]]></title><description><![CDATA[الگو
-برای اثبات ، معمولاً باید عبارت وسط را به صورت ببینیم و از MVT برای تبدیل آن به استفاده کنیم.
-سوال: اگر ، ثابت کنید:
-حل گام‌به‌گام:
-۱. انتخاب تابع: شکل لگاریتمی مسئله ساده‌تر است. لگاریتم می‌گیریم: یا با چیدمان دیگر: پس تابع روی مناسب است.۲. اعمال MVT:
-۳. استفاده از نامساوی :
-چون ، معکوس آن‌ها:
-۴. جایگذاری: با ضرب در و مرتب‌سازی، به حکم مسئله می‌رسیم. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/اثبات-نامساوی-با-mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/اثبات-نامساوی-با-MVT.md</guid><pubDate>Wed, 03 Dec 2025 15:34:53 GMT</pubDate></item><item><title><![CDATA[توابع-کمکی-در-رول]]></title><description><![CDATA[استراتژی حل
-در مسائلی که می‌خواهند وجود یک با خاصیت عجیب را ثابت کنید، باید حکمی که داده‌اند را مهندسی معکوس کنید تا به تابع اولیه () برسید که مشتقش صفر شده است.
-صورت سوال: اگر ، ثابت کنید .راه حل تشریحی:
-مرتب‌سازی حکم: طرفین را در یا ضرب می‌کنیم تا شبیه مشتق حاصل‌ضرب شود.
-این عبارت دقیقاً مشتق است.
-تعریف تابع کمکی: .
-بررسی شرط:
-طبق فرض سوال این دو برابرند ().
-اعمال رول: پس که همان حکم مطلوب است. صورت سوال: اگر و ، ثابت کنید .راه حل تشریحی:
-مرتب‌سازی: همه را یک طرف می‌بریم:
-بخش اول مشتق است و بخش دوم مشتق .
-تعریف تابع کمکی: .
-بررسی شرط:
-پس .
-نتیجه: طبق رول مشتق این تابع در صفر است. ]]></description><link>01-concepts/سه‌شنبه-هفته-پنجم/توابع-کمکی-در-رول.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته پنجم/توابع-کمکی-در-رول.md</guid><pubDate>Wed, 03 Dec 2025 15:32:45 GMT</pubDate></item><item><title><![CDATA[مشتق-پارامتری]]></title><description><![CDATA[خلاصه سریع
-وقتی و با هم غریبه‌اند اما هر دو به یک نفر سوم () وصل هستند، برای پیدا کردن رابطه آن‌ها () باید واسطه () را حذف کنیم.
-اگر :Formula مشتق به :
-سوال: خط مماس بر منحنی زیر در :
-گام ۱: مختصات نقطه تماس
-نقطه .گام ۲: شیب خط ()
-گام ۳: معادله خط
-]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/مشتق-پارامتری.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/مشتق-پارامتری.md</guid><pubDate>Wed, 03 Dec 2025 15:24:53 GMT</pubDate></item><item><title><![CDATA[مشتق-ضمنی]]></title><description><![CDATA[خلاصه سریع
-وقتی نمی‌توانیم را تنها کنیم (مثلاً )، از فرمول مشتقات جزئی استفاده می‌کنیم.
-برای هر معادله به فرم :فرمول : مشتق نسبت به (فرض می‌کنیم عدد ثابت است).
-: مشتق نسبت به (فرض می‌کنیم عدد ثابت است). مثال ۱: مثلثاتی و نمایی
-معادله: محاسبه ( ثابت): محاسبه ( ثابت): نتیجه نهایی (): قرینه کسر بالا.
-مثال ۲: هایپربولیک
-معادله: سوال: خط مماس بر در نقطه .
-بررسی نقطه: (برقرار است ).
-محاسبه شیب (): معادله خط: ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/مشتق-ضمنی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/مشتق-ضمنی.md</guid><pubDate>Wed, 03 Dec 2025 15:23:42 GMT</pubDate></item><item><title><![CDATA[توابع-برداری]]></title><description><![CDATA[خلاصه سریع
-در توابع برداری ، تمام عملیات (حد، مشتق، انتگرال) به صورت مؤلفه‌ای (جداگانه برای و ) انجام می‌شود.
-برای محاسبه حد، کافیست حد هر مؤلفه را جداگانه بگیریم:
-مثال
-اگر باشد، حد در صفر: مؤلفه اول: مؤلفه دوم: نتیجه: مشتق بردار موقعیت، همان بردار سرعت است:
-مثال ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/توابع-برداری.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/توابع-برداری.md</guid><pubDate>Wed, 03 Dec 2025 15:22:54 GMT</pubDate></item><item><title><![CDATA[تقریب-خطی-و-دیفرانسیل]]></title><description><![CDATA[خلاصه سریع
-در تغییرات بسیار کوچک، نمودار خمیده تابع را می‌توان با "خط مماس" جایگزین کرد.
-فرمول کلیدی: برای تابع مشتق‌پذیر ، دیفرانسیل تقریبی از تغییرات واقعی تابع () است:
-برای تخمین مقدار تابع در همسایگی نقطه :فرمول مثال ۱: محاسبه رادیکال () تابع: نقطه مبنا (): ۱۶ (نزدیکترین عدد که جذر کامل دارد)
-تغییرات (): مشتق: محاسبه: مثال ۲: محاسبه ریشه سوم () تابع: نقطه مبنا: تغییرات: مشتق: محاسبه: ]]></description><link>01-concepts/شنبه-یکشنبه-هفته-پنجم/تقریب-خطی-و-دیفرانسیل.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه یکشنبه هفته پنجم/تقریب-خطی-و-دیفرانسیل.md</guid><pubDate>Wed, 03 Dec 2025 15:21:00 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-حد-پیچیده]]></title><description><![CDATA[حد زیر را محاسبه کنید:
-تحلیل: وقتی ، پرانتز به و توان به میل می‌کند. (حالت مبهم ).۱. لگاریتم‌گیری:
-(حالا ابهام به صورت است).۲. قاعده هوپیتال:
-از صورت و مخرج جداگانه مشتق می‌گیریم:
-مشتق مخرج (): مشتق صورت: صفر می‌شود. مشتق می‌شود . ۳. جایگذاری حد:
-۴. نتیجه نهایی:
-چون ، پس:
-]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/حل-مسئله-حد-پیچیده.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/حل-مسئله-حد-پیچیده.md</guid><pubDate>Wed, 03 Dec 2025 15:18:10 GMT</pubDate></item><item><title><![CDATA[مشتق-توابع-هایپربولیک]]></title><description><![CDATA[خلاصه
-بر خلاف مثلثات دایره‌ای که یک منفی ظاهر می‌شود ()، اینجا علامت‌ها مثبت می‌مانند.
-حکم: اثبات
-از تعریف استفاده می‌کنیم:
-مشتق می‌گیریم:
-این دقیقا تعریف است. حکم: اثبات
-مشتق می‌گیریم:
-این دقیقا تعریف است. یک اتحاد مهم دیگر (بدون اثبات در جزوه، جهت یادآوری):
-]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/مشتق-توابع-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/مشتق-توابع-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 15:15:06 GMT</pubDate></item><item><title><![CDATA[معکوس-سینوس-هایپربولیک]]></title><description><![CDATA[فرمول نهایی هدف یافتن بر حسب در معادله است. تعریف: ساخت معادله درجه ۲:
+اگر حرکت یک ذره را به صورت پارامتری در نظر بگیریم، این قضیه می‌گوید لحظه‌ای وجود دارد که شیب مسیر لحظه‌ای () با شیب خط واصل ابتدا و انتها برابر است.]]></description><link>01-concepts/شنبه-هفته-ششم/قضیه-مقدار-میانگین-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/شنبه هفته ششم/قضیه-مقدار-میانگین-کوشی.md</guid><pubDate>Wed, 03 Dec 2025 15:40:55 GMT</pubDate></item><item><title><![CDATA[معکوس-سینوس-هایپربولیک]]></title><description><![CDATA[فرمول نهایی هدف یافتن بر حسب در معادله است. تعریف: ساخت معادله درجه ۲:
 طرفین را در ضرب می‌کنیم: حل برای :
 این یک معادله درجه دوم بر حسب متغیر است ().
 طبق فرمول دلتا: انتخاب ریشه معتبر:
 چون همواره مثبت است: ریشه منفی () همواره منفی است (چون رادیکال از بزرگتر است). (غیرقابل قبول)
 ریشه مثبت () همواره مثبت است. (قابل قبول) نتیجه نهایی: می‌خواهیم ثابت کنیم .اثبات
 ضرب در مزدوج عبارت داخل پرانتز ():
-صورت کسر می‌شود : ]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/معکوس-سینوس-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/معکوس-سینوس-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 15:14:28 GMT</pubDate></item><item><title><![CDATA[اتحاد-اساسی-هایپربولیک]]></title><description><![CDATA[خلاصه سریع
-در مثلثات دایره‌ای داریم ، اما در دنیای هذلولی علامت وسط منفی است.
-برای هر عدد حقیقی :Theorem به جای به توان رساندن تک‌تک جملات، از سمت چپ تساوی و اتحاد مزدوج استفاده می‌کنیم.گام ۱: تجزیه عبارت گام ۲: محاسبه پرانتزها
-بیایید مجموع و تفاضل را جداگانه حساب کنیم: جمع: تفاضل: گام ۳: ضرب نهایی
-مقادیر را در رابطه گام ۱ جایگذاری می‌کنیم:
-طبق قانون ضرب توان‌ها (): ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/اتحاد-اساسی-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/اتحاد-اساسی-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 15:01:09 GMT</pubDate></item><item><title><![CDATA[معرفی-توابع-هایپربولیک]]></title><description><![CDATA[خلاصه سریع
-توابعی که از ترکیب تابع نمایی و ساخته می‌شوند و خواصی شبیه به توابع مثلثاتی دارند، اما روی هذلولی تعریف می‌شوند نه دایره.
-بر خلاف مثلثات عادی که هندسی تعریف می‌شوند، این‌ها جبری هستند:میانگین حسابی و :Formula نصف تفاضل و :Formula دقیقاً مشابه نسبت‌های مثلثاتی تعریف می‌شوند: ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/معرفی-توابع-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/معرفی-توابع-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 14:59:16 GMT</pubDate></item><item><title><![CDATA[زوج-و-فرد-بودن-هایپربولیک]]></title><description><![CDATA[حکم: اثبات
-طبق تعریف، را با جایگزین می‌کنیم:
-چون جمع خاصیت جابجایی دارد (): حکم: اثبات
-طبق تعریف:
-از یک منفی فاکتور می‌گیریم: ]]></description><link>01-concepts/سه‌شنبه-هفته-چهارم/زوج-و-فرد-بودن-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته چهارم/زوج-و-فرد-بودن-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 14:55:54 GMT</pubDate></item><item><title><![CDATA[رفع-ابهام-توان-دار]]></title><description><![CDATA[استراتژی
-متغیر در پایه و متغیر در توان، یعنی باید از لگاریتم استفاده کنیم تا توان پایین بیاید.
-برای محاسبه حد : لگاریتم بگیرید: رفع ابهام ضرب:
-حد بالا معمولاً به صورت می‌شود. آن را به کسر تبدیل کرده و هوپیتال بزنید. فرض کنید جواب نهایی این مرحله شود. بازگرداندن لگاریتم (مهمترین گام):
-تا اینجا را بدست آوردید. جواب نهایی حد برابر است با: حد (ابهام ):
-.
-حد (ابهام ): پس .
-]]></description><link>01-concepts/دوشنبه-هفته-چهارم/رفع-ابهام-توان-دار.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/رفع-ابهام-توان-دار.md</guid><pubDate>Wed, 03 Dec 2025 14:47:56 GMT</pubDate></item><item><title><![CDATA[قاعده-هوپیتال]]></title><description><![CDATA[هشدار جدی
+صورت کسر می‌شود : ]]></description><link>01-concepts/پنجشنبه-هفته-چهارم/معکوس-سینوس-هایپربولیک.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/پنجشنبه هفته چهارم/معکوس-سینوس-هایپربولیک.md</guid><pubDate>Wed, 03 Dec 2025 15:14:28 GMT</pubDate></item><item><title><![CDATA[قاعده-هوپیتال]]></title><description><![CDATA[هشدار جدی
 هوپیتال مشتق کسر () نیست! بلکه مشتق صورت جدا و مشتق مخرج جداست.
 فقط زمانی مجاز به استفاده هستید که تمام شرایط زیر برقرار باشد:
 حد به صورت کسری () باشد.
@@ -355,79 +1144,7 @@ MVT:
 توابع مشتق‌پذیر باشند.
 فرمول هوپیتال مستقیم روی این‌ها کار نمی‌کند و باید تبدیل شوند: ضرب ():
 یکی را معکوس کرده و به مخرج ببرید: تفریق ():
-مخرج مشترک بگیرید یا گویا کنید تا به کسر تبدیل شود. ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/قاعده-هوپیتال.md</guid><pubDate>Wed, 03 Dec 2025 14:46:27 GMT</pubDate></item><item><title><![CDATA[اثبات-مشتق-لگاریتم]]></title><description><![CDATA[خلاصه سریع
-مشتق لگاریتم طبیعی، معکوسِ آرگومان آن است. هدف محاسبه حد است.مراحل اثبات
-۱. قوانین لگاریتم:
-تفریق لگاریتم‌ها تبدیل به تقسیم می‌شود: ۲. توان‌رسانی:
-ضریب پشت لگاریتم به توان می‌رود: ۳. ساختن عدد :
-تغییر متغیر . پس . قاعده زنجیری: پایه دلخواه (): چون ، پس: ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-لگاریتم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/اثبات-مشتق-لگاریتم.md</guid><pubDate>Wed, 03 Dec 2025 14:44:50 GMT</pubDate></item><item><title><![CDATA[اثبات-مشتق-نمایی]]></title><description><![CDATA[خلاصه سریع
-تابع تنها تابعی است که آهنگ تغییراتش با مقدار خودش برابر است. هدف محاسبه حد است.مراحل اثبات
-۱. فاکتورگیری: ۲. تغییر متغیر:
-برای حل حد ، فرض می‌کنیم . وقتی ، .
-از طرفی .
-۳. استفاده از تعریف عدد :
-حد تبدیل می‌شود به:
-عبارت طبق تعریف به میل می‌کند. ۴. نتیجه نهایی: اگر تابعی از باشد:
-مثال ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/اثبات-مشتق-نمایی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/اثبات-مشتق-نمایی.md</guid><pubDate>Wed, 03 Dec 2025 14:43:56 GMT</pubDate></item><item><title><![CDATA[حد-یک-به-توان-بینهایت]]></title><description><![CDATA[فرمول طلایی برای حل حدهای توانی، هدف ما ساختن فرمت است.روش حل سریع:
-توان را بشکنید: توان (عدد ثابت) حدش ۱ می‌شود و بی‌اثر است.
-روی بخش تمرکز کنید.
-حد به صورت در می‌آید: روش حل:
-تجزیه اتحاد مزدوج: .
-]]></description><link>01-concepts/یکشنبه-هفته-چهارم/حد-یک-به-توان-بینهایت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/حد-یک-به-توان-بینهایت.md</guid><pubDate>Wed, 03 Dec 2025 14:28:41 GMT</pubDate></item><item><title><![CDATA[تعریف-دقیق-مشتق]]></title><description><![CDATA[تابع در نقطه دارای مشتق است اگر حد زیر وجود داشته باشد:تعریف مشتق دارای مشتق (Has Derivative): حد بالا وجود داشته باشد (حتی اگر باشد).
-مشتق‌پذیر (Differentiable): حد بالا وجود داشته باشد و متناهی باشد ().
-مثال نقض: مماس قائم
-تابع در :
-نتیجه: تابع در این نقطه مشتق دارد (مماس قائم)، اما مشتق‌پذیر نیست (چون شیب بی‌نهایت عدد حقیقی نیست).
-]]></description><link>01-concepts/یکشنبه-هفته-چهارم/تعریف-دقیق-مشتق.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/تعریف-دقیق-مشتق.md</guid><pubDate>Wed, 03 Dec 2025 14:25:41 GMT</pubDate></item><item><title><![CDATA[قضیه-فشردگی]]></title><description><![CDATA[خلاصه سریع
-اگر تابعی بین دو تابع دیگر گیر کرده باشد و آن دو تابع به یک عدد میل کنند، تابع وسطی هم مجبور است به همان عدد میل کند.
-اگر برای تمام ها در نزدیکی داشته باشیم:
-و بدانیم ، آنگاه:
-مراحل اثبات برای : چون حدش است، پس در فاصله داریم: .
-برای : چون حدش است، پس در فاصله داریم: .
-کلید اثبات: انتخاب .
-در این فاصله مشترک: حد :
-کران سینوس: .
-ضرب در (یا برای دقت): .
-حد طرفین صفر است، پس حد وسط هم صفر است.
-]]></description><link>01-concepts/یکشنبه-هفته-چهارم/قضیه-فشردگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/قضیه-فشردگی.md</guid><pubDate>Wed, 03 Dec 2025 14:24:57 GMT</pubDate></item><item><title><![CDATA[عدم-وجود-حد-سینوس]]></title><description><![CDATA[خلاصه سریع
-برای اثبات اینکه تابعی حد ندارد، کافیست دو دنباله پیدا کنیم که به یک نقطه بروند، اما تابع روی آن‌ها مقادیر متفاوتی بدهد.
-آیا تابع زیر در پیوسته است (حد دارد)؟
-از دو دنباله متفاوت که هر دو به میل می‌کنند استفاده می‌کنیم: دنباله اول (): نقاطی که سینوس را می‌کنند. دنباله دوم (): نقاطی که سینوس را یا مقدار دیگری می‌کنند (در جزوه مثال خاصی زده شده): نتیجه
-چون ، حد تابع در صفر وجود ندارد. پس تابع ناپیوسته است.
-]]></description><link>01-concepts/یکشنبه-هفته-چهارم/عدم-وجود-حد-سینوس.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته چهارم/عدم-وجود-حد-سینوس.md</guid><pubDate>Wed, 03 Dec 2025 14:23:47 GMT</pubDate></item><item><title><![CDATA[قضیه-همگرایی-زیردنباله]]></title><description><![CDATA[صورت قضیه
-یک دنباله همگراست اگر و تنها اگر تمام زیردنباله‌های آن همگرا باشند (و به همان حد میل کنند).
-فرض: همه زیردنباله‌ها همگرا هستند.
-حکم: خود دنباله همگراست.
-اثبات: خود دنباله ، یک زیردنباله از خودش است (با انتخاب ). پس طبق فرض، همگراست. فرض: دنباله اصلی به همگراست ().
-حکم: هر زیردنباله دلخواه نیز به همگراست.مراحل اثبات دقیق
-۱. استفاده از تعریف حد برای :
-چون ، برای هر ، یک وجود دارد که: ۲. ویژگی اندیس‌ها:
-می‌دانیم صعودی اکید است، پس همواره .
-اگر باشد، نتیجه می‌گیریم .
-۳. ترکیب:
-فرض کنیم .
-اندیس را در نظر بگیرید. چون است، می‌توانیم آن را در رابطه جایگذاری کنیم: ۴. نتیجه:
-نشان دادیم .
-پس زیردنباله به میل می‌کند. از این قضیه معمولاً برای رد همگرایی استفاده می‌شود:
-اگر بتوانیم دو زیردنباله پیدا کنیم که به حدهای متفاوتی بروند (مثلاً یکی به و دیگری به )، دنباله اصلی واگراست.]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/قضیه-همگرایی-زیردنباله.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/قضیه-همگرایی-زیردنباله.md</guid><pubDate>Wed, 03 Dec 2025 14:17:50 GMT</pubDate></item><item><title><![CDATA[تعریف-زیردنباله]]></title><description><![CDATA[خلاصه سریع
-زیردنباله یعنی انتخاب تعدادی از جملات دنباله اصلی با حفظ ترتیب آن‌ها. (نمی‌توانیم به عقب برگردیم).
-فرض کنید یک دنباله باشد.
-یک تابع اکیداً صعودی از اعداد طبیعی به اعداد طبیعی در نظر می‌گیریم:
-به دنباله جدید یک زیردنباله از می‌گویند.چون صعودی اکید است () و دامنه آن اعداد طبیعی است، می‌توان با استقرا ثابت کرد:ویژگی مهم
-یعنی اندیس -امین جمله زیردنباله، همیشه جلوتر یا مساوی -امین جمله دنباله اصلی است. این ویژگی در اثبات‌های همگرایی کلیدی است.
-]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/تعریف-زیردنباله.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/تعریف-زیردنباله.md</guid><pubDate>Wed, 03 Dec 2025 14:17:02 GMT</pubDate></item><item><title><![CDATA[سوپریموم-و-اینفیموم]]></title><description><![CDATA[خلاصه سریع
-دقیق‌ترین و "تنگ‌ترین" کران‌های ممکن برای یک مجموعه. Sup: سقفِ چسبیده به مجموعه.
-Inf: کفِ چسبیده به مجموعه. اگر یک مجموعه از اعداد حقیقی باشد:کوچکترین کران بالا (Least Upper Bound - LUB).
-یعنی عددی مثل که:
-همه اعضای مجموعه از آن کوچکتر یا مساوی باشند ().
-هیچ عدد کوچکتری از نتواند کران بالا باشد.
-بزرگترین کران پایین (Greatest Lower Bound - GLB).
-یعنی عددی مثل که:
-همه اعضای مجموعه از آن بزرگتر یا مساوی باشند ().
-هیچ عدد بزرگتری از نتواند کران پایین باشد.
-تفاوت با Max و Min
-سوپریموم و اینفیموم لزومی ندارد عضو خود مجموعه باشند (مثل بازه که است اما در مجموعه نیست)، اما ماکزیمم و مینیمم حتماً باید عضو مجموعه باشند.
-]]></description><link>01-concepts/سه‌شنبه-هفته-سوم/سوپریموم-و-اینفیموم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/سه‌شنبه هفته سوم/سوپریموم-و-اینفیموم.md</guid><pubDate>Wed, 03 Dec 2025 14:14:37 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-دنباله-بازگشتی]]></title><description><![CDATA[دنباله‌ای با رابطه بازگشتی زیر تعریف شده است. ثابت کنید همگراست و حد آن را بیابید.
+مخرج مشترک بگیرید یا گویا کنید تا به کسر تبدیل شود. ]]></description><link>01-concepts/دوشنبه-هفته-چهارم/قاعده-هوپیتال.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته چهارم/قاعده-هوپیتال.md</guid><pubDate>Wed, 03 Dec 2025 14:46:27 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-دنباله-بازگشتی]]></title><description><![CDATA[دنباله‌ای با رابطه بازگشتی زیر تعریف شده است. ثابت کنید همگراست و حد آن را بیابید.
 حکم: مراحل اثبات پایه (): پس برقرار است. فرض استقرا: فرض می‌کنیم . گام استقرا: باید بسازیمش. طرفین فرض را به توان ۲ می‌رسانیم و بر ۲ تقسیم می‌کنیم:
 به طرفین ۱ واحد اضافه کرده و جذر می‌گیریم:
 طبق تعریف دنباله، این همان است. با نگاه به جملات اول () حدس می‌زنیم کران بالا باشد.
@@ -438,31 +1155,7 @@ Inf: کفِ چسبیده به مجموعه. اگر یک مجموعه از اعد
 فرض می‌کنیم .
 طبیعتاً نیز برقرار است.در رابطه اصلی جایگذاری می‌کنیم:
 چون جملات دنباله مثبت هستند ( و صعودی)، حد نمی‌تواند منفی باشد.
-پاسخ نهایی: .]]></description><link>01-concepts/دوشنبه-هفته-سوم/حل-مسئله-دنباله-بازگشتی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته سوم/حل-مسئله-دنباله-بازگشتی.md</guid><pubDate>Wed, 03 Dec 2025 14:11:27 GMT</pubDate></item><item><title><![CDATA[قضیه-همگرایی-یکنوا]]></title><description><![CDATA[خلاصه سریع
-اگر یک دنباله همواره در حال صعود باشد اما سقفی داشته باشد که نتواند از آن عبور کند، حتماً به یک عدد خاص گیر می‌کند (همگرا می‌شود).
-یک دنباله همگراست اگر و تنها اگر:
-یکنوا باشد (اکیداً صعودی یا اکیداً نزولی).
-کران‌دار باشد (محدود به یک عدد ).
-فرم ریاضی در دنباله‌هایی که با رابطه بازگشتی داده می‌شوند، برای یافتن حد ۳ مرحله داریم:
-اثبات یکنوایی: با استقرا نشان دهیم .
-اثبات کران‌داری: عددی مثل را حدس بزنیم و با استقرا نشان دهیم .
-محاسبه حد: حالا که وجود حد () تضمین شد، در رابطه بازگشتی جای و ، مقدار را قرار داده و معادله را حل می‌کنیم.
-]]></description><link>01-concepts/دوشنبه-هفته-سوم/قضیه-همگرایی-یکنوا.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته سوم/قضیه-همگرایی-یکنوا.md</guid><pubDate>Wed, 03 Dec 2025 14:09:52 GMT</pubDate></item><item><title><![CDATA[تابع-فرد]]></title><description><![CDATA[خلاصه سریع
-تابعی که نسبت به مبدأ مختصات تقارن دارد.
-تابع فرد است اگر برای هر در دامنه، نیز در دامنه باشد و:
-در حل معادله کوشی ()، فرد بودن تابع یک نتیجه مستقیم است:
-]]></description><link>01-concepts/یکشنبه-هفته-سوم/تابع-فرد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/تابع-فرد.md</guid><pubDate>Wed, 03 Dec 2025 13:52:12 GMT</pubDate></item><item><title><![CDATA[حل-کامل-معادله-کوشی]]></title><description><![CDATA[توابع را بیابید که در شرط زیر صدق کنند و پیوسته باشند:
-پاسخ: (که ).این اثبات کلاسیک در ۴ مرحله دامنه را گسترش می‌دهد: .با استقرای ریاضی نشان می‌دهیم .
-پایه: .
-حکم: .
-ابتدا ثابت می‌کنیم تابع فرد است:
-پس برای اعداد منفی هم خاصیت خطی برقرار است: .فرض کنیم یک عدد گویا باشد.
-از طرف دیگر طبق خاصیت قسمت اول:
-پس و با تقسیم بر :
-اگر قرار دهیم و باشد، داریم: برای هر گویا.برای تعمیم به اعداد حقیقی، پیوستگی الزامی است.
-برای هر عدد حقیقی ، دنباله‌ای از اعداد گویا وجود دارد که به میل می‌کند () [چگالی اعداد گویا].چون پیوسته است، حد جابجا می‌شود:
-چون گویاست، طبق مرحله ۳ داریم :
-نتیجه: برای تمام .]]></description><link>01-concepts/یکشنبه-هفته-سوم/حل-کامل-معادله-کوشی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/حل-کامل-معادله-کوشی.md</guid><pubDate>Wed, 03 Dec 2025 13:50:11 GMT</pubDate></item><item><title><![CDATA[معادله-کوشی-پیوستگی]]></title><description><![CDATA[خلاصه سریع
+پاسخ نهایی: .]]></description><link>01-concepts/دوشنبه-هفته-سوم/حل-مسئله-دنباله-بازگشتی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دوشنبه هفته سوم/حل-مسئله-دنباله-بازگشتی.md</guid><pubDate>Wed, 03 Dec 2025 14:11:27 GMT</pubDate></item><item><title><![CDATA[معادله-کوشی-پیوستگی]]></title><description><![CDATA[خلاصه سریع
 در معادله ، اگر تابع فقط در یک نقطه (مثلاً صفر) پیوسته باشد، پیوستگی به تمام نقاط دامنه سرایت می‌کند.
 حکم: اگر در پیوسته باشد، در هر نقطه دلخواه نیز پیوسته است.مراحل اثبات
 ۱. تغییر متغیر: فرض کنیم به میل می‌کند. متغیر را بصورت تعریف می‌کنیم.
@@ -471,70 +1164,19 @@ Inf: کفِ چسبیده به مجموعه. اگر یک مجموعه از اعد
 چون ثابت است، حدش خودش می‌شود. برای چون در صفر پیوسته است:
 از طرفی می‌دانیم (چون ).
 ۵. نتیجه:
-پس تابع در پیوسته است. ]]></description><link>01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/معادله-کوشی-پیوستگی.md</guid><pubDate>Wed, 03 Dec 2025 13:49:21 GMT</pubDate></item><item><title><![CDATA[منطق-اثبات-حد]]></title><description><![CDATA[دام منطقی
-در حل مسائل حد ()، روشی که روی کاغذ می‌نویسیم (از شروع می‌کنیم تا به برسیم) در واقع مسیر بازگشت است.
-از نظر منطق ریاضی، استفاده از حکم برای رسیدن به فرض غلط است!
-فرآیند استاندارد دو مرحله دارد:در این مرحله ما "فرض می‌کنیم" حکم درست است تا ببینیم چه ای مناسب است.
-در برگه امتحان یا مقالات، اثبات باید از شروع شود:
-فرض می‌کنیم داده شده است.
-ما را (که در مرحله قبل کشف کردیم) معرفی می‌کنیم.
-با فرض ، قدم به قدم جلو می‌رویم تا ثابت کنیم .
-]]></description><link>01-concepts/یکشنبه-هفته-سوم/منطق-اثبات-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/منطق-اثبات-حد.md</guid><pubDate>Wed, 03 Dec 2025 13:48:25 GMT</pubDate></item><item><title><![CDATA[تعریف-اپسیلونی-صفر]]></title><description><![CDATA[خلاصه سریع
-در آنالیز حقیقی، عددی که از هر عدد مثبت دلخواهی کوچکتر باشد (و منفی نباشد)، قطعاً صفر است.
-اگر یک عدد نامنفی باشد () و داشته باشیم:
-آنگاه نتیجه می‌گیریم:
-این مفهوم در اثبات یکتایی حد و همگرایی دنباله‌ها بسیار حیاتی است. وقتی ثابت می‌کنیم فاصله بین دو چیز () از هر کوچکتر است، در واقع ثابت کرده‌ایم که آن فاصله صفر است و .]]></description><link>01-concepts/یکشنبه-هفته-سوم/تعریف-اپسیلونی-صفر.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/تعریف-اپسیلونی-صفر.md</guid><pubDate>Wed, 03 Dec 2025 13:47:34 GMT</pubDate></item><item><title><![CDATA[حل-مسئله-نقطه-ثابت]]></title><description><![CDATA[فرض کنید تابع روی پیوسته باشد، و . ثابت کنید نقطه‌ای وجود دارد که .استراتژی
-هرگاه مسأله‌ای به فرم داشتیم، همه جملات را به یک طرف می‌بریم و یک تابع کمکی () تعریف می‌کنیم تا ریشه آن را بیابیم.
-گام ۱: تعریف تابع کمکی
-تابع جدید را تعریف می‌کنیم:
-چون و هر دو پیوسته هستند، تفاضل آن‌ها () نیز روی پیوسته است (شرط اول <a data-href="قضیه-مقدار-میانی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی.html" class="internal-link" target="_self" rel="noopener nofollow">قضیه-مقدار-میانی</a>).گام ۲: بررسی مقادیر مرزی
-مقدار را در دو سر بازه حساب می‌کنیم:
-در : در : گام ۳: نتیجه‌گیری
-چون پیوسته است و تغییر علامت داده است (از مثبت به منفی):
-طبق قضیه مقدار میانی، عددی مثل وجود دارد که .حکم ثابت شد. ]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/حل-مسئله-نقطه-ثابت.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/حل-مسئله-نقطه-ثابت.md</guid><pubDate>Wed, 03 Dec 2025 13:45:29 GMT</pubDate></item><item><title><![CDATA[قضیه-مقدار-میانی]]></title><description><![CDATA[خلاصه سریع
+پس تابع در پیوسته است. ]]></description><link>01-concepts/یکشنبه-هفته-سوم/معادله-کوشی-پیوستگی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/یکشنبه هفته سوم/معادله-کوشی-پیوستگی.md</guid><pubDate>Wed, 03 Dec 2025 13:49:21 GMT</pubDate></item><item><title><![CDATA[قضیه-مقدار-میانی]]></title><description><![CDATA[خلاصه سریع
 اگر یک تابع پیوسته از به برود، حتماً تمام مقادیر بین و را حداقل یک‌بار تجربه کرده است. (نمی‌تواند جهش کند).
 قضیه
 فرض کنید در بازه بسته پیوسته باشد.
 اگر عددی بین و باشد، آنگاه حداقل یک وجود دارد که: اگر نمودار را بدون برداشتن قلم رسم کنید، هر خط افقی که بین ارتفاع شروع و پایان باشد، نمودار را قطع می‌کند. اگر علامت تابع در دو سر بازه تغییر کند ()، با انتخاب ، قضیه تضمین می‌کند که معادله حداقل یک ریشه در بازه دارد.شرط یکتایی
 IVT فقط وجود ریشه را تضمین می‌کند. برای تضمین یکتایی، تابع باید علاوه بر پیوستگی، اکیداً یکنوا (صعودی یا نزولی) باشد.
-]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/قضیه-مقدار-میانی.md</guid><pubDate>Wed, 03 Dec 2025 13:44:03 GMT</pubDate></item><item><title><![CDATA[اثبات-یکتایی-حد]]></title><description><![CDATA[اگر دنباله همگرا باشد، حد آن یکتا است. (نمی‌تواند همزمان به دو عدد و میل کند).گام ۱: فرض خلف
-فرض می‌کنیم دنباله به دو حد متمایز و همگرا باشد ().
-گام ۲: تعریف همسایگی‌ها
-طبق تعریف همگرایی، برای هر دلخواه: برای : برای : فرض می‌کنیم تا هر دو شرط برقرار باشند.
-گام ۳: استفاده از <a data-href="نامساوی-مثلثی" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html" class="internal-link" target="_self" rel="noopener nofollow">نامساوی-مثلثی</a>
-فاصله بین دو حد فرضی را می‌سنجیم:
-با جایگذاری مقادیر گام ۲: گام ۴: نتیجه‌گیری
-رسیدیم به .
-فاصله ثابت بین دو عدد نمی‌تواند از هر عدد مثبت دلخواهی () کوچکتر باشد، مگر اینکه آن فاصله صفر باشد.
-تضاد با فرض خلف. پس حد یکتاست. ]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/اثبات-یکتایی-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/اثبات-یکتایی-حد.md</guid><pubDate>Wed, 03 Dec 2025 13:40:46 GMT</pubDate></item><item><title><![CDATA[دنباله-و-همگرایی]]></title><description><![CDATA[خلاصه سریع
-دنباله تابعی است با دامنه اعداد طبیعی (). همگرایی دنباله همان مفهوم حد است وقتی به بی‌نهایت می‌رود. دنباله: تابعی .
-کران‌داری: دنباله کراندار است اگر عددی مثل باشد که تمام جملات در بازه باشند.
-یکنوایی: صعودی: نزولی: دنباله به همگراست اگر:Theorem برای اثبات عدم وجود حد در توابع، از دنباله‌ها استفاده می‌کنیم.
-طبق قضیه هاینه، اگر بتوانیم دو دنباله متفاوت پیدا کنیم که هر دو به میل کنند اما خروجی تابع () به مقادیر متفاوتی برود، تابع در حد ندارد.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/دنباله-و-همگرایی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/دنباله-و-همگرایی.md</guid><pubDate>Wed, 03 Dec 2025 13:39:40 GMT</pubDate></item><item><title><![CDATA[پیوستگی-تابع]]></title><description><![CDATA[خلاصه سریع
-تابعی پیوسته است که حد آن با مقدار آن برابر باشد. به زبان ساده، نمودار آن پارگی یا پرش نداشته باشد.
-تابع در نقطه پیوسته است هرگاه:شرط پیوستگی به زبان منطق ():
-(تفاوت با حد: شرط حذف شده است).اگر پیوسته باشد، می‌توان حد را به درون تابع برد. این ویژگی کلیدی در حل حدود پیچیده است:
-توابع براکتی کاندیدای اصلی ناپیوستگی در نقاط صحیح هستند.مثال خاص: با اینکه کسر داخل به میل می‌کند، اما چون مخرج بزرگتر است، مقدار کسر همواره اندکی کمتر از ۱ است ().
-نکته: برای اطمینان از نزولی/صعودی بودن عبارت داخل، می‌توان از مشتق استفاده کرد.
-]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/پیوستگی-تابع.md</guid><pubDate>Wed, 03 Dec 2025 13:38:10 GMT</pubDate></item><item><title><![CDATA[تکنیک‌های-اثبات-حد]]></title><description><![CDATA[خلاصه سریع
+]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/قضیه-مقدار-میانی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/قضیه-مقدار-میانی.md</guid><pubDate>Wed, 03 Dec 2025 13:44:03 GMT</pubDate></item><item><title><![CDATA[تکنیک‌های-اثبات-حد]]></title><description><![CDATA[خلاصه سریع
 استراتژی اصلی در اثبات حد، یافتن رابطه‌ای بین و است تا بتوانیم مناسب را برحسب پیشنهاد دهیم.
 در توابع ، معمولاً نیازی به محدود کردن نیست و رابطه مستقیم است.مثال: انتخاب: وقتی یک عامل مزاحم مثل در تجزیه ظاهر می‌شود، باید آن را با فرض اولیه کراندار کنیم.مثال: تحلیل: فرض اولیه: (یک عدد دلخواه کوچک).
 یافتن کران: اگر باشد، آنگاه و در نتیجه .
 نتیجه: . انتخاب نهایی: در توابع کسری، خطر اصلی صفر شدن مخرج است. باید را طوری محدود کنیم که مخرج از صفر فاصله بگیرد (استفاده از کران پایین).دام آموزشی
 در مثال وقتی ، عامل ظاهر می‌شود. باید فرض کنیم تا تضمین شود و کسر "منفجر" نشود.
-]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/تکنیک‌های-اثبات-حد.md</guid><pubDate>Wed, 03 Dec 2025 13:37:28 GMT</pubDate></item><item><title><![CDATA[تعریف-دقیق-حد]]></title><description><![CDATA[خلاصه سریع
-حد به این معناست که برای هر فاصله خطای دلخواه () روی محور ، می‌توانیم یک فاصله () روی محور پیدا کنیم که تمام نقاط آن بازه را درون خطای مجاز نگه دارد.
-این تعریف یک بازی ریاضی است:
-چالشگر (): یک بازه بسیار کوچک دور عدد روی محور عرض‌ها انتخاب می‌کند.
-پاسخ‌دهنده (): باید یک شعاع همسایگی دور روی محور طول‌ها پیدا کند که تمام نقاط آن (به جز خود ) توسط تابع به درون بازه حریف پرتاب شوند.
-تابع در نقطه دارای حد است () اگر و تنها اگر:تعریف کوشی همسایگی محذوف (): این شرط یعنی خود نقطه هیچ اهمیتی ندارد. تابع حتی می‌تواند در تعریف نشده باشد.
-وابستگی: مقدار معمولاً تابعی از است (). هرچه کوچکتر شود، معمولاً نیز باید کوچکتر شود.
-اگر شرط "همسایگی محذوف" برداشته شود و مقدار حد برابر باشد، به تعریف <a data-href="پیوستگی-تابع" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/پیوستگی-تابع.html" class="internal-link" target="_self" rel="noopener nofollow">پیوستگی-تابع</a> می‌رسیم.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/تعریف-دقیق-حد.md</guid><pubDate>Wed, 03 Dec 2025 13:36:16 GMT</pubDate></item><item><title><![CDATA[نامساوی-مثلثی]]></title><description><![CDATA[خلاصه سریع
-قدرمطلق مجموع دو عدد، همواره کوچکتر یا مساوی مجموع قدرمطلق‌های آن‌هاست. این ابزار اصلی در اثبات‌های است.
-برای هر دو عدد حقیقی و :قضیه همچنین فرم تفاضلی آن (که در اثبات حد بسیار پرکاربرد است):
-یک فرم خاص و قوی‌تر که در کلاس مطرح شد (منسوب به سعادتی):ایده اثبات
-این رابطه از بسط نتیجه می‌شود که به نامساوی می‌رسیم. با اضافه کردن به طرفین، اتحاد کامل ساخته شده و جذر گرفته می‌شود.
-در اثبات‌های <a data-href="تعریف-دقیق-حد" href="01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تعریف-دقیق-حد.html" class="internal-link" target="_self" rel="noopener nofollow">تعریف-دقیق-حد</a>، معمولاً سعی می‌کنیم عبارت را با استفاده از نامساوی مثلثی به اجزای کوچکتری بشکنیم که بتوانیم آن‌ها را با کنترل کنیم.]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/نامساوی-مثلثی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/نامساوی-مثلثی.md</guid><pubDate>Wed, 03 Dec 2025 13:35:14 GMT</pubDate></item><item><title><![CDATA[دو هفته اول هوش مصنوعی]]></title><description><![CDATA[مشخصات درس
+]]></description><link>01-concepts/دو-هفته-اول-یکم-خلاصه-تر/تکنیک‌های-اثبات-حد.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/01 Concepts/دو هفته اول - یکم خلاصه تر/تکنیک‌های-اثبات-حد.md</guid><pubDate>Wed, 03 Dec 2025 13:37:28 GMT</pubDate></item><item><title><![CDATA[دو هفته اول هوش مصنوعی]]></title><description><![CDATA[مشخصات درس
 مبحث: مفاهیم پایه، تعریف حد ()، پیوستگی، دنباله‌ها و معادلات تابعی
 منابع: توماس، سیلورمن
 مسائل: ۷۰۷ فرامرزی (سوالات پایان ترم دانشگاه‌ها) برهان خلف: روشی برای اثبات که در آن فرض می‌کنیم حکم نادرست است تا به تناقض برسیم.
@@ -666,7 +1308,7 @@ IVT فقط وجود ریشه را تضمین می‌کند. برای تضمین 
 (نکته: مشتق برابر است با )در بی‌نهایت، پایه بزرگتر () غالب است. از فاکتور می‌گیریم (یا هم‌ارزی پرتوان):
 چون در بی‌نهایت به صفر میل می‌کند:
 بنابراین:
-]]></description><link>99-archive/شنبه-هفته-ششم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/شنبه هفته ششم.md</guid><pubDate>Sat, 22 Nov 2025 14:58:43 GMT</pubDate></item><item><title><![CDATA[MVT]]></title><description><![CDATA[<img src="04-sources/pictures/notes/mvt.jpg" target="_self">]]></description><link>04-sources/pictures/notes/mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Notes/MVT.jpg</guid><pubDate>Sat, 22 Nov 2025 14:42:25 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Rolle]]></title><description><![CDATA[<img src="04-sources/pictures/notes/rolle.jpg" target="_self">]]></description><link>04-sources/pictures/notes/rolle.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Notes/Rolle.jpg</guid><pubDate>Sat, 22 Nov 2025 14:39:30 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[یک‌شنبه دوشنبه هفته پنجم]]></title><description><![CDATA[برای تابع مشتق‌پذیر داریم:بنابراین فرمول دیفرانسیل برای تخمین مقدار تابع در نزدیکی یک نقطه به صورت زیر است:فرمول تقریب خطی همچنین رابطه دیفرانسیل به صورت زیر تعریف می‌شود:
+]]></description><link>99-archive/شنبه-هفته-ششم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/شنبه هفته ششم.md</guid><pubDate>Sat, 22 Nov 2025 14:58:43 GMT</pubDate></item><item><title><![CDATA[MVT]]></title><description><![CDATA[<img src="04-sources/pictures/notes/mvt.jpg" target="_self">]]></description><link>04-sources/pictures/notes/mvt.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Notes/MVT.jpg</guid><pubDate>Sat, 22 Nov 2025 14:42:25 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Rolle]]></title><description><![CDATA[<img src="04-sources/pictures/notes/rolle.jpg" target="_self">]]></description><link>04-sources/pictures/notes/rolle.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Notes/Rolle.jpg</guid><pubDate>Sat, 22 Nov 2025 14:39:30 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[یک‌شنبه دوشنبه هفته پنجم]]></title><description><![CDATA[برای تابع مشتق‌پذیر داریم:بنابراین فرمول دیفرانسیل برای تخمین مقدار تابع در نزدیکی یک نقطه به صورت زیر است:فرمول تقریب خطی همچنین رابطه دیفرانسیل به صورت زیر تعریف می‌شود:
 مثال: مثال ۱: مقدار تقریبی را به دست آورید.
 فرض می‌کنیم: نقطه مبنا: تغییرات: مثال ۲: مقدار تقریبی را به دست آورید.
 تابع: نقطه مبنا: تغییرات: مشتق تابع: برای تابع برداری حد و مشتق به صورت مؤلفه‌ای محاسبه می‌شود.حد:
@@ -681,7 +1323,7 @@ IVT فقط وجود ریشه را تضمین می‌کند. برای تضمین 
 نقطه تماس: ۲. پیدا کردن شیب خط مماس ():
 در نقطه :
 ۳. نوشتن معادله خط:
-]]></description><link>99-archive/یک‌شنبه-دوشنبه-هفته-پنجم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/یک‌شنبه دوشنبه هفته پنجم.md</guid><pubDate>Sat, 22 Nov 2025 14:36:38 GMT</pubDate></item><item><title><![CDATA[tanh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/tanh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/tanh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/tanh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:53 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[sinh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/sinh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/sinh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/sinh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:41 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[cosh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/cosh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/cosh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/cosh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[هذلولی]]></title><description><![CDATA[<img src="04-sources/pictures/plots/هذلولی.jpg" target="_self">]]></description><link>04-sources/pictures/plots/هذلولی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/هذلولی.jpg</guid><pubDate>Sun, 16 Nov 2025 13:47:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[circle]]></title><description><![CDATA[<img src="04-sources/pictures/plots/circle.jpg" target="_self">]]></description><link>04-sources/pictures/plots/circle.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/circle.jpg</guid><pubDate>Sun, 16 Nov 2025 13:47:13 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته چهارم]]></title><description><![CDATA[تعریف کسینوس هایپربولیک:اثبات: ثابت کنید تابع کسینوس هایپربولیک ایکس زوج می‌باشد:
+]]></description><link>99-archive/یک‌شنبه-دوشنبه-هفته-پنجم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/یک‌شنبه دوشنبه هفته پنجم.md</guid><pubDate>Sat, 22 Nov 2025 14:36:38 GMT</pubDate></item><item><title><![CDATA[tanh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/tanh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/tanh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/tanh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:53 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[sinh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/sinh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/sinh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/sinh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:41 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[cosh(x)]]></title><description><![CDATA[<img src="04-sources/pictures/plots/cosh(x).jpg" target="_self">]]></description><link>04-sources/pictures/plots/cosh(x).html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/cosh(x).jpg</guid><pubDate>Sun, 16 Nov 2025 14:03:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[هذلولی]]></title><description><![CDATA[<img src="04-sources/pictures/plots/هذلولی.jpg" target="_self">]]></description><link>04-sources/pictures/plots/هذلولی.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/هذلولی.jpg</guid><pubDate>Sun, 16 Nov 2025 13:47:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[circle]]></title><description><![CDATA[<img src="04-sources/pictures/plots/circle.jpg" target="_self">]]></description><link>04-sources/pictures/plots/circle.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/circle.jpg</guid><pubDate>Sun, 16 Nov 2025 13:47:13 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته چهارم]]></title><description><![CDATA[تعریف کسینوس هایپربولیک:اثبات: ثابت کنید تابع کسینوس هایپربولیک ایکس زوج می‌باشد:
 با تعریف بالا خودت اثباتش بکن، راحته.تعریف سینوس هایپربولیک:اثبات: ثابت کنید تابع سینوس هایپربولیک ایکس فرد می‌باشد:
 با تعریف بالا خودت اثباتش بکن، راحته.
 شرط فرد بودن:اثبات:از سمت چپ با اتحاد مزدوج گشروع کن و تعاریفشون رو بنویس، به راحتی اثبات میشود
@@ -709,7 +1351,7 @@ IVT فقط وجود ریشه را تضمین می‌کند. برای تضمین 
 استفاده زمانی که حد مشتق وجود ندارد: اگر وجود نداشته باشد، شما نمی‌توانید نتیجه بگیرید که حد اصلی هم وجود ندارد. این فقط بدان معناست که قاعده هوپیتال در این مورد کار نمی‌کند و باید از روش دیگری (مثل هم‌ارزی یا تیلور) استفاده کنید.
 قاعده هوپیتال می‌گوید:این تساوی برقرار است اگر حد سمت راست (حد مشتق‌ها) یکی از سه حالت زیر باشد:یک عدد متناهی (که عضوی از است). (مثبت بی‌نهایت) (منفی بی‌نهایت)به عبارت دیگر، "وجود داشتن" حد در این context، هم شامل اعداد حقیقی () و هم شامل می‌شود.
 مثال:
-حد عبارت زیر را بدست آورید:با قاعده هوپیتال راحت حل میشه، ولی قبلش به فرم مثبت بی‌نهایت به روی مثبت بی‌نهایت برسونش بعد هوپ بزن.]]></description><link>99-archive/دوشنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/دوشنبه هفته چهارم.md</guid><pubDate>Sun, 16 Nov 2025 12:57:17 GMT</pubDate></item><item><title><![CDATA[نمودار-نپر-لگاریتم-معکوس]]></title><description><![CDATA[<img src="04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">]]></description><link>04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/نمودار-نپر-لگاریتم-معکوس.jpg</guid><pubDate>Mon, 10 Nov 2025 03:27:47 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته سوم]]></title><description><![CDATA[
+حد عبارت زیر را بدست آورید:با قاعده هوپیتال راحت حل میشه، ولی قبلش به فرم مثبت بی‌نهایت به روی مثبت بی‌نهایت برسونش بعد هوپ بزن.]]></description><link>99-archive/دوشنبه-هفته-چهارم.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/99 Archive/دوشنبه هفته چهارم.md</guid><pubDate>Sun, 16 Nov 2025 12:57:17 GMT</pubDate></item><item><title><![CDATA[نمودار-نپر-لگاریتم-معکوس]]></title><description><![CDATA[<img src="04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.jpg" target="_self">]]></description><link>04-sources/pictures/plots/نمودار-نپر-لگاریتم-معکوس.html</link><guid isPermaLink="false">jozve/ریاضی 1/math-freamwork/04 Sources/Pictures/Plots/نمودار-نپر-لگاریتم-معکوس.jpg</guid><pubDate>Mon, 10 Nov 2025 03:27:47 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[سه‌شنبه هفته سوم]]></title><description><![CDATA[
 سوپریموم (Supremum): کوچکترین کران بالا (Least Upper Bound یا LUB). اینفیموم (Infimum): بزرگترین کران پایین (Greatest Lower Bound یا GLB).
 روند تدریس: حد، مشتق، انتگرال، اگر وقت داشت اعداد مختلطتعریف زیردنباله:
 برای دنباله تابع :که صعودی اکید است را در نظر می‌گیریم:
